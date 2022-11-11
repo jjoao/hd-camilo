@@ -1,0 +1,541 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tei.2>
+	<teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    Ribaltas e Gambiarras Nº07
+                </title>
+                <respStmt>
+                    <resp>editada por</resp>
+                    <name>Henrique Arantes</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                	REDACTOR: Delfim de Noronha
+                	GERENTE: Henrique Zeferino
+                	Typ. de Christovão A. Rodrigues — Rua do Norte, 145,1º
+                </publisher>
+                <pubPlace where='Lisboa, Portugal'>LISBOA
+                </pubPlace>
+                <date when='1881-02-12'>12 DE FEVEREIRO DE 1881 
+                </date>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl>Revista Semanal Ribaltas e Gambiarras 1ª SERIE NUMERO 7</bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+<div style="color: lightgrey;"> 
+	<cb n="1" style="display: block;" />
+	<h2>CHRONICA ALEGRE</h2>
+    <p>Lisboa está saindo inteiramente das tradições rotineiras que à
+        <lb style="display: block;" />assignalavam entre as cidades que mais dormem e menos vivem.
+    </p>
+    <p>Os seus salões, esses poucos que clla possuia, para não perder
+        <lb style="display: block;" />completamente os foros e regalias inherentes a uma cabeca de co<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />marca que domicilia uma córte, com o seu respectivo throno, manto
+        <lb style="display: block;" />e sceptro, salões que se pareciam com os pequeninos cofres de sandalo,
+        <lb style="display: block;" />estofados de setim azul, perfumados de benjoim, que os teões da Ila<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />vaneza, de risca apartada ao meio e bigode encalamistrado, olfere<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />cem gentilmente às formosas mundanas de olhar velludoso e labios
+        <lb style="display: block;" />escarlates e humidos como um morango maduro, e que ellas conser<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />vam preciosamente e hermelticamente fechados, não perturbando já<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />mais o sagrado mysterio da pocira veneravel que dorme no fundo
+        <lb style="display: block;" />molle do setim capitonado… a não ser quando resolvem mandal-os para
+        <lb style="display: block;" />o <i>prego</i>. Os salões, sacudiram o pó, correram os reposteiros e receberam
+        <lb style="display: block;" />de bracos abertos, com muitas luzes e outras tantas flores, essa boa
+        <lb style="display: block;" />rapariga vaporosa e fascinadora que se chama <i>Walsa</i>.
+    </p>
+    <p>Pela mais singular e divertida das antitheses, á mesma hora c
+        <lb style="display: block;" />na mesma occasião em que a parisiense resolveu sacrificar Straus
+        <lb style="display: block;" />(o Straus musico, nada de enganos…), em holocausto ao Vaticano,
+        <lb style="display: block;" />deliberando transferir o capital que costumava ser absorvido pelos
+        <lb style="display: block;" />bailes e correlativamente pela modista, pelo cabelleireiro e outras in<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />dustrias identicas que floresceem, à sombra do <i>cotillon</i>, a compra
+        <lb style="display: block;" />humanitaria de uma alcatifa destinada a amaciar o chão aspero e
+        <lb style="display: block;" />pedregoso do exilio, ao longo do qual caminham lugubremente os
+        <lb style="display: block;" />padres e as irmãs de caridade; — positivamente á mesma hora, a
+        <lb style="display: block;" />lishbonense, não sentindo a suggestão heroica e a abnegação indispensa<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />vel para renegar os seus jubilos choregraphicos a beneficio das suas
+        <lb style="display: block;" />predilecções devotas, abandona-se ao turbilhão da walsa que a en<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />volve nas suas espiraes luminosas, e em vez de chorar lagrimas
+        <lb style="display: block;" />quentes sobre a expulsão dos jesuitas, engole gelados de baunilha.
+    </p>
+    <p>Os bailes teem, além de tudo, uma transcendente significação…
+        <lb style="display: block;" />para os nossos estomagos.
+    </p>
+    <p>Se não fossem elles, a cêa, o ideal da alimentação, o repasto
+        <lb style="display: block;" />clegante, à unica hora em que o appetite em vez de ser um ins<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />linclo era uma sensação, parecendo brotar dos copos c dos pra<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />tos uma alegria franca e communicativa, que não se parecia de
+        <lb style="display: block;" />nenhuma fórma com a alegria somnolenta do almoço ou com o jubilo
+        <lb style="display: block;" />ceremonioso do jantar, deixaria de existir. Sim, se não fosse o baile
+        <lb style="display: block;" />a cêa desappareceria completamente da face da terra.
+    </p>
+    <p>A Revolução que aboliu todos os privilegios fidalgos aniquiltou
+        <lb style="display: block;" />barbaramente a aristocracia do garfo: a mesma inexoravel democra<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />cia que condemnou as casacas bordadas e os pergaminhos pocirentos,
+        <lb style="display: block;" />supprimiu as cêas pantagruelicas, abundantes de finas iguarias e de
+        <lb style="display: block;" />vinhos exquisitos.
+    </p>
+    <p>Foi então que John Bull, aproveitando, como velha raposa ma<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />treira, o ensejo opportuno, inundou-nos de fracs, de biftecks e de
+        <lb style="display: block;" />batatas.
+    </p>
+    <p>Os jantares opulentos, as ceias faustosas que absorviam fortu<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />nas e faziam a reputação de um cozinheiro, deixaram de ser um
+        <lb style="display: block;" />farlo e passaram a ser uma tradição inverosimil,
+    </p>
+    <p>Os célebres versos de Casimiro Delavigne :
+    <lg style="display: block;" /><i>Tout se fait en dinant dans le siêcle ot nous sommes,</i>
+    <lg style="display: block; margin-left: ;" /><i>El c'est par les diners quon gouverne les hommes.</i>
+
+   <lb style="display: block;" />não teem hoje a menor significação.</p>
+    <p>À influencia dos estomagos nos espiritos, realisada por meio de
+        <lb style="display: block;" />uma alimentação cscolhida, sabiamente administrada, em que a
+        <lb style="display: block;" />qualidade subordine a quantidade, descura-a lotalmente o homem
+        <cb n="2" style="display: block;" />moderno que fez da celeridade, que amplia as horas e do positivis<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />mo que alugenta o devaneio, as duas grandes molas da sua exis<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />lencia.
+    </p>
+    <lb style="display: block;" />A gastronomia deixou pois de ser uma arte desde que a collo<pc force="inter" style="display: unset">-</pc>
+    <lb style="display: block;" />caram unicamente ao servico de uma necessidade material.
+    <p>A fama dos banquetes homericos que descobriam gloriosamente,
+        <lb style="display: block;" />de eada vez que as taças espumavam o falerno balsamico, uma nova
+        <lb style="display: block;" />iguaria, como Colombo descobriu a America, dorme hoje na mesma
+        <lb style="display: block;" />penumbra onde se esfumam os contos de fadas que embalaram a
+        <lb style="display: block;" />nossa infancia.
+    </p>
+    <p>Champfort dizia uma vcz alludindo de Revyniére, um usurario que
+        <lb style="display: block;" />devorava juros escandalosos em troca dos opiparos jJantares devora<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />dos pelos seus convidados: <i>«On mange la Reyniêre, mais on ne le
+        <lb style="display: block;" />digere pas.»</i>
+    </p>
+    <p>Quem comprehenderia hoje esta phrase suggerida pelo estomago
+        <lb style="display: block;" />e sublinhada pela <i>verve</i> gauleza ?
+    </p>
+    <lb style="display: block;" />Oh ! Brillat-Savarin, decididamente tu foste o ultimo gastronomo.
+    <h5 style="text-align: center"> ✽
+        <br />✽ ✽
+        <br />AO «SECULO»</h5>
+    <lb style="display: block;" />Resentido, não, collega, triste, triste é que foi!
+    <p>Para o <i>Seculo</i>, periodico, acredito de boa sombra que <i>Elle</i>
+        <lb style="display: block;" />seja o primeiro deputado portuguez.
+    </p>
+    <p>Como affivrmação subjectiva não contesto, por isso que res<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />peilo lodas às convicções: como imposição collectiva. .. limito-me
+        <lb style="display: block;" />a responder, <i>sans rancune</i>, com um sorriso descrente que não exclue
+        <lb style="display: block;" />um <i>shake-hands</i> de boa e leal camaradagem.
+    </p>
+    <lb style="display: block;" /><i>C'est selon...</i>
+    <author style="font-variant: small-caps; text-align: right;">Delphin de Noronha.</author>
+</div>
+<div style="color: darkblue;">
+	<h2>QUESTÃO LITTERARIA</h2>
+    <h3>O sr. Camillo Castello Branco
+        <br />e a «Corja»</h3>
+    <p>Desinfectada a grandes doses de cal virgem das immundices que
+        <lb style="display: block;" />a estrumam, e pelas quaes o sr. Camillo tem numa predilecção de
+        <lb style="display: block;" />cerdo faminto, a sua replica ao nosso segundo artigo acerca da <i>Cor<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />ja </i>revela este profundo abaixamento mental e esta extraordinaria
+        <lb style="display: block;" />depressão moral :
+    </p>
+    <p>Que a cescola realista tem por caracteristica differencial a des<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />cripção do nu, o gosto pelo escandalo, o amor pelas indecencias, e
+        <lb style="display: block;" />que s. ex.ª, o grande romancisla, faz romances tacs como lh'os pede
+        <lb style="display: block;" />a ignorancia do publico ou a perversão moral da multidão, de modo
+        <lb style="display: block;" />que se o publico amanhã liver o depravado capricho de pedir ao sr.
+        <lb style="display: block;" />Camillo que se mostre despido n'ttm circo, s. ex.ª aceede requebrado
+        <lb style="display: block;" />e dengoso aos desejos do publico e apresenta-se em pello, a troco
+        <lb style="display: block;" />de alguns vintens, a fazer na arena sortes de funambulo!
+    </p>
+    <p>Diz mais o grande homem que o seu livro <i>Scenas da Foz</i> é um
+        <lb style="display: block;" />estudo realista, que a <i>Filha do Árcediago</i> é um romance realista,
+        <lb style="display: block;" />que é um romance realista o <i>Eusebio Macario</i> e que a <i>Corja</i> é ain<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />da outro romance realisla!
+    </p>
+    <p>Francamente, é preciso ter uma grandissima confiança na igno<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />rancia do publico para exbibir publicamente taes parvoices. E preci<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />so contar demasiadamente com a penuria ou com a benevolencia da
+        <lb style="display: block;" />crilica nacional para ousar confrontar uns insignificantes episodios
+        <lb style="display: block;" />burlescos e obscenos de novellas aphrodisiacas, feitas no intuito ar<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />tístico de manuscar estylo fradesco e na intenção commercial de ex<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />
+        <cb n="3" style="display: block;" /><pb n="2" />plorar o escandalo, com trabalhos de primeira ordem com os roman<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />ces do sr. Eça de Queiroz e Bento Moreno!
+    </p>
+    <p>Se precisassemos de uma demonstração completa da absoluta
+        <lb style="display: block;" />falta de comprehensão que o sr. Camillo tem dos intuitos e dos
+        <lb style="display: block;" />processos da escola realista, não a poderiamos encontrar mais cabal
+        <lb style="display: block;" />e mais frisante do que cesta.
+    </p>
+    <p>O sr. Camillo entende que o que caracterisa o <i>Primo Basilio</i>,
+        <lb style="display: block;" />por exemplo, como romance realista, são as scenas do <i>Paraiso</i>!
+    </p>
+    <p>O grande homem c o grande critico tem sobre este ponto capi<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />tal de esthetica moderna justamente à opinião de qualquer major
+        <lb style="display: block;" />reformado amigo do throno e da Carta, ou de qualquer correspon<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />dente provinciano da <i>Nação</i>!
+    </p>
+    <p>O grande genio ainda não chegou à perceber que Bento More<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />no, por exemplo, que tem do realismo uma comprehensão muito
+        <lb style="display: block;" />mais consciente e seientífica do que o proprio sr. Eca de Queiroz,
+        <lb style="display: block;" />não apresenta nos seus romaánces uma unica scena escabrosa, o
+        <lb style="display: block;" />qne o não inhibe de ser um escriptor realista; que os romances de
+        <lb style="display: block;" />Alphonse Daudet são neste ponto de uma conveniencia perfeita<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />mente burgueza, e no entanto queAlphonse Daudet é um distinctissi<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />moralista, como Zola, que, ao contrario d'elle, tem pela deseripção
+        <lb style="display: block;" />do nu, como o sr. Eca de Queiroz, uma predilecção viíciosa e indis<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />ciplinada.
+    </p>
+    <p>Para o grande Balzac minhoto, realismo é synonimo de obsceni<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />dade! Para o <i>deus</i> de S. Miguel de Seide a arte realista é uma es<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />pecie de agencia de Jupanares, uma pandega domingueira de cai<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />xciros estroinas, uma <i>borga</i> nocturna de arruaceiros embriagados,
+        <lb style="display: block;" />uma rusga de marialvas em bairro de toleradas, um <i>deboche</i> infer<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />nal emlim.
+    </p>
+    <p>Este ponto de vista do grande homem é de uma lucidez side<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />ral. De modo que se o sr. Eça de Queiroz se esquece de nos dar
+        <lb style="display: block;" />no <i>Primo Basilio</i> as scenas do <i>Paraiso</i> e no <i>Crime do padre Ama<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />ro</i> as peripecias da casa do sineiro, era ainda a esta hora um ces<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />criptor romantico como o sr. Alberto Pimentel. E assim, perante tão
+        <lb style="display: block;" />levantada critica, o auctor do <i>Amor dívino</i> e dos <i>Noivos</i>, o mais
+        <lb style="display: block;" />disciplinado realista da moderna geracão de escriptores portuguezes,
+        <lb style="display: block;" />não passa de um romancista lyrico e sentimental como à sr.ª D.
+        <lb style="display: block;" />Guiomar Torresão.
+    </p>
+    <p>Perante taes provas de comprehensão philosophica da nova evo<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />lucão da arte contemporanea nós somos forcados a dizer ao grande
+        <lb style="display: block;" />homem simplesmente º irreverentemente uma cousa e é, que não
+        <lb style="display: block;" />percebe nada d'isto.
+    </p>
+    <lb style="display: block;" />1 que não só não percebe, mas que está radicalmente imposst<pc force="inter" style="display: unset">-</pc>
+    <lb style="display: block;" />bilitado de perceber.
+    <p>Sim, sapientissimo recta-pronuncia, vós comprehendeis tanto o
+        <lb style="display: block;" />que seja arte reafísta, como en comprehendo n'este momento o que
+        <lb style="display: block;" />seja um habitante da Jua, Vós entendeis tanto da arte moderna, da
+        <lb style="display: block;" />grande arte que leva de vencida o exhaosto convencionalismo ro<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />mantico pela celiminação svstemalica de toda a velha metaphisica
+        <lb style="display: block;" />espiritualista, pela subordinação disciplinada e consciente dos seus
+        <lb style="display: block;" />intuilos c dos seus processos às conclusões positivas da sciencia
+        <lb style="display: block;" />contemporanea, como entendeis dos purismos de Euclides.
+    </p>
+    <p>Este sabio de velhas frioleiras monasticas, não alcança penetrar
+        <lb style="display: block;" />esta idéa tão simples quanto justa de critica contemporanea: que o
+        <lb style="display: block;" />realismo é o positivismo na arte; que tanto esta elementar nocão
+        <lb style="display: block;" />de cerítica é verdadeira, que os dois grupos em que se divide a es<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />cola realista, tão brilbantemente representados no romance em Por<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />tugal um pelo sr. Eça de Queiroz outro por Bento Moreno, corres<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />pondem juslamente às duas escolas principaes em que se divide
+        <lb style="display: block;" />aquella philosophia, o evolucionismo de Spenser e o positivísmo de
+        <lb style="display: block;" />Littré; que entre as duas escolas de philosophia, como entre os
+        <lb style="display: block;" />dois grupos litterarios, a dilerenca consiste apenas na questão da
+        <lb style="display: block;" />classificação das sciencias que a escola de Littré acceita tal como à
+        <lb style="display: block;" />formulou À. Comte e que Spenser impugna propondo uma classilfi<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />cação diversa; que esta dillerença no entanto é importante, pois que
+        <lb style="display: block;" />diz respeito principalmente ào logar que a psychologia deve occeu<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />par waquella classificação, defendendo Spenser o principio de que
+        <lb style="display: block;" />a psvehalegia é uma seiencia dbstracta independente, posto que ba<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />seada nos conhecimentos das seiencias anteriores, e opinando toda
+        <lb style="display: block;" />a escola franceza de Comte por que tal independencia não exisle e
+        <lb style="display: block;" />que a psychologia não passa da physiologia dos centros nervosos, à
+        <lb style="display: block;" />qual dão por isso o nome de psycho-physiologia. É este ponto ca<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />pital de doutrina philosophica que separa os processos litterarios do
+        <cb n="4" style="display: block;" />sr. Eça de Queiroz, realista, dos de Bento Moreno, tambem realis”
+        <lb style="display: block;" />ta. O sr. Eca de Queiroz aflirma-se nos seus trabalhos como evolu<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />cionista da escola de Spenser, Bento Moreno conto positiviísla da cs<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />cola de Littré.
+    </p>
+    <p>Nos já escrevemos desenvolvidamente isto em alguma parte c
+        <lb style="display: block;" />não estamos para nos repetirmos indefinidamente, mesmo por que
+        <lb style="display: block;" />não vale a pena. O sr. Camillo, que é lido em cehronicas de frades
+        <lb style="display: block;" />imbecis e em gencalogias fidalgas de chronistas seraphicos, mette o
+        <lb style="display: block;" />positivismo a ridiculo e desdenha da scelencia contemporanea com
+        <lb style="display: block;" />à mesma semeceremonia com que já chamou <i>tonto</i> à Michelet. Va
+        <lb style="display: block;" />selvagens que se entretem a apedrejar o sol e não consta que o sol se
+        <lb style="display: block;" />amofine muito com isso. Quasi pols se pode aflitrmar que nem o posi<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />livismo nem a seiencia contemporanea se hão de magoar com às
+        <lb style="display: block;" />pedradas do sr. Camillo, um sabio que até já escreveu uma <i>Vida
+        <lb style="display: block;" />de Jesus</i>, no sanguinario proposito de exterminar Renan! É medo<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />nho, este Camillo! Accommoda-te, leão!
+    </p>
+    <p>Agora este tyranno concebeu de algum mafarrico incubo a dam<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />nada intenção de nos aniquilar a nós, um pigmeu, e decididamente
+        <lb style="display: block;" />nos pulverisa.
+    </p>
+    <p>O que o fez rabear de furor foj dizermos-lhe que Ihe faltavam
+        <lb style="display: block;" /><i>suggestões moraes</i> para ser um romancista moderno, na elevada ac<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />cepção do termo. Fomos com elMeito crueis.
+    </p>
+    <p>Não se falla na corda ao condemnado à forca. O que principal<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />mente falta e sempre faltou ao sr. Camillo são eflectivamente as taes
+        <lb style="display: block;" /><i>suggestões moraes</i>, que elle assegura não valerem um caracol, É
+        <lb style="display: block;" />conforme. la escriptores que fazem das suggeslões moraes não só
+        <lb style="display: block;" />a base de toda a obra d'arte, mas até a norma de toda a vida pra<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />celica; ha outros que se riem d'cellas. São coisas.
+    </p>
+    <p>Parece receiar que eu desça a atacal-o na sua vida privada.
+        <lb style="display: block;" />Seria talvez esse um acto de justiça da nossa parte, se confiassemos
+        <lb style="display: block;" />suflicientemente na robustez do nosso estomago para nos empenhar<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />mos sem vomilos n'uma empreza tão repugnante, Esteja descancado
+        <lb style="display: block;" />que tem na propria baixeza suflicientes garantias de inviolabilidade.
+        <lb style="display: block;" />Depois ameaca de nos escarrar e falla em apito. Engula lá mais essa
+        <lb style="display: block;" />porcaria, como tem engulido todas aquellas com que tem intentado
+        <lb style="display: block;" />emporcalhar muita gente honesta. Emquanto ao apito aconscelhamos<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />lhe que não faça uso d'elle, por que se à policia aceudir pode lem<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />brar-se de ajustar comsigo velhas contas em aberto.
+    </p>
+    <p>O sr. Camillo Castello Branco tem na polemica litteraria a ta<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />clica velha e conhecida de descambar immediatamente para a ag<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />gressão insultante, convertendo a discussão desde logo n'um con<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />flicto de personnalidades, o que demonstra da parte de sua ex.*
+        <lb style="display: block;" />duas cousas, ambas pouco abonatorias da elevação do seu espirito :
+        <lb style="display: block;" />uma completa ausencia de boa educação e uma deplorave! inopia de
+        <lb style="display: block;" />justica. Nós furtamo-nos hoje abertamente a essa taclica e pomos
+        <lb style="display: block;" />aqui ponto àás agegressões pessoaes, por duas razões: a primeira
+        <lb style="display: block;" />porque não tomamos a serio as fanfarronadas de valentão tantas
+        <lb style="display: block;" />vezes desmentidas do sr. Camillo; à segunda por que lemos à
+        <lb style="display: block;" />sufliciente consciencia do nosso valor moral para o julgarmos intei<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />ramente à coberto das tropegas investidas de sua ex.º Os seus in<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />sultos terão para nós a vantagem de nos acerescentarem esse valor
+        <lb style="display: block;" />moral e nunca para si o prazer de nol-o diminuirem.
+    </p>
+    <p>Esbraveje por isso àá sua vontade que não nos afMastará uma
+        <lb style="display: block;" />linha do proposito formado de apontarmos ao bom senso do paiz a
+        <lb style="display: block;" />sua ultima phase litteraria como uma decadencia deploravel e sobre
+        <lb style="display: block;" />deploravel repugnante, por que tem muito de intencionalmente mer<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />cantil.
+    </p>
+    <p>Que grite ou que não grite, que perneie ou que esteja quicto, é-nos
+        <lb style="display: block;" />inteiramente indiflerente. Não precisamos de anesthesicos para o ope<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />rar. E havemos de operal-ó sempre que isso nos approuver, porque um
+        <lb style="display: block;" />escriptor pertence ao publico e eu faco parte d'esse publico. E um
+        <lb style="display: block;" />dos espinhos da corõa de immortalidade que cinge a fronte dos
+        <lb style="display: block;" />grandes homens. Estes, em compensação, podem entregar-se ao pra<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />zer inscticida de nos catarem às incorrecções tvypographicas. Entre<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />lenha-se v. ex.* n'esse ingrato labor, que será éssa a unica ulili<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />dade real que eu tire d'esta polemica, emquanto en o exponho como
+        <lb style="display: block;" />um velho urso hydrophobo, mas acamado ao riso das pessoas sen<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />satas. Sc às minhas incorrecções orthegraphicas forem taes que
+        <lb style="display: block;" />v. ex.º não consiga perceber-me, avise que eu me explicarei me<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />lhor.
+    </p>
+    <p>Apesar de a sabermos não caltalogada nos diccionarios de me<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />dicina — sim, nós conseguiramos subir a este acume da sciencia —
+        <cb n="5" style="display: block;"/><pb n="3" />pedimos licença ao poço de sabedoria de S. Miguel de Seide, para
+        <lb style="display: block;" />continvarmos a empregar a palavra <i>cachectismo</i>, com que designa<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />mos o genero de imbecilidade mental peculiar da <i>cachexia</i>. Não
+        <lb style="display: block;" />conhecemos termo que designe esta especie morbida, e como temos
+        <lb style="display: block;" />em sua ex.ª um bem definido exemplar da especie, propomos o
+        <lb style="display: block;" />lermo.
+    </p>
+    <closer><p><placeName where='Figueira da Foz, Portugal'>Figueira da Foz</placeName>, <date when='1881-02-03'>3 de fevereiro de 1881</date>.</p>
+    <author style="font-variant: small-caps;"; text-align: right>alexandoe da conceição.</author></closer>
+</div>
+<div>
+	<h2>A CORJA E O SR. CONCEIÇÃO</h2>
+    <p> O cabedal de asneiras <i>(voilá le fin mot)</i> do sr. Conceição é já
+        <lb style="display: block;" />crescido, e o do calão malandro tambem não é pequeno; mas ainda
+        <lb style="display: block;" />assim não me parece que se haja, até aqui, excedido a si proprio.
+        <lb style="display: block;" />Por em quanto não lhe direi o <i>quousque tandem</i> do facundo Gatilina,
+        <lb style="display: block;" />porque não tenho notícia da sua latinidade, nem s. ex.ª me parece
+        <lb style="display: block;" />digno das coleras romanas. Elle, desde que envergou a libré de po<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />sitivista, é obrigado pela horda a grosserias que imprimem caraclter
+        <lb style="display: block;" />e lhe são o rotulo da bandeira basteada pelos mestres.
+    </p>
+    <p> N'este canto do oceidente não se imagina que podridões fermen<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />lam lá fóra da seita positivista que em Portugal superou em 'Theo<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />philo, em Conceição e poucos mais furunculos anonymos, a tresan<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />darem à volta d'um bom talento, Julio de Mattos que vocja per en<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />tre às nebulosas sideraes em busca da verdade intangivel; e,
+        <lb style="display: block;" />quando cuida que o positivismo scientifico lhe dá treguas consola<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />doras, sente a vacuidade insondavel do positivismo religioso.
+    </p>
+    <p> A petulante aggressão a vivos e mortos veiu exemplificada de
+        <lb style="display: block;" />França. O pontifice d'esta egreja, Augusto Comte, morreu em se<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />tembro de 1857. Dous mezes depois, a sua viuva dava um libello
+        <lb style="display: block;" />contra o marido defunto, accusando-o de mentecapto, atheu e de<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />vasso. Littré, o discipulo dilecto de Comte, abundava no libello da
+        <lb style="display: block;" />viuva, € asseverava que o mestre eflectivamente era mentecapto,
+        <lb style="display: block;" />alheu e devasso. O advogado da autora, mais ou menos positivista,
+        <lb style="display: block;" />dizia que Augusto Comte possuia para os usos da sua lithurgia reli<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />giosa, tres anjos : mad. de VYaux, a cosinheira e a mãe. André Poev,
+        <lb style="display: block;" />outro positivísta de masso e mona, ainda em 1879, escrevia um
+        <lb style="display: block;" />livro para demonstrar que Littré, o difamador de Comte, é um bil<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />tre, de mais à mais um rhetorico; e declara que se o outro lhe
+        <lb style="display: block;" />reguinga, diz o resto. Aqui está um specimen da escola dos apos<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />tolos da religião natural, um caso bonito de amor conjugal entre os
+        <lb style="display: block;" />missionarios do altruismo. São estes os que nos inculcam o seu <i>hu<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />manitarismo triumphal</i> sobre o christlanismo agonisante.
+    </p>
+    <p> Esta iracundia philosophica do sr. Conceição explica-se: é que
+        <lb style="display: block;" />os cathecumenos <i>serodios</i>, tanto das religiões como das philosophias,
+        <lb style="display: block;" />são sempre exaliados e carnifeces, Abraza-os uma actividade furiosa
+        <lb style="display: block;" />de propaganda, quando se ergnem da visão que os derrubou na es<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />trada de Damasco. Não vá o sr. Conceição cuidar que o adjectivo
+        <lb style="display: block;" />supra serodio é chamar-lhe velho. Se eu (vá de hypolhese) lhe
+        <lb style="display: block;" />chamasse velho no viço dos seus 40 annos, devia ser com um pro<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />posito lisongeiro, applicando-lhe este <i>sloca</i> dos Livros sagrados de
+        <lb style="display: block;" /><name style="font-variant: small-caps;">Manu</name> : «O velho ignorante é uma creança, e a ereança instruida é
+        <lb style="display: block;" />um velho». Já vê a delicadeza toda oriental do intuito —- chamar<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />lhe velho por s. ex.º ser um menino esperto, instruído.
+    </p>
+    <p> Diz elle que eu <i>metto o positívismo a ridículo</i>. Não sou eu: são
+        <lb style="display: block;" />os academicos, os professores das Faculdades, os democratas, os
+        <lb style="display: block;" />socialistas, os collectivistas, os jornalistas e os racionalistas françe<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />zes. Ássim o aflirma o mais intransigente proselyto de Comte: <i>Mais
+        <lb style="display: block;" />à nous, les posilívístes, à nous que suívons Auguste Comte jusque
+        <lb style="display: block;" />dans ses derniêres conceptions, la tdche est rendue particulierement
+        <lb style="display: block;" />difficile. Les uns traitent nos croyances de folies, d'autres, les plus
+        <lb style="display: block;" />tolerants, d'excentrícites, de songes creuv, d'hallucinalions, à tous,
+        <lb style="display: block;" />nous nwinspirons que dédain ou pitié. Acadêmiciens, professeurs de
+        <lb style="display: block;" />Facultés, démocrates, socialistes, collectivistes, journalistes et libres<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />penseurs font chorus contre nous.</i>
+    </p>
+    <p> E, depois, com um desalento que faz dó : «Desenganem-se, que
+        <lb style="display: block;" />os posilivistas não são parvos : sabem conscienciosamente o que fa<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />zem e o que dizem: <i>« Qu'on se détrompe, les positívistes ne sont point
+        <lb style="display: block;" />des niais; ils ont parfaitement conscience de leurs actes et de leurs
+        <lb style="display: block;" />dires.</i> (<name style="font-variant: small-caps;">m. littré et auguste comte</name> <i>par</i> <name style="font-variant: small-caps;">andré poey</name>).
+    </p>
+<cb n="6" style="display: block;" />
+    <p>À troça que afllige este positivista é contagiosa. O sorriso por<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />
+        <lb style="display: block;" />luguez não acha no sr. Conceição motivos para sericdade. Muito ri<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />diculo. Como representante de versejadura Iyrica, tolera-se: é ba<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />nal, mas correcto; e até admiravel em alguns poemetos. Como phi<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />losopho alagartado de rapsodias, de plagiatos ineruados, de burun<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />dangas em vasconso, o sr. Conceição é uma trivialidade charra que
+        <lb style="display: block;" />vac passando e fazendo bulha como os enchurros. Se s. ex.º sowu<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />besse o que finge saber, tolejava menos. Isto parece de Calino,
+        <lb style="display: block;" />mas é do gnomico Publius Svyrus : Sepe minus pecces, si scias quod
+        <lb style="display: block;" />nescias. Sollra este arróto fradesco, com paciencia e com um <i>Ma<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />gnum Lexicon</i> nas unhas.
+    </p>
+    <p>Elle cá torna com a sugidade das minhas novellas, Cá o tenho
+        <lb style="display: block;" />outra vez <i>Conceição Immaculada</i>, purpureado como um novico arra<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />'bido. À fina flor da sua pudicícia retrahíu-se de novo como a sen<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />%siliva tocada por dedo lubrico. Voltemos ao <i>trocadilho</i>, como celle
+        <lb style="display: block;" />ãdissc. Mas, o sr. Conceição não tem orientação scientifica bas<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />lante que o norteie na linha recta do <i>trocadilho</i>. Eu, se quizesse
+        <lb style="display: block;" />fazer um trocadilho do nome do sr. Alexandre da Conceição, dizia:
+        <lb style="display: block;" /><i>a srª Conceição do Alexandre</i>. Perceheu ? Aqui, sim, havia troca;
+        <lb style="display: block;" />mas, no caso questionado, a coisa rhetoricamente chama-se <i>antono<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />masia</i>, Seneca, o <i>Philosopho</i>, Platão, o <i>Divino</i>, Scoto, o <i>Subtil</i>,
+        <lb style="display: block;" />Santo Antonio, o <i>Thaumaturgo</i>, Conceição, o <i>Immaculada</i>. Vê?
+    </p>
+    <p> Mas, se quer continvar à merecer à antonomasia e estes affa<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />gos semanacs, não minta. Eu não escrevi alguma <i>Vida de Jesus</i>.
+        <lb style="display: block;" />Escrevi uns arligos intitulados <i>Divindade de Jesus</i>, annos antes que
+        <lb style="display: block;" />Renan publicasse o seu livro. D'esse escripto nunca poderei enver<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />gonhar-me; e d'este aviltante recontro com o sr. Conceicão hei de
+        <lb style="display: block;" />alinal pedir desculpa às galerias. Não diga que eu <i>rabeio</i> argot de
+        <lb style="display: block;" />tarimba) porque me negou suggestoens moraes. O que s. ex.ª me
+        <lb style="display: block;" />não concedeu foi <i>suggestoens philosophicas</i>. Estas, as philosophicas,
+        <lb style="display: block;" />e mais o sr. Conceição, <i>par-dessus le marché</i>, é que não valem um
+        <lb style="display: block;" />caracol. É um trapalhão <i>hors de ligne</i>.
+    </p>
+    <p> Por duas vezes classilicou de <i>aphrodisiacos</i> os meus romances.
+        <lb style="display: block;" />Isto é tão certo que jáse vende a <i>Corja</i> nas pharmacias, Temos visto
+        <lb style="display: block;" />receitas assim formuladas :
+    </p>
+    <p> <i>Récipe: pastilhas de ambar cinsento e almisear</i><span></span>12
+    <lb style="display: block;" />Capítulos da <name style="font-variant: small-caps;">Corja</name><span></span>3
+        <lb style="display: block;" style="text-align: right;" /><i>Misture</i>
+    </p>
+    <p> Diversos velhos e até diversas velhas não são estranhos a cesta
+        <lb style="display: block;" />evolução therapeutica, preferindo-a s carnes salgadas, àás tubaras e
+        <lb style="display: block;" />aos mingáus. À mostarda e o alho cederam às suas essencias trrl<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />tantes aos requebros da <i>Paschuela</i> e do <i>Fistula</i>. Calvos anciãos im<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />prudentes, com a segunda leitura da <i>Corja</i>, morreram da morte do
+        <lb style="display: block;" />pocta Lucrecio, como se tivessem bebido os philtros de Lucilia. Fami<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />lias abstemias e castas, tendo lido à Corja antes de ceia, foram
+        <lb style="display: block;" />para à mesa e começaram a fazer visagens e tregeitos lascivos co<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />mo se eslivessem nas orgias de Trimaleião. Homens mansos, de
+        <lb style="display: block;" />compleição glacial, que apenas conheciam algumas trovas mais chil<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />ras das <i>Alvoradas</i>, desataram-se em dvthirambos de Petronio, pes<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />pegando beijos causticos nas espaduas das parentas. ÀAs devassidões
+        <lb style="display: block;" />mysteriosas da deusa Bona e do relaxado deus de Lampsaca torna<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />ram-se os sarãos regulares dos burgiczes desde que os meus ro<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />mances, afugentando a bisca, se instillaram no seio das familias co<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />mo as gotas do Cagliostro e as modernas perolas deJenkins.— Uma
+        <lb style="display: block;" />desgraça indecente que poderá remediar-se ainda, se os arligos
+        <lb style="display: block;" />do sr. Conceição e algumas immersões refrigerantes em decocto de
+        <lb style="display: block;" />frescas malvas conseguirem repór às pessoas e as coisas no <i>statu
+        <lb style="display: block;" />quo</i>.
+    </p>
+    <p> No entanto, irei protestando contra a iniquidade d'este roman<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />tico renegado, romantico de 1863, esta creança loira que faz dos
+        <lb style="display: block;" />meus cabellos brancos o seu triumpho. Eu não o malsinaria de y<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />rico incorrigivel. Pode-se até detestar o romantismo como o ameri<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />cano Iloffman, e dadas certas condições de lua e de brizas, não re<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />agir, como elle, aos pulos d'um coração sensivel. Isso acontece a
+        <lb style="display: block;" />todo vate e a todo mercieiro dotado d'aquella viseera ôca. Va
+        <lb style="display: block;" />choques de que rebentam os mãos versos e outras
+    	<br /><br /><i>Evoluções de erothica milícia</i>,<br /><br />
+     	<lb style="display: block;" />como dizia ha 80 annos o Alfeno Cynthio. E o <i>eu</i> positivo de 1881,
+        <lb style="display: block;" />quando mal se precata, é escouceado pelo ignaro <i>eu</i> romantico de
+        <pb n="4" /><cb n="7" style="display: block;"/>1863, porque os 2 <i>eus</i> são tão antigos que já frei Ieitor Pinto, ha
+        <lb style="display: block;" />300 annos, se queixava de um pelas tolices que o obrigava a fazer
+        <lb style="display: block;" />o outro.
+    </p>
+    <p> Mas, dizia eu da iniquidade. Segundo elle, quem ultraja a esco<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />la realista sou en; e lá se dispendem n'umas engoiadas maravalhas
+        <lb style="display: block;" />para mostrar que os romances d'este são influídos por Littré, e os
+        <lb style="display: block;" />romances d'aquelle são insulflados pelas theorias de Spencer. Com
+        <lb style="display: block;" />certeza, os romancistas alludidos ignoravam islo: estavam como o
+        <lb style="display: block;" />Jourdain de Moliêre que não sabia que fazia prosa.
+    </p>
+    <p> Tornando à iniquidade, Silva Pinto sem tergiversações nem re<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />buço ridiculisou galhardamente a fórma do realismo anguloso c es<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />calavrado como em Portugal o exercitam nos livros. Leia os <i>Realis<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />mos</i>, e reveja-se n'essa vassoura que varre o estereo das cavalha<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />riças de Augias. À Silva Pinto defendeu-o o seu diamantino escudo,
+        <lb style="display: block;" />a justa reputação de linzua de prata com uma liga de dynamite;
+        <lb style="display: block;" />ao passo que à mim, neophyto ingenuo da nova herezia litteraria,
+        <lb style="display: block;" />exterminam-me do adro do templo, como se eu entrasse no pagode
+        <lb style="display: block;" />e pozesse fóra o idolo e os sacerdotes a pontapés de rhetorica obso<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />leta! Manhosas bestas!
+    </p>
+    <h5>Concluindo:</h5>
+    <p> A pouca saude e as raras ferias de trabalho vtil não me per<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />miltem gosar folgadamente a vadiagem litteraria compativel e pre<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />ciza a umas subatinas de chalaca com o sr. Conceição. Se lhe apraz
+        <lb style="display: block;" />palhetear vitaliciamente comigo porque o tempo khe sobra e as oc<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />cupações diarias o não impedem, e o cerebro lhe espuma muitos
+        <lb style="display: block;" />adjectivos sedicos, eu talvez o não possa servir com uma profusão
+        <lb style="display: block;" />correspondente à sua fecundidade. Pode, todavia, contar comigo por
+        <lb style="display: block;" />estes dez annos mais proximos; islo é, se n'este transcurso de tem<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />po, o sr. Conceição me não devorar, É; nada mais natural, desde
+        <lb style="display: block;" />que elle, <i>pondo-me o dedo, me encontrou cheio de palha</i>. Isto já me
+        <lb style="display: block;" />acontecet com outro individuo nas Alturas de Barroso, ha 28 an<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />nos. Deileicme n'um palheiro de lavrador; e, como sentisse frio,
+        <lb style="display: block;" />embrulhei-me no feno; e vai n'isto, um macho que cu arreatára
+        <lb style="display: block;" />perto de mim, soltou-se; e depois de ter comido a camada de pa<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />lha que me cobria, principiou a comer-me um braco, pondo-me
+        <lb style="display: block;" />primeiro o dente, visto que não dispunha do dedo do sr. Conceição,
+        <lb style="display: block;" />que me apalpou e conheceu a natureza graminea, comestivel dos
+        <lb style="display: block;" />meus intestinos. Mas admittida a doce conjectura de eu não ser
+        <lb style="display: block;" />comido (Deus me ajude e defenda!) póde contar comigo, dez annos,
+        <lb style="display: block;" />se se sujeitar a uma condicional suave,
+    </p>
+    <p> Dispenso-o da syntaxa, da prosodia, da etvmologia, dispenso-o
+        <lb style="display: block;" />até da orthographia; mas não o isento de vestir Juvas quando ces<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />crever, Não imagina a inluencia das luvas nas duas mãos do es<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />criptor, ou nas quatro, conforme a sua especie, como se diz no Ge<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />nesis. Conlie nos dizeres de Négesippe Moreau: <i>Comme des gants
+        <lb style="display: block;" />vous refont un homme!</i>
+    </p>
+    <p> Mas eu receio que o sr. Conceição a final se cance, porque não
+        <lb style="display: block;" />ha bestialidade que por muito estafada, de si mesmo se não enoje.
+        <lb style="display: block;" /><i>Omnis stultitia laborat fastidio sui</i>. E com este novo jacto obsole<pc force="inter" style="display: unset">-</pc>
+        <lb style="display: block;" />to de velho frade quinhentista, adeusinho até outra vez.
+    </p>
+    <closer><p><placeName where='S. Miguel de Seide, Portugal'>S. Miguel de Seide</placeName>, <date when='1881-02-07'>7 de fevereiro de 1881</date>.</p>
+    <author style="font-variant: small-caps; text-align: right;">Camillo Castello Branco</author></closer>
+</div>
+</tei.2>

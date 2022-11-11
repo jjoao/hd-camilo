@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<!ELEMENT snippet (source, title, page, author, topic?, transcription, annexes)>
+    <!ATTLIST snippet type (by|about) #IMPLIED>
+    <!ATTLIST snippet form (manuscript|print) #IMPLIED>
+<!ELEMENT source EMPTY>
+    <!ATTLIST source name CDATA #REQUIRED>
+    <!ATTLIST source date CDATA #REQUIRED>
+    <!ATTLIST source vol CDATA #IMPLIED>
+    <!ATTLIST source num CDATA #IMPLIED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT topic (#PCDATA)>
+<!ELEMENT pages EMPTY>
+    <!ATTLIST pages start CDATA #REQUIRED>
+    <!ATTLIST pages last CDATA #IMPLIED>
+<!ELEMENT transcription (text)>
+<!ELEMENT p (#PCDATA)>
+<!ELEMENT annexes (annex*)>
+<!ELEMENT annex (#PCDATA)>
+    <!ATTLIST annex img CDATA #IMPLIED>
+    <!ATTLIST annex illustration_of CDATA #REQUIRED>

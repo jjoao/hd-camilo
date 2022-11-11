@@ -1,0 +1,176 @@
+<recorte>
+    <fonte nome="Vida Artistica" data="05/1911" numero="10"/>
+
+    <titulo>Camillo Castello Branco</titulo>
+    <autor>Costa E Silva</autor>
+    <assunto>
+        
+    </assunto>
+    <paginas paginasInic="">
+        8 paginas - apenas na pagina 2 se encontra o texto sobre Camilo
+    </paginas>
+    <tipo type="sobre"/>
+    
+    <Como type="Impresso"/>
+
+    <transcricao>
+        <opener>
+            <p><persName full="Camilo Ferreira Botelho Castelo Branco">Camillo Castello Branco</persName></p>
+            <p><i>
+                A ignorancia é predicado<lb/>
+                congenital e pode ser 
+                <choice>
+                    <orig>inoffesinva</orig>
+                    <reg>inofensiva</reg>
+                </choice>:<lb/> 
+                a 
+                <choice>
+                    <orig>calumnia</orig>
+                    <reg>calúnia</reg>
+                </choice> é uma arteirice vio<pc>-</pc><lb/>
+                lenta e nunca deixa de ser ma<pc>-</pc><lb/>
+                levola.<lb/></i></p>
+            <p><persName full="Camilo Ferreira Botelho Castelo Branco">C. CASTELLO Branco</persName></p>
+        </opener>
+        
+        <p>
+            O nosso 
+            <choice>
+                <orig>collega</orig>
+                <reg>colega</reg>
+            </choice> da imprensa diaria, <i>Re<pc>-</pc><lb/>
+            publica</i>, na ultima terça-feira, recordando<lb/>
+            ainda a passagem dos congressistas de tu<pc>-</pc><lb/>
+            rismo por este lindo rincão de terra 
+            <choice>
+                <orig>portu<pc>-</pc><lb/>gueza</orig>
+                <reg>portuguesa</reg>
+            </choice>, refere a palestra de um dos seus<lb/>
+            redactores com um 
+            <choice>
+                <orig>francez</orig>
+                <reg>francês</reg>
+            </choice>, com quem pe<pc>-</pc><lb/>
+            regrinára por essas ruas em fóra, a mostrar<lb/>
+            os nossos monumentos, as estatuas dos<lb/>
+            guerreiros, do dador da Carta, de <persName full="Manuel Joaquim Pinheiro Chagas">Manoel<lb/>
+            Pinheiro Chagas</persName> e de tantos poucos outros<lb/>
+            que no marmore não mereceram á nossa<lb/>
+            desvulgar 
+            <choice>
+                <orig>apathia</orig>
+                <reg>apatia</reg>
+            </choice>, a sombra de uma apo<pc>-</pc><lb/>
+            theose.
+        </p>
+        <p>
+            Já quando se despediam, o cicerone um<lb/>
+            tanto envergonhado do ridiculo numero de<lb/>
+            consagrados, o 
+            <choice>
+                <orig>francez</orig>
+                <reg>francês</reg>
+            </choice> desfecha-lhe de su<pc>-</pc><lb/>
+            bito, tendo na 
+            <choice>
+                <orig>phrase</orig>
+                <reg>frase</reg>
+            </choice> arrastada de explen<pc>-</pc><lb/>
+            dida amabilidade gauleza, a <i>reproche</i> de um<lb/>
+            esquecimento, em que alinhamento da ca<pc>-</pc><lb/>
+            pital se encontrava o busto de <persName full="Camilo Ferreira Botelho Castelo Branco">Camillo<lb/>
+            Castello Branco</persName>.
+        </p>
+        <p>
+            O nosso compatriota, estamos certos,<lb/>
+            sentiu 
+            <choice>
+                <orig>n'esse</orig>
+                <reg>nesse</reg>
+            </choice> momento toda a ancia de um<lb/>
+            alçapão que o tragasse, e a medo, como<lb/>
+            quem profere uma 
+            <choice>
+                <orig>blasphemia</orig>
+                <reg>blasfêmia</reg>
+            </choice>, confessou<lb/>
+            que não existia na primeira cidade do 
+            <choice>
+                <orig>Paiz</orig>
+                <reg>país</reg>
+            </choice>,<lb/>
+            <choice>
+                <orig>n'aquella</orig>
+                <reg>naquela</reg>
+            </choice> a que chamam 
+            <choice>
+                <orig>caes</orig>
+                <reg>cais</reg>
+            </choice> da Euro<lb/>
+            pa, onde aos olhos atonitos dos que nos<lb/>
+            visitam, lançamos o convento dos Jerony<pc>-</pc><lb/>
+            mos, a <placeName>basilica da Estrella</placeName>, a casa do Con<pc>-</pc><lb/>
+            testavel, a porta de <persName>Martim Moniz</persName>, final<pc>-</pc><lb/>
+            mente todo o padrão granitico de uma<lb/>
+            grande raça, um busto, uma pedra vulgar,<lb/>
+            uma lapide marchetada a ouro, onde se pre<pc>-</pc><lb/>
+            petuasse a memoria do mais primoroso e<lb/>
+            vernaculo prosador que em <placeName>Portugal</placeName> exis<pc>-</pc><lb/>
+            tiu no seculo XIX.
+        </p>
+        <p>
+            E entretanto, não existe 
+            <choice>
+                <orig>portuguez</orig>
+                <reg>português</reg>
+            </choice>, semi<lb/>
+            lido, que pelo menos não tenha bebido com<lb/>
+            admiração e com o coração 
+            <choice>
+                <orig>contrahido</orig>
+                <reg>contraído</reg>
+            </choice> a<lb/>
+            prosa explendida, a fertilidade cerebral que<lb/>
+            dimana do <i>
+                <book>
+                    <title>Amor de Perdição</title>
+                    <author>Camilo Castelo Branco</author>
+                    <publicationYear>1862</publicationYear>
+                </book></i> e da <i>
+                    <book>
+                        <title>Caveira da Martyr</title>
+                        <author>Camilo Castelo Branco</author>
+                        <publicationYear>1902</publicationYear>
+                    </book></i>.
+        </p>
+        <p>
+            Estamos dentro da nossa orientação jor<pc>-</pc><lb/>
+            nalistica.
+        </p>
+        <p>
+            A <i>Republica</i> lembra que <i>no dia 1 de junho<lb/>
+                de 1890, o mestre, o maior de todos, na ce<pc>-</pc><lb/>
+                gueira que a 
+                <choice>
+                    <orig>sciencia</orig>
+                    <reg>ciência</reg>
+                </choice> declara incuravel, fizéra<lb/>
+                voar of miolos, desfechando contra si um re<pc>-</pc><lb/>
+                volver.</i>
+        </p>
+        <p> 
+            A <i>Vida Artistica</i>, acompanha a sua irmã,<lb/>
+            na propaganda em prol da paga de uma<lb/>
+            divida de honra ao mais fecundo prosador,<lb/>
+            que nos ultimos tempos nos foi dado pos<pc>-</pc><lb/>
+            suir.
+        </p>
+        <p>
+            <i>Suivons la.</i>
+        </p>
+        <p>COSTA E SILVA.</p>
+    </transcricao>
+    
+    <anexo></anexo>
+
+</recorte>
