@@ -1,11 +1,11 @@
 <recorte tipo="parte">
-  <fonte nome="Ocidente" data="1887-11-01" numero="319"/>
+  <fonte nome="Ocidente" data="1887-11-01" num="319"/>
 
   <autor>Gervásio Lobato</autor>
 
   <titulo>Crónica Ocidental</titulo>
 
-<texto>
+<transcricao>
 
 Esteve ha dias de visita em Lisboa o grande
 escriptor portuguez Camillo Castello Branco.
@@ -33,5 +33,5 @@ ceitando o alvitre apresentado por alguns jor-
 naes de Lisboa, vac dar o nome de Camillo Cos-
 tello Branco a uma das principaes ruas da cidade.
 
-</texto>
+</transcricao>
 </recorte>

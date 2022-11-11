@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding="UTF-8"?>
+
+<!ELEMENT recorte (fonte, (titulo| paginas| autor| assunto)*, transcricao, anexos)>
+    <!ATTLIST recorte tipo (por|sobre) #IMPLIED>
+    <!ATTLIST recorte como (manuscrito|impresso) #IMPLIED>
+<!ELEMENT fonte EMPTY>
+    <!ATTLIST fonte nome CDATA #REQUIRED>
+    <!ATTLIST fonte data CDATA #REQUIRED>
+    <!ATTLIST fonte vol CDATA #IMPLIED>
+    <!ATTLIST fonte num CDATA #IMPLIED >
+<!ELEMENT titulo (#PCDATA)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT assunto (#PCDATA)>
+<!ELEMENT paginas EMPTY>
+    <!ATTLIST paginas inic CDATA #REQUIRED>
+    <!ATTLIST paginas ult CDATA #IMPLIED>
+<!ELEMENT transcricao (#PCDATA | p)* >
+<!ELEMENT p (#PCDATA)>
+<!ELEMENT anexos ( anexo* )>
+<!ELEMENT anexo (#PCDATA)>
+    <!ATTLIST anexo img  CDATA  #IMPLIED>
+    <!ATTLIST anexo gravura_de CDATA  #REQUIRED>
+

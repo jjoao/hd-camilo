@@ -1,5 +1,5 @@
 <recorte>
-  <fonte nome="Ocidente" data="1887-11-01" numero="319"/>
+  <fonte nome="Ocidente" data="1887-11-01" num="319"/>
 
   <autor>Valentina de Lucena</autor>
   <autor>revista Ocidente</autor>
@@ -8,7 +8,7 @@
        Visconde de Correia Botelho
        Camillo Castello Branco</titulo>
 
-<texto>
+<transcricao>
    AS NOSSAS GRAVURAS 
      
      
@@ -207,7 +207,7 @@
   soluçante risada da lyra  em  que  o   Intermezzo 
   desfiou as suas contas de crystal !...» 
 
-</texto>
+</transcricao>
 
 <anexos>
 <anexo tipo="gravura" file="Ocidente-N319-R2-A1.png" gravura_de="D. Netto">
