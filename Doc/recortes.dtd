@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding="UTF-8"?>
-<!ELEMENT snippet (source, (title| page| author| topic)*, transcription, annexes)>
+<!ELEMENT snippet (source, (title| page| author| topic)*, transcription, annexes?)>
     <!ATTLIST snippet type (by|about) #IMPLIED>
     <!ATTLIST snippet form (manuscript|print) #IMPLIED>
 <!ELEMENT source EMPTY>
@@ -17,5 +17,6 @@
 <!ELEMENT p (#PCDATA)>
 <!ELEMENT annexes (annex*)>
 <!ELEMENT annex (#PCDATA)>
+    <!ATTLIST annex type CDATA #IMPLIED>
     <!ATTLIST annex img CDATA #IMPLIED>
     <!ATTLIST annex illustration_of CDATA #REQUIRED>
