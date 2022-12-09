@@ -3,8 +3,8 @@ from jjcli import *
 obras_camilo = glob("../Obra/**/*txt", recursive=True)
 print(obras_camilo)
 
-l5 = obras_camilo[5]             ## nome do quinto livro
-txt = open(l5).read()            ## conteudo do quinto livro
+livro5 = obras_camilo[5]             ## nome do quinto livro
+txt = open(livro5).read()            ## conteudo do quinto livro
 
 import spacy
 apt = spacy.load('pt_core_news_md')
