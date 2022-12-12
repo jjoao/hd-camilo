@@ -10,13 +10,6 @@ def ppXML(xml: str):
     
     return pretty.decode("utf-8")
 
-def ppXML_argv(xml: str):
-
-    parsed = etree.XML(xml,parser)
-    pretty = etree.tostring(parsed,pretty_print = True)
-    
-    return pretty.decode("utf-8")
-
 if __name__ == '__main__':
 	if sys.stdin.isatty():
 		if len(sys.argv[1:]) == 1 :
