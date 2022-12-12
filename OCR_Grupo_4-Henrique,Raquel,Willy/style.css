@@ -1,0 +1,21 @@
+.sheet{
+  border-style: solid;
+  border-color: black;
+  border-width: 2px;
+  margin: 10px;
+  padding: 20px;
+}
+
+h1{
+	font-size: 35px;
+	font-weight: 600;
+	color: black;
+	background-clip: text;
+	-webkit-background-clip: text;
+}
+
+ul{
+	color: black; 
+	.text-wrapper color: black;
+	list-style: none;
+}
