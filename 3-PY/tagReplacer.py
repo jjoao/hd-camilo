@@ -4,7 +4,7 @@ def tagReplacer(text, tag='', repl='', self_closing=False):
 
 	"""
 	Given a text, replace/strip tag
-    _defaults to stripping all tags
+	_defaults to stripping all tags
 
 	:param text: str
 	:param tag:  str
@@ -55,5 +55,19 @@ def tagReplacer(text, tag='', repl='', self_closing=False):
 
 doctest.testmod()
 
-# if __name__ == '__main__':
-#     print("untagged text bellow:\n\n",tagReplacer(sys.stdin.read()))
+if __name__ == '__main__':
+
+	"""
+	if run not as a module, either get argvs
+	_or stdin to output something
+
+	"""
+
+	if sys.stdin.isatty():
+		n_args = len(sys.argv[1:])
+		if n_args   <  1: print("nothing in stdin nor arguments given")
+		elif n_args == 1: print(tagReplacer(sys.argv[1]))
+		elif n_args == 2: print(tagReplacer(sys.argv[1],sys.argv[2]))
+		elif n_args == 3: print(tagReplacer(sys.argv[1],sys.argv[2],sys.argv[3]))
+		else			: print("too many arguments")
+	else: print(tagReplacer(sys.stdin.read()))
