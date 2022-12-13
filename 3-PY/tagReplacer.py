@@ -65,9 +65,13 @@ if __name__ == '__main__':
 
 	if sys.stdin.isatty():
 		n_args = len(sys.argv[1:])
-		if n_args   <  1: print("nothing in stdin nor arguments given")
-		elif n_args == 1: print(tagReplacer(sys.argv[1]))
-		elif n_args == 2: print(tagReplacer(sys.argv[1],sys.argv[2]))
-		elif n_args == 3: print(tagReplacer(sys.argv[1],sys.argv[2],sys.argv[3]))
+		if n_args   <  1: raise Exception("nothing in stdin nor arguments given")
+		try:
+			xml = open(sys.argv[1]).read()
+		except FileNotFoundError: 
+			xml = sys.argv[1]
+		if   n_args == 1: print(tagReplacer(xml))
+		elif n_args == 2: print(tagReplacer(xml,sys.argv[2]))
+		elif n_args == 3: print(tagReplacer(xml,sys.argv[2],sys.argv[3]))
 		else			: print("too many arguments")
 	else: print(tagReplacer(sys.stdin.read()))
