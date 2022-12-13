@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import json, re, sys
 import doctest
 
@@ -8,7 +9,7 @@ try:
 except FileNotFoundError:  
 	dictSubst = {
 #Normalizing white spaces to a single
- ' {1,}'                 : ' ',
+ ' {1,}'                 		 : ' ',
 #Annotating abbreviations, starting from the ones w/ superscript
  'ª'							 : '<sup>a</sup>',
 r'\.\^([a-z]{1,3})'				 :r'.<sup>\1</sup>',
