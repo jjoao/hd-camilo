@@ -4,9 +4,8 @@ from lxml import etree;
 parser = etree.XMLParser(remove_blank_text=True)
 
 def ppXML(xml: str):
-
     parsed = etree.XML(xml,parser)
-    pretty = etree.tostring(parsed,pretty_print = True)
+    pretty = etree.tostring(parsed,pretty_print = True, encoding="UTF-8")
     
     return pretty.decode("utf-8")
 
