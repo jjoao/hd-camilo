@@ -22,4 +22,4 @@ if __name__ == '__main__':
 		else: raise Exception("Too few/much arguments")
         
 	else: print(ppXML(sys.stdin.read()))
-	#else: print(etree.tostring(etree.parse(io.StringIO(sys.stdin.read()),etree.XMLParser(remove_blank_text = True)), pretty_print = True).decode("utf-8"))
+
