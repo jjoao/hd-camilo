@@ -18,10 +18,10 @@ for filename in lista:
     t = arvore.find("titulo")
     if t is not None:
         print(f"<H1>{t.text}</H1>")
-        l = l + (f"<H1>{t.text}</H1>")
+        l = l + (f"<head><link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\" /></head><body><div class=\"sheet\"><H1>{t.text}</H1>")
     for f in arvore.findall("fonte"):  
         print(f.attrib)
-        output = f"<ul><li>{f.attrib['nome']}</li><li>{f.attrib['revista']}</li><li>{f.attrib['numero']}</li><li>{f.attrib['data']}</li><li>{f.attrib['local']}</li></ul>"
+        output = f"<ul><li>{f.attrib['nome']}</li><li>{f.attrib['revista']}</li><li>{f.attrib['numero']}</li><li>{f.attrib['data']}</li><li>{f.attrib['local']}</li></ul></div></body>"
         print(output)
         l = l + (output)
 
