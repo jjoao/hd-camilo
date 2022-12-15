@@ -57,3 +57,11 @@ input:
 
 takes @`attributes` into the text per se, 
 wraps everything in `<orig>` if not already
+
+## `mgrep.py`
+
+takes input either from `stdin` or as a file 
+`arg`ument a **matching pattern** and 
+_optionally replacement and output file_
+> utf-8 capable, and set to multi-line matchings
+
