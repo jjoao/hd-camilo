@@ -1,7 +1,5 @@
-
-
 """
-## Instalção
+## Instalação
 # spacy   -- nlp
 
  sudo pip install -U spacy
@@ -31,7 +29,7 @@ for w in txtanal:
         print(w, w.lemma_ )
         cont = cont + 1
 
-print("Numeso de verbos",cont)
+print("Numero de verbos",cont)
         
        
 
