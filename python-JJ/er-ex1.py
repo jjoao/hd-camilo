@@ -7,10 +7,10 @@ caps =  re.split(r'CAPÍTULO', livro)
 
 num=0
 for c in caps:
-    num = num +1
 #    print(num, len(c))
     anos = re.findall(r'\d{4}', c)
     print("Capítulo",num, anos)
+    num = num +1
 
 #anos = re.findall(r'\d{4}', livro)
 
