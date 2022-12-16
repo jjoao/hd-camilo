@@ -1,4 +1,5 @@
-import json, re
+# -*- coding: utf-8 -*-
+import json, re, sys
 import doctest
 
 # loading data on where to find book
@@ -8,7 +9,7 @@ try:
 except FileNotFoundError:  
 	dictSubst = {
 #Normalizing white spaces to a single
- ' {1,}'                 : ' ',
+ ' {1,}'                 		 : ' ',
 #Annotating abbreviations, starting from the ones w/ superscript
  'ª'							 : '<sup>a</sup>',
 r'\.\^([a-z]{1,3})'				 :r'.<sup>\1</sup>',
@@ -29,7 +30,7 @@ r'\.\^([a-z]{1,3})'				 :r'.<sup>\1</sup>',
 except: print('ERRO: dicionário "dictSubst" não existe, nem pôde ser criado')
 
 
-def substDict(text,dictSubst):
+def substDict(text,dictSubst=dictSubst):
 
 	"""
 	Given a text, do regex substitutions
@@ -54,3 +55,27 @@ def substDict(text,dictSubst):
 	return text
 
 doctest.testmod()
+
+if __name__ == '__main__':
+
+	"""
+	if run not as a module, either get argvs
+	_or stdin to output something
+
+	"""
+	if sys.stdin.isatty():
+		n_args = len(sys.argv[1:])
+		if n_args   <  1: raise Exception("nothing in stdin nor arguments given")
+		try:
+			txt = open(sys.argv[1]).read()
+		except FileNotFoundError: 
+			txt = sys.argv[1]
+		if   n_args == 1: print(substDict(txt))
+		elif n_args == 2: 
+			try:
+				dct = open(sys.argv[2]).read()
+			except FileNotFoundError: 
+				dct = sys.argv[2]
+			print(substDict(txt,dct))
+		else : print("too many arguments")
+	else: print(substDict(sys.stdin.read()))
