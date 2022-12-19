@@ -14,7 +14,7 @@ Ou seja apresentar a lista dos ficheiros de texto existentes nessa pasta.
 #### Código
 
 ```python
-obras = os.listdir('../Obra'); obras.sort();
+obras = os.listdir('../../Obra'); obras.sort();
 ```
 
 ### Listagem de obras
@@ -105,13 +105,48 @@ Então imprimo tabelas e as 2 frases iniciais com tais informações (função _
 
 ```python
 for obra in obras:
-	book_path = '../Obra/' + obra
+	book_path = '../../Obra/' + obra
 	book = Book(book_path)
 	book.stats()
-	markdown += md(book)
+	markdown += md(book,3)
 ```
 
 ### Listagem de obras
+
+Destaco **Amor de Perdição**, aonde retrabalhei o output do **spaCy**.
+Para comparação: [iteração inicial](#Camilo-Amor_de_Perdicao.txt), [2ª iteração](#Camilo-Amor_de_Perdicao.txt_v2)
+
+#### Código de correcção:
+
+<details id="correcção">
+
+  <summary>expanda para excerto do código</summary>
+
+
+```python
+
+if book.title == 'Amor de Perdicao':
+	book.per['Mariana'] = book.loc['Mariana']
+	del book.loc['Mariana']
+	del book.loc['Estou']
+	del book.loc['Albuquerque']
+	del book.loc['Olhe']
+	del book.loc['Vamos']
+	del book.loc['Que']
+	personagens = [('Baltasar Coutinho',"Balta"),('Simão Botelho',"Simão"),
+		('Tadeu de Albuquerque', "Tadeu"), ('Teresa de Albuquerque',"Tere")]
+	for k in book.per.keys():
+		for p,query in personagens:
+			if k != p:
+				if k.find(query) > -1:
+					book.per[p] += book.per[k]
+					book.per[k] = 0
+	book.per= dict(sorted(book.per.items(), key = itemgetter(1), reverse = True))
+	book.loc= dict(sorted(book.loc.items(), key = itemgetter(1), reverse = True))
+```
+</details>
+
+
 
 	
 ### A Brasileira de Prazins
@@ -141,11 +176,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  317 |      dizer | disseram; dizer; dizia; diria; diziam              |
-|  265 |        ter | tem; têm; tinha; ter; tiver                        |
-|  160 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
-|  155 |        dar | dadas; davam; der; daria; dá                       |
-|  124 |      haver | havia; houve; haviam; havido; haver                |
+|  317 |      dizer | digo; disse; diz; diria; diziam                    |
+|  265 |        ter | tendo; temos; tivesse; tido; tinha                 |
+|  160 |      fazer | faziam; feito; fazia; fazer; faz                   |
+|  155 |        dar | dado; dei; deu; deram; dão                         |
+|  124 |      haver | houve; havido; haviam; havia; há                   |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -213,11 +248,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   80 |      dizer | disseram; dizer; dizia; diziam; diz                |
-|   78 |        ter | tem; tinha; ter; tiver; tive                       |
-|   73 |      fazer | fazendo; fazeres; faziam; fizeram; faz             |
-|   60 |      poder | poderiam; pode; poder; pôde; posso                 |
-|   45 |     querer | queres; quer; querendo; quis; queria               |
+|   80 |      dizer | disse; diz; diziam; dizia; dito                    |
+|   78 |        ter | tivesse; tido; tive; tinha; terão                  |
+|   73 |      fazer | faziam; feito; fazia; faria; fazer                 |
+|   60 |      poder | pudessem; podia; pôde; podendo; posso              |
+|   45 |     querer | quer; quiser; queres; queriam; quero               |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -277,11 +312,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   83 |      dizer | dirá; disseram; dizer; dizia; diria                |
-|   79 |        ter | tem; têm; tinha; ter; tiver                        |
-|   73 |      poder | poderiam; pode; podiam; poder; podem               |
-|   63 |      saber | saibam; sabe; sabendo; sabia; saiba                |
-|   61 |     querer | querer; quer; querendo; querem; quis               |
+|   83 |      dizer | digo; diz; disse; diziam; diria                    |
+|   79 |        ter | tivesse; tido; tive; tinha; teria                  |
+|   73 |      poder | pudessem; podia; pôde; posso; poderá               |
+|   63 |      saber | sabe; saibam; sabendo; saber; soube                |
+|   61 |     querer | quer; querem; quiser; queriam; quero               |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -355,11 +390,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   61 |        ter | tem; têm; tinha; terei; ter                        |
-|   61 |      dizer | disseram; dizer; dizia; diz; diziam                |
-|   30 |        dar | daria; dá; dando; dado; deram                      |
-|   29 |      fazer | fazendo; faziam; fizeram; faz; fazem               |
-|   24 |     querer | queres; querer; quer; querendo; queremos           |
+|   61 |        ter | temos; tivesse; tinha; teve; terei                 |
+|   61 |      dizer | digo; disse; diz; diziam; dizia                    |
+|   30 |        dar | dado; deu; deram; dá; dava                         |
+|   29 |      fazer | faziam; fazia; faz; fazer; fez                     |
+|   24 |     querer | quer; querem; quiser; queres; queriam              |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -416,11 +451,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  328 |      dizer | dirá; disseram; dizer; dizia; diria                |
-|  220 |        ter | tem; têm; terei; tido; tiver                       |
-|  165 |        ver | verem; via; verá; veria; viu                       |
-|  154 |      saber | saberia; sabe; sabendo; sabia; saberem             |
-|  144 |      poder | poderiam; pode; poderem; podiam; poderei           |
+|  328 |      dizer | digo; digamos; disse; diz; diria                   |
+|  220 |        ter | temos; tínhamos; tive; tinha; tinham               |
+|  165 |        ver | vi; verei; veria; verá; viu                        |
+|  154 |      saber | sabe; sabendo; sabido; souber; saberia             |
+|  144 |      poder | pudessem; podia; pôde; posso; podendo              |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -503,11 +538,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  536 |        ter | tem; têm; terei; tenham; tido                      |
-|  427 |      dizer | dirá; disseram; dizer; dizia; diria                |
-|  304 |     querer | quiseram; queres; querer; quer; querendo           |
-|  281 |      saber | saberão; saberia; sabe; sabendo; sabemos           |
-|  239 |      fazer | fazeres; feito; fazemos; fazem; feita              |
+|  536 |        ter | temos; tive; tinha; terão; tenha                   |
+|  427 |      dizer | digo; dizemos; dizerem; diz; disse                 |
+|  304 |     querer | quer; querem; quiser; queres; queriam              |
+|  281 |      saber | sabe; sabendo; sabido; saberá; saberia             |
+|  239 |      fazer | feito; fazeres; faria; fazer; fez                  |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -586,11 +621,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  312 |      dizer | dirá; disseram; dizer; dizia; diria                |
-|  224 |        ter | tem; têm; tido; teria; tiver                       |
-|  161 |      poder | poderiam; pode; poderei; pôde; posso               |
-|  157 |      saber | saberia; sabe; sabido; sabendo; sabia              |
-|  142 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
+|  312 |      dizer | digo; digamos; dizerem; disse; diz                 |
+|  224 |        ter | temos; tive; tinha; terão; tinham                  |
+|  161 |      poder | podia; poderá; podemos; possa; pôde                |
+|  157 |      saber | sabe; sabendo; sabido; saberia; saberá             |
+|  142 |      fazer | faziam; feito; fazia; faria; fará                  |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -661,11 +696,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  207 |      dizer | disseram; dizer; dizia; diria; diziam              |
-|  194 |        ter | tem; têm; teriam; tinha; ter                       |
-|  144 |        ver | verem; via; veria; viu; viam                       |
-|  138 |      saber | saberia; sabe; sabendo; sabemos; sabia             |
-|   98 |      haver | haja; havia; haverá; haver; havemos                |
+|  207 |      dizer | digo; diz; disse; diziam; diria                    |
+|  194 |        ter | teriam; terá; temos; tivesse; tido                 |
+|  144 |        ver | vi; veria; verei; verão; viu                       |
+|  138 |      saber | sabe; sabendo; sabem; souber; saberá               |
+|   98 |      haver | haverá; havia; há; haja; haver                     |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -724,11 +759,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  283 |        ter | tem; têm; terei; tenham; tido                      |
-|  214 |      dizer | disseram; dizer; dizia; diria; diziam              |
-|  203 |      poder | poderiam; pode; podiam; poderei; poder             |
-|  159 |      saber | saberia; sabe; sabes; sabendo; sabia               |
-|  157 |      fazer | fazendo; faziam; fazerem; fizeram; faz             |
+|  283 |        ter | temos; tive; tinha; tinham; tenha                  |
+|  214 |      dizer | digo; dizemos; diz; disse; diziam                  |
+|  203 |      poder | podia; pôde; poderá; podendo; posso                |
+|  159 |      saber | sabe; sabendo; sabido; saberia; sabes              |
+|  157 |      fazer | faziam; feito; fazia; faria; fará                  |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -794,11 +829,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  290 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  168 |        ter | tem; têm; tinha; terei; ter                        |
-|  123 |      haver | haja; houve; houver; havendo; haviam               |
-|  122 |     querer | queiram; querer; querermos; quer; queres           |
-|  119 |      fazer | fazendo; faziam; fazerem; feitos; faz              |
+|  290 |      dizer | digo; dizerem; disse; diz; diria                   |
+|  168 |        ter | tendo; terá; temos; tivesse; tido                  |
+|  123 |      haver | haverá; houve; havendo; houver; haviam             |
+|  122 |     querer | quer; querem; queiram; quiser; queres              |
+|  119 |      fazer | faziam; feito; fazia; faria; faz                   |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -881,11 +916,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  287 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  166 |        ter | tem; tinha; terei; ter; tiver                      |
-|  118 |      fazer | fazendo; faziam; feitos; fazerem; faz              |
-|  104 |     querer | queiram; querer; querermos; quer; queres           |
-|  102 |      saber | saibam; sabe; sabia; sabem; soube                  |
+|  287 |      dizer | digo; dizerem; disse; diz; diria                   |
+|  166 |        ter | tendo; terá; temos; tivesse; ter                   |
+|  118 |      fazer | faziam; feito; fazia; faria; faz                   |
+|  104 |     querer | quer; querem; queiram; queres; queriam             |
+|  102 |      saber | sabe; saibam; saberá; saber; soube                 |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -977,10 +1012,10 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   32 |      dizer | dizer; dizia; diria; diz; dizemos                  |
-|   27 |        ter | tem; tinha; ter; temos; tido                       |
-|   18 |      fazer | feitos; fizeram; faz; fazem; fez                   |
-|   10 |   escrever | escreve; escreveu; escrever; escrevendo            |
+|   32 |      dizer | dizemos; diz; disse; diria; dizia                  |
+|   27 |        ter | tendo; temos; tido; tinha; teve                    |
+|   18 |      fazer | fazia; faz; fez; fazem; feitos                     |
+|   10 |   escrever | escrever; escrevendo; escreve; escreveu            |
 |   10 |     contar | contar; contou; conta                              |
 
 
@@ -1041,11 +1076,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|    9 |      poder | pode; podemos; poderia; podendo; pudesse           |
-|    5 |        ter | tem; tenho; temos; teve                            |
-|    5 |      haver | havia; há; haver                                   |
-|    5 |   escrever | escreve; escrevesse; escrever; escreveu            |
-|    4 |      saber | sabem; sabe; sei                                   |
+|    9 |      poder | podia; podendo; pudesse; pode; poderia             |
+|    5 |        ter | teve; temos; tenho; tem                            |
+|    5 |      haver | haver; há; havia                                   |
+|    5 |   escrever | escreve; escrever; escrevesse; escreveu            |
+|    4 |      saber | sabe; sabem; sei                                   |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -1094,11 +1129,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  209 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  162 |        ter | tem; têm; terei; tenham; teria                     |
-|  123 |      fazer | fazendo; faziam; fazerem; feitos; faz              |
-|  119 |     querer | queres; querer; quer; querendo; querem             |
-|   90 |         ir | ido; ir; vá; iremos; vamos                         |
+|  209 |      dizer | digo; disse; diz; diria; diziam                    |
+|  162 |        ter | teriam; temos; tínhamos; tinha; tenha              |
+|  123 |      fazer | faziam; feito; fazia; faria; fará                  |
+|  119 |     querer | quer; querem; quiser; queres; queriam              |
+|   90 |         ir | indo; vou; vá; ir; ido                             |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -1146,11 +1181,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   47 |        ter | tem; tinha; terei; temos; tive                     |
-|   39 |      haver | havia; havemos; haverão; há                        |
-|   30 |       amar | ama; amava; amou; amado; amo                       |
-|   28 |        ver | via; viu; vê; vi; verei                            |
-|   28 |      saber | sabe; saberão; sei; saber                          |
+|   47 |        ter | temos; tivesse; tive; tinha; tenha                 |
+|   39 |      haver | haverão; havemos; há; havia                        |
+|   30 |       amar | amo; amava; ama; amar; amado                       |
+|   28 |        ver | vi; verei; viu; vê; via                            |
+|   28 |      saber | saber; sabe; sei; saberão                          |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -1201,11 +1236,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  390 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  296 |        ter | tem; têm; tenham; tido; teria                      |
-|  165 |      saber | sabe; saberei; sabendo; sabia; saiba               |
-|  152 |         ir | iria; ido; for; foram; vá                          |
-|  142 |      haver | haja; houve; houver; haviam; haverá                |
+|  390 |      dizer | digo; disse; diz; diria; diziam                    |
+|  296 |        ter | temos; tive; tinha; tinham; tenha                  |
+|  165 |      saber | sabe; sabendo; sabem; saberá; sabiam               |
+|  152 |         ir | indo; vou; vá; iria; ir                            |
+|  142 |      haver | haverá; houver; haver; haviam; havia               |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -1217,6 +1252,89 @@ for obra in obras:
 | João da Cruz            53 | Coimbra                35 |
 | Simão Botelho           50 | Porto                  29 |
 | Baltasar                45 | Lisboa                 23 |
+
+#### Lugares mais falados por capítulo, quando possível, [ref enunciado nº 11]
+
+| Capítulo             |               top 3 Localidades                |
+|:-------------------- |:---------------------------------------------- |
+| INTRODUÇÃO           | Relação do Porto ; Universidade de Coimbra ; cidade de Lisboa |
+| CAPÍTULO I           |            Lisboa ; Viseu ; Coimbra            |
+| CAPÍTULO II          |            Coimbra ; Viseu ; Lisboa            |
+| CAPÍTULO III         |            Coimbra ; Viseu ; Lisboa            |
+| CAPÍTULO IV          |            Viseu ; Coimbra ; Lisboa            |
+| CAPÍTULO V           |            Viseu ; Coimbra ; Lisboa            |
+| CAPÍTULO VI          |            Viseu ; Coimbra ; Lisboa            |
+| CAPÍTULO VII         |            Viseu ; Coimbra ; Lisboa            |
+| CAPÍTULO VIII        |            Viseu ; Coimbra ; Lisboa            |
+| CAPÍTULO IX          |            Viseu ; Coimbra ; Lisboa            |
+| CAPÍTULO X           |            Coimbra ; Viseu ; Lisboa            |
+| CAPÍTULO XI          |            Coimbra ; Viseu ; Lisboa            |
+| CAPÍTULO XII         |            Viseu ; Coimbra ; Lisboa            |
+| CAPÍTULO XIII        |            Viseu ; Coimbra ; Lisboa            |
+| CAPÍTULO XIV         |            Viseu ; Coimbra ; Porto             |
+| CAPÍTULO XV          |            Viseu ; Coimbra ; Porto             |
+| CAPÍTULO XVI         |            Viseu ; Coimbra ; Porto             |
+| CAPÍTULO XVII        |            Viseu ; Coimbra ; Porto             |
+| CAPÍTULO XVIII       |            Viseu ; Coimbra ; Porto             |
+| CAPÍTULO XIX         |            Viseu ; Coimbra ; Porto             |
+| CONCLUSÃO            |            Viseu ; Coimbra ; Porto             |
+| FIM                  |            Viseu ; Coimbra ; Porto             |
+
+
+
+</details>
+
+
+
+
+Vê-se erros do Spacy:
+				* em citar mais de uma vez o mesmo Simão (Botelho);
+				* em pensar que Mariana seria uma localidade.
+			temos assim uma [2ª iteração](#Camilo-Amor_de_Perdicao.txt_v2):
+### **2ª iteração** Amor de Perdicao
+<details id="Camilo-Amor_de_Perdicao.txt_v2">
+	<summary>expanda para detalhes da 2ª iteração</summary>
+
+#### metadata
+
+|   Autor |          Título           | Ficheiro                             |
+| -------:|:-------------------------:|:------------------------------------ |
+|  Camilo |     Amor de Perdicao      | Camilo-Amor_de_Perdicao.txt          |
+
+#### Primeiras duas frases detectadas pelo spaCy [ref. enunciado nº 2]
+> Amor de Perdição
+>de Camilo Castelo Branco
+>
+>(Memórias Duma Família)
+> Ao
+>Ilmo.
+
+#### Estatísticas do spaCy [ref. enunciados nº 3, 5, 6 e posto que iterando sobre todos os livros 7]
+
+|  nº tokens | nº verbos  | nº frases  | tamanho de frases  | nº ents    |
+| ---------- | ---------- | ---------- | ------------------ | ---------- |
+|      62716 |    2625    |       4298 |   ~  11.6 palavras | 1648       |
+
+#### listagem dos verbos mais frequentes [ref. enunciados nº 3 e 4]
+
+| freq |      lemma | ex. não ordenado de flexões                        |
+| ----:| ----------:|:-------------------------------------------------- |
+|  390 |      dizer | digo; disse; diz; diria; diziam                    |
+|  296 |        ter | temos; tive; tinha; tinham; tenha                  |
+|  165 |      saber | sabe; sabendo; sabem; saberá; sabiam               |
+|  152 |         ir | indo; vou; vá; iria; ir                            |
+|  142 |      haver | haverá; houver; haver; haviam; havia               |
+
+
+#### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
+
+|     top 5 Personagens      |     top 5 Localidades     |
+|:-------------------------- |:------------------------- |
+| Simão Botelho          238 | Viseu                  54 |
+| Teresa de Albuquerque  172 | Coimbra                35 |
+| Mariana                 78 | Porto                  29 |
+| Baltasar Coutinho       64 | Lisboa                 23 |
+| João da Cruz            53 | Portugal                6 |
 
 #### Lugares mais falados por capítulo, quando possível, [ref enunciado nº 11]
 
@@ -1275,11 +1393,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  232 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  158 |        ter | tem; têm; tinha; terei; ter                        |
-|  132 |        ver | verem; via; verá; vinham; viu                      |
-|  124 |      saber | sabe; sabendo; sabemos; saberem; sabia             |
-|  107 |        dar | darem; dadas; davam; daria; dá                     |
+|  232 |      dizer | digo; disse; diz; diria; diziam                    |
+|  158 |        ter | tendo; temos; tivesse; ter; tive                   |
+|  132 |        ver | vi; verá; viu; vê; viram                           |
+|  124 |      saber | sabe; sabendo; sabido; sabem; saberem              |
+|  107 |        dar | dado; dei; darem; deu; deram                       |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -1353,11 +1471,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   71 |        ter | tem; tinha; ter; temos; terá                       |
-|   64 |      dizer | dirá; dizer; dizia; diz; diziam                    |
-|   38 |      poder | poderiam; pode; poder; pôde; podem                 |
-|   35 |      saber | sabe; sabemos; sabia; sabem; sei                   |
-|   30 |      haver | haja; havia; houve; haviam; haverá                 |
+|   71 |        ter | terá; temos; tivesse; tido; tinha                  |
+|   64 |      dizer | digo; diz; disse; diziam; dizia                    |
+|   38 |      poder | podia; pôde; podendo; pudesse; pode                |
+|   35 |      saber | sabe; saber; sabia; sabem; sei                     |
+|   30 |      haver | haverá; houve; havido; haviam; havia               |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -1442,11 +1560,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  245 |      dizer | dirá; disseram; dizer; dizia; diria                |
-|  193 |        ter | tem; têm; tinha; ter; tiver                        |
-|  155 |        dar | darem; dadas; davam; darei; der                    |
-|  129 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
-|  121 |     querer | quiseram; querer; queres; quer; querendo           |
+|  245 |      dizer | digo; dizerem; diz; diria; diziam                  |
+|  193 |        ter | terá; temos; tivesse; tínhamos; tido               |
+|  155 |        dar | dado; dei; darem; deu; darei                       |
+|  129 |      fazer | faziam; feito; fazia; faria; fazer                 |
+|  121 |     querer | quer; querem; quiser; queres; queriam              |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -1521,11 +1639,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  226 |      dizer | dirá; disseram; dizer; dizia; diria                |
-|  159 |      fazer | feitos; feito; fazem; feita; fazerem               |
-|  157 |        ter | tem; têm; teria; teremos; tiver                    |
-|  145 |      poder | poderiam; pode; podiam; poderei; poder             |
-|  120 |     querer | querer; querermos; quer; queres; querendo          |
+|  226 |      dizer | digo; dizemos; disse; diz; diria                   |
+|  159 |      fazer | feito; faria; fazer; fez; fazem                    |
+|  157 |        ter | tínhamos; temos; tive; tinha; terão                |
+|  145 |      poder | pudessem; podia; pôde; posso; poderá               |
+|  120 |     querer | quer; querem; quiser; queres; queriam              |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -1591,11 +1709,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  283 |      dizer | dirá; disseram; dizer; dizia; diria                |
-|  221 |        ter | tem; têm; terei; teria; teremos                    |
-|  165 |      saber | saberão; sabe; sabendo; sabia; saiba               |
-|  165 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
-|  156 |      poder | poderiam; pode; podiam; poderei; pôde              |
+|  283 |      dizer | digo; digamos; diz; disse; diziam                  |
+|  221 |        ter | teriam; temos; tínhamos; tive; tinha               |
+|  165 |      saber | sabe; sabendo; sabem; saberá; saber                |
+|  165 |      fazer | faziam; feito; fazia; faria; fará                  |
+|  156 |      poder | podia; pôde; posso; podendo; possam                |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -1680,11 +1798,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   51 |      saber | sabe; sabia; saberá; souber; sei                   |
-|   49 |      poder | poderiam; pode; poder; pôde; posso                 |
-|   37 |        ter | tem; tinha; ter; tive; terá                        |
-|   35 |      fazer | faziam; fizeram; faz; feito; faria                 |
-|   33 |      dizer | dizer; dizia; diz; digo; disse                     |
+|   51 |      saber | sabe; souber; saberá; saber; sabia                 |
+|   49 |      poder | pudessem; podia; pôde; posso; pudesse              |
+|   37 |        ter | terá; ter; tido; tive; tinha                       |
+|   35 |      fazer | faziam; feito; fazia; faria; fará                  |
+|   33 |      dizer | digo; disse; diz; dizer; dito                      |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -1743,11 +1861,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  232 |        ter | tem; têm; tinha; ter; tiver                        |
-|  205 |      dizer | disseram; dizer; dizia; diz; diziam                |
-|  131 |        ver | verem; via; verá; viam; vê                         |
-|  129 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
-|  116 |        dar | der; dava; dar; dada; dei                          |
+|  232 |        ter | temos; tivesse; ter; tido; tive                    |
+|  205 |      dizer | digo; dizerem; diz; disse; diziam                  |
+|  131 |        ver | vi; verá; viu; vê; viram                           |
+|  129 |      fazer | faziam; feito; fazia; faria; fará                  |
+|  116 |        dar | dado; dei; damos; darei; dada                      |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -1835,11 +1953,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  281 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  193 |        ter | tem; têm; tinha; terei; ter                        |
-|  119 |      poder | poderiam; pode; podiam; pôde; posso                |
-|  117 |      saber | sabe; sabendo; sabia; saberem; saiba               |
-|  112 |      haver | haja; havia; houve; haviam; havemos                |
+|  281 |      dizer | digo; dizemos; dizerem; diz; disse                 |
+|  193 |        ter | terá; temos; tivesse; tido; tive                   |
+|  119 |      poder | podia; pôde; posso; podendo; pudesse               |
+|  117 |      saber | sabe; sabendo; sabida; saberem; saber              |
+|  112 |      haver | houve; haviam; havia; há; haja                     |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -1957,11 +2075,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  160 |        ter | tem; têm; terei; tenham; teria                     |
-|  101 |      dizer | dizíamos; disseram; dizer; dizia; diria            |
-|   95 |      saber | saibam; sabe; sabendo; sabemos; sabia              |
-|   77 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
-|   68 |     querer | querer; queres; quer; queremos; querem             |
+|  160 |        ter | teriam; temos; tínhamos; tive; tinha               |
+|  101 |      dizer | digo; dizerem; disse; diz; diria                   |
+|   95 |      saber | sabe; saibam; sabendo; sabida; saber               |
+|   77 |      fazer | faziam; feito; fazia; faria; faz                   |
+|   68 |     querer | quer; querem; quiser; queres; queriam              |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2009,11 +2127,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  195 |      dizer | dirá; disseram; dizer; dizia; diria                |
-|  187 |        ter | tem; têm; terei; tenham; teria                     |
-|  144 |      haver | haja; houve; houver; haviam; havermos              |
-|  137 |      poder | poderiam; pode; poderem; podiam; pôde              |
-|  120 |        dar | darem; davam; darei; daria; dá                     |
+|  195 |      dizer | digo; dizerem; diz; disse; diziam                  |
+|  187 |        ter | teriam; temos; tive; tinha; tenha                  |
+|  144 |      haver | haverá; houve; houver; haviam; havia               |
+|  137 |      poder | poderão; podia; pôde; poderá; posso                |
+|  120 |        dar | dado; dei; darem; damos; deu                       |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2085,11 +2203,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   41 |        ter | tem; têm; tinha; ter; temos                        |
-|   37 |     querer | querer; queres; quer; querem; quis                 |
-|   33 |      poder | pode; podem; posso; poderão; possa                 |
-|   32 |      haver | havia; haver; haverá; há                           |
-|   27 |        vir | vinha; venha; vem; veio; vir                       |
+|   41 |        ter | temos; tivesse; tido; tive; tinha                  |
+|   37 |     querer | quer; querem; quiser; queres; quero                |
+|   33 |      poder | podia; posso; pudesse; pode; podem                 |
+|   32 |      haver | haverá; haver; há; havia                           |
+|   27 |        vir | vem; venha; viria; veio; vinha                     |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2140,11 +2258,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  150 |      dizer | disseram; dizer; dizia; diziam; diz                |
-|  140 |        ter | tem; têm; tinha; ter; tiver                        |
-|  106 |      fazer | fazendo; faziam; fazerem; fizeram; faz             |
-|   74 |        dar | darem; davam; darei; daria; dá                     |
-|   66 |     querer | querer; quer; querendo; querem; quero              |
+|  150 |      dizer | digo; disse; diz; diziam; dizia                    |
+|  140 |        ter | temos; tivesse; ter; tido; tinha                   |
+|  106 |      fazer | faziam; feito; fazia; faria; faz                   |
+|   74 |        dar | dado; dei; darem; deu; darei                       |
+|   66 |     querer | quer; querem; quiser; queriam; quero               |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2202,11 +2320,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   61 |        ter | tem; têm; tinha; ter; tiver                        |
-|   56 |      dizer | disseram; dizer; dizia; diz; digo                  |
-|   23 |        ver | verá; via; viam; viu; vi                           |
-|   22 |      poder | pode; podem; posso; podendo; possa                 |
-|   22 |      fazer | faziam; fizeram; faz; faze; fazem                  |
+|   61 |        ter | tendo; tenham; terá; tivesse; tive                 |
+|   56 |      dizer | digo; disse; diz; dizia; dito                      |
+|   23 |        ver | vi; verá; viu; viram; visto                        |
+|   22 |      poder | pudessem; podia; posso; podendo; pode              |
+|   22 |      fazer | faze; faziam; fazia; fará; faz                     |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2255,11 +2373,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   51 |        ter | tem; tinha; ter; temos; tive                       |
-|   48 |      poder | pode; poderei; poder; podem; podemos               |
-|   36 |     querer | queres; querer; quer; querendo; quero              |
-|   30 |      saber | sabe; saberei; sabia; saiba; sabem                 |
-|   27 |      dizer | dizer; diz; digo; disse; dizem                     |
+|   51 |        ter | terá; temos; tivesse; ter; tido                    |
+|   48 |      poder | podia; pôde; posso; poderá; pudesse                |
+|   36 |     querer | quer; quiser; queres; quero; querer                |
+|   30 |      saber | sabe; sabem; saber; sabia; saberei                 |
+|   27 |      dizer | digo; disse; diz; dizer; dito                      |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2306,11 +2424,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  144 |      dizer | disseram; dizer; dizia; diziam; diz                |
-|  121 |        ter | tem; têm; tinha; terei; ter                        |
-|   75 |      saber | saibam; sabe; saberei; sabendo; sabia              |
-|   57 |         ir | iria; ido; for; ir; vá                             |
-|   56 |        ver | verá; via; vistos; viu; vê                         |
+|  144 |      dizer | digo; disse; diz; diziam; dizia                    |
+|  121 |        ter | tendo; temos; tivesse; tinha; teria                |
+|   75 |      saber | sabe; saibam; sabendo; saberem; saber              |
+|   57 |         ir | vou; vá; iria; ir; vamos                           |
+|   56 |        ver | vi; vistos; verá; viu; vê                          |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2359,11 +2477,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  146 |      dizer | disseram; dizer; dizia; diziam; diz                |
-|  124 |        ter | tem; têm; tinha; terei; ter                        |
-|   76 |      saber | saibam; sabe; saberei; sabendo; sabia              |
-|   58 |        ver | verá; via; vistos; viu; vê                         |
-|   57 |         ir | iria; ido; for; ir; vá                             |
+|  146 |      dizer | digo; disse; diz; diziam; dizia                    |
+|  124 |        ter | tendo; temos; tivesse; ter; tinha                  |
+|   76 |      saber | sabe; saibam; sabendo; sabem; saberem              |
+|   58 |        ver | vi; vistos; verá; viu; vê                          |
+|   57 |         ir | vou; vá; iria; ir; vamos                           |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2412,11 +2530,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  205 |        ter | tem; têm; tido; teria; teremos                     |
-|  147 |      fazer | feitos; feito; fazemos; fazem; feita               |
-|  133 |        dar | darem; davam; der; daria; dados                    |
-|  132 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  123 |      poder | poderiam; pode; poderei; pôde; posso               |
+|  205 |        ter | teriam; temos; tive; tinha; terão                  |
+|  147 |      fazer | feito; faria; fazer; fez; fazem                    |
+|  133 |        dar | dado; dados; dei; darem; deu                       |
+|  132 |      dizer | digo; dizerem; disse; diz; diria                   |
+|  123 |      poder | podia; poderá; podermos; podemos; possa            |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2468,11 +2586,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  158 |        ter | tem; têm; tinha; terei; ter                        |
-|  130 |      poder | poderiam; pode; poderem; podiam; poderei           |
-|  101 |      saber | sabe; sabendo; sabia; saiba; sabem                 |
-|   92 |        ver | via; vistas; viu; vê; vista                        |
-|   80 |      dizer | disseram; dizer; dizia; diria; diz                 |
+|  158 |        ter | terá; ter; tivesse; tido; tive                     |
+|  130 |      poder | pudessem; podia; pôde; posso; poderá               |
+|  101 |      saber | sabe; sabendo; saber; soube; sabia                 |
+|   92 |        ver | vi; verão; vistas; viu; vê                         |
+|   80 |      dizer | digo; dizemos; diz; disse; diria                   |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2525,11 +2643,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  292 |      dizer | dirá; disseram; dizer; dizia; diria                |
-|  242 |        ter | tem; têm; terei; tenham; teria                     |
-|  164 |     querer | queiram; querer; queres; quer; quiseram            |
-|  152 |      saber | sabe; sabendo; sabia; saberem; sabemos             |
-|  146 |      fazer | fazendo; faziam; fazerem; fizeram; faz             |
+|  292 |      dizer | digo; diz; disse; diziam; diria                    |
+|  242 |        ter | temos; tínhamos; tive; tinha; tinham               |
+|  164 |     querer | quer; querem; queiram; quiser; queres              |
+|  152 |      saber | sabe; sabendo; sabido; souber; sabem               |
+|  146 |      fazer | faziam; feito; fazia; faria; fará                  |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2603,11 +2721,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  320 |        ter | tem; têm; terei; teres; teria                      |
-|  302 |      poder | poderiam; pode; poderei; pôde; posso               |
-|  287 |      dizer | dirá; disseram; dizer; dizia; diria                |
-|  230 |      saber | saberia; sabe; sabendo; sabia; sabemos             |
-|  172 |      fazer | fazendo; faziam; fizeram; faz; feito               |
+|  320 |        ter | temos; tive; tinha; teres; tinham                  |
+|  302 |      poder | podia; poderá; podermos; podemos; possa            |
+|  287 |      dizer | digo; dizerem; diz; disse; diziam                  |
+|  230 |      saber | sabe; sabendo; sabem; saberá; saberia              |
+|  172 |      fazer | faziam; feito; fazia; faria; fará                  |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2680,11 +2798,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  340 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  311 |        ter | tem; têm; tinha; terei; ter                        |
-|  203 |      poder | poderiam; pode; podiam; poderei; pôde              |
-|  200 |      saber | saberão; sabe; sabendo; sabemos; sabia             |
-|  178 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
+|  340 |      dizer | digo; digamos; diz; disse; diziam                  |
+|  311 |        ter | terá; temos; tivesse; tido; tive                   |
+|  203 |      poder | pudessem; podia; pôde; posso; poderá               |
+|  200 |      saber | sabe; sabendo; sabido; souber; saberá              |
+|  178 |      fazer | faziam; feito; fazia; faria; fará                  |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2759,11 +2877,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  341 |        ter | tem; têm; terei; tido; teria                       |
-|  273 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  205 |      poder | poderiam; pode; podiam; poderei; pôde              |
-|  171 |     querer | quiseram; querer; queres; quer; querendo           |
-|  163 |      fazer | fazendo; faziam; fazerem; fizeram; faz             |
+|  341 |        ter | temos; tive; tinha; terão; tenha                   |
+|  273 |      dizer | digo; disse; diz; diria; diziam                    |
+|  205 |      poder | podia; pôde; posso; poderá; possam                 |
+|  171 |     querer | quer; querem; quiser; queres; queriam              |
+|  163 |      fazer | faziam; feito; fazia; faria; fará                  |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2837,11 +2955,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  127 |      dizer | dirá; disseram; dizer; dizia; diria                |
-|  117 |        ter | tem; têm; tinha; ter; temos                        |
-|   92 |        ver | verem; via; viam; vê; viu                          |
-|   74 |      saber | saberia; sabe; sabia; saberem; saiba               |
-|   71 |      poder | pode; podiam; pôde; podem; podemos                 |
+|  127 |      dizer | digo; diz; disse; diria; dizer                     |
+|  117 |        ter | terá; temos; tivesse; tive; tinha                  |
+|   92 |        ver | vi; viu; vê; viram; visto                          |
+|   74 |      saber | sabe; sabem; saberia; saberem; saber               |
+|   71 |      poder | podia; pôde; posso; podendo; possam                |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -2926,11 +3044,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  196 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  134 |        ter | tem; têm; tinha; ter; tiver                        |
-|  102 |        ver | verem; via; verá; viu; vê                          |
-|   97 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
-|   91 |      saber | sabe; sabido; sabia; sabemos; sabem                |
+|  196 |      dizer | digo; dizerem; diz; disse; diziam                  |
+|  134 |        ter | terá; temos; tivesse; ter; tive                    |
+|  102 |        ver | vi; verá; viu; vê; viram                           |
+|   97 |      fazer | faziam; feito; fazia; faria; fará                  |
+|   91 |      saber | sabe; sabido; souber; saberá; saber                |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3015,11 +3133,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  399 |      dizer | disseram; dizer; dizia; diria; diziam              |
-|  325 |        ter | tem; têm; terei; tenham; teria                     |
-|  209 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
-|  192 |     querer | queres; querer; quer; querendo; queremos           |
-|  180 |      saber | saibam; sabe; sabíamos; saberei; sabendo           |
+|  399 |      dizer | digo; dizerem; disse; diz; diziam                  |
+|  325 |        ter | teriam; tínhamos; temos; tinha; tenha              |
+|  209 |      fazer | faziam; feito; fazia; faria; fará                  |
+|  192 |     querer | quer; querem; quiser; queres; queriam              |
+|  180 |      saber | sabe; sabíamos; saibam; sabendo; sabem             |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3080,11 +3198,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  320 |        ter | tem; têm; terei; tenham; tido                      |
-|  287 |      dizer | disseram; dizer; dizia; diz; diziam                |
-|  147 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
-|  134 |        ver | verá; via; veria; víamos; viam                     |
-|  134 |        dar | darem; davam; der; dados; daria                    |
+|  320 |        ter | temos; tínhamos; tive; tinha; tenha                |
+|  287 |      dizer | digo; disse; diz; diziam; dizia                    |
+|  147 |      fazer | faziam; feito; fazia; faria; fará                  |
+|  134 |        ver | vi; verei; veria; verá; víamos                     |
+|  134 |        dar | dado; dados; dei; darem; deu                       |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3201,11 +3319,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   28 |        ter | tinha; ter; tiver; temos; tivesse                  |
-|   17 |      fazer | fazendo; faz; feito; fez; feitas                   |
-|   13 |      poder | pode; pôde; poder; poderia; poderá                 |
-|   12 |        dar | dava; dar; dado; deu                               |
-|   10 |     seguir | seguido; seguiu; seguir; seguisse                  |
+|   28 |        ter | tendo; temos; tivesse; tinha; tinham               |
+|   17 |      fazer | feito; fazer; feitas; fez; faz                     |
+|   13 |      poder | podia; pôde; poderá; pode; poderia                 |
+|   12 |        dar | dado; deu; dava; dar                               |
+|   10 |     seguir | seguiu; seguisse; seguido; seguir                  |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3257,11 +3375,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   53 |      dizer | dizer; dizia; diz; diziam; digo                    |
-|   49 |        ter | tem; têm; tinha; ter; tiver                        |
-|   38 |        ver | verá; via; veria; víamos; viu                      |
-|   27 |        dar | dados; daria; dá; deram; dado                      |
-|   23 |      haver | havia; há; haver                                   |
+|   53 |      dizer | digo; diz; disse; diziam; dizer                    |
+|   49 |        ter | terá; temos; tive; tinha; tenha                    |
+|   38 |        ver | vi; veria; verá; víamos; viu                       |
+|   27 |        dar | dado; dados; dei; deu; deram                       |
+|   23 |      haver | haver; há; havia                                   |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3307,11 +3425,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  226 |      dizer | disseram; dizer; dizia; diria; diziam              |
-|  174 |        ter | tem; têm; tenham; tido; teria                      |
-|  112 |      poder | poderiam; pode; poderem; podiam; pôde              |
-|  100 |      fazer | fazendo; faziam; fazerem; fizeram; faz             |
-|   94 |      saber | sabe; sabendo; sabia; saiba; soube                 |
+|  226 |      dizer | digo; digamos; disse; diz; diria                   |
+|  174 |        ter | teriam; temos; tive; tinha; tenha                  |
+|  112 |      poder | podia; pôde; posso; poderá; pudesse                |
+|  100 |      fazer | faziam; feito; fazia; faria; fará                  |
+|   94 |      saber | sabe; sabendo; saberá; saber; soube                |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3360,11 +3478,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  185 |      dizer | dirá; disseram; dizer; dizia; diria                |
-|  136 |        ter | tem; têm; tinha; ter; tiver                        |
-|  113 |      saber | saibam; sabe; sabendo; sabia; saiba                |
-|  107 |      poder | poderiam; pode; podiam; pôde; poder                |
-|  102 |      fazer | fazendo; fazermos; faziam; fazerem; fizeram        |
+|  185 |      dizer | digo; diz; disse; diziam; diria                    |
+|  136 |        ter | temos; tivesse; tido; tive; tinha                  |
+|  113 |      saber | sabe; saibam; sabendo; sabido; saberá              |
+|  107 |      poder | pudessem; podia; pôde; poderá; posso               |
+|  102 |      fazer | faziam; feito; fazia; faria; fará                  |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3426,11 +3544,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   46 |        ter | tem; têm; tinha; ter; temos                        |
-|   31 |      dizer | disseram; dizer; dizia; diz; diziam                |
-|   24 |        dar | davam; daria; dá; dando; deram                     |
-|   21 |      fazer | faziam; feitos; faz; feito; faria                  |
-|   18 |      haver | haja; houve; haver; há; havia                      |
+|   46 |        ter | temos; tivesse; tido; tinha; tinham                |
+|   31 |      dizer | disse; diz; diziam; dizia; dizer                   |
+|   24 |        dar | dado; deu; deram; dá; dava                         |
+|   21 |      fazer | faziam; feito; fazia; faria; faz                   |
+|   18 |      haver | haver; havia; há; haja; houve                      |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3498,11 +3616,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  243 |      dizer | disseram; dizer; dizia; diria; diziam              |
-|  188 |        ter | tem; tido; teria; teremos; tiver                   |
-|  126 |      saber | saberão; saberia; sabe; sabendo; sabemos           |
-|  115 |        ver | verem; via; viu; vê; viam                          |
-|  113 |      fazer | fazendo; faziam; fazerem; fizeram; faz             |
+|  243 |      dizer | digo; dizerem; disse; diz; diria                   |
+|  188 |        ter | teriam; temos; tive; tinha; terão                  |
+|  126 |      saber | sabe; sabendo; sabido; saberia; saberá             |
+|  115 |        ver | vi; viu; vê; viram; visto                          |
+|  113 |      fazer | faziam; feito; fazia; faria; faz                   |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3579,11 +3697,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  265 |      dizer | disseram; dizer; dizia; diria; diziam              |
-|  190 |        ter | tem; têm; tido; teria; teremos                     |
-|  151 |        ver | verem; via; viu; vê; viam                          |
-|  137 |      saber | saberão; saberia; sabe; sabendo; sabemos           |
-|  137 |      poder | pode; poderem; podiam; poderei; pôde               |
+|  265 |      dizer | digo; dizerem; disse; diz; diria                   |
+|  190 |        ter | teriam; temos; tive; tinha; terão                  |
+|  151 |        ver | vi; viu; vê; viram; visto                          |
+|  137 |      saber | sabe; sabendo; sabido; saberia; sabem              |
+|  137 |      poder | podia; pôde; posso; podendo; pudesse               |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3632,11 +3750,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  103 |        ter | tem; têm; tinha; ter; temos                        |
-|   86 |      dizer | dizer; dizia; diz; diziam; digo                    |
-|   54 |      fazer | faziam; faz; feito; fazemos; faria                 |
-|   45 |     querer | querer; quer; querem; quis; quero                  |
-|   40 |        ver | via; viam; viu; vi; veja                           |
+|  103 |        ter | terá; temos; tivesse; tínhamos; tido               |
+|   86 |      dizer | digo; diz; disse; diziam; dizer                    |
+|   54 |      fazer | faziam; feito; fazia; faria; fazer                 |
+|   45 |     querer | quer; querem; quiser; queriam; quero               |
+|   40 |        ver | vi; verei; viu; veja; viram                        |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3686,11 +3804,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  233 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  175 |        ter | tem; teremos; têm; tinha; terei                    |
-|  140 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
-|  114 |      saber | saberia; sabe; sabes; sabendo; sabia               |
-|  113 |     querer | querer; queres; quer; querendo; querem             |
+|  233 |      dizer | digo; dizerem; diz; disse; diria                   |
+|  175 |        ter | tendo; terá; temos; tivesse; tido                  |
+|  140 |      fazer | faziam; feito; fazia; faria; fará                  |
+|  114 |      saber | sabe; sabendo; saberá; sabes; saberem              |
+|  113 |     querer | quer; querem; quereres; quiser; queres             |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3774,11 +3892,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  194 |      dizer | disseram; dizer; dizia; dize; diria                |
-|  187 |        ter | tem; têm; terei; tenham; tido                      |
-|  142 |      saber | sabe; saberei; sabendo; sabia; sabemos             |
-|  134 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
-|  112 |        dar | dadas; davam; darei; der; daria                    |
+|  194 |      dizer | digo; digamos; dize; disse; diz                    |
+|  187 |        ter | temos; tive; tinha; terão; tenha                   |
+|  142 |      saber | sabe; sabendo; saberem; saber; soube               |
+|  134 |      fazer | faziam; feito; fazia; faria; fará                  |
+|  112 |        dar | dado; dei; deu; darei; dada                        |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3861,11 +3979,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  321 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  218 |        ter | tem; têm; tinha; terei; ter                        |
-|  161 |      saber | sabe; sabes; sabendo; sabemos; sabia               |
-|  143 |     querer | queiram; querer; queres; quer; querendo            |
-|  127 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
+|  321 |      dizer | digo; disse; diz; diria; diziam                    |
+|  218 |        ter | terá; temos; tivesse; tido; tive                   |
+|  161 |      saber | sabe; sabendo; sabido; sabes; souber               |
+|  143 |     querer | quer; querem; queiram; quiser; queres              |
+|  127 |      fazer | faze; faziam; feito; fazia; faz                    |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -3940,11 +4058,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  375 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  235 |        ter | tem; têm; terei; tido; teria                       |
-|  142 |        ver | verem; via; verá; vinham; viu                      |
-|  125 |      poder | pode; podiam; poderei; poder; podem                |
-|  123 |        dar | davam; darei; der; daria; dá                       |
+|  375 |      dizer | digo; digamos; disse; diz; diziam                  |
+|  235 |        ter | temos; tive; tinha; terão; tinham                  |
+|  142 |        ver | vi; vemos; veja; verão; verá                       |
+|  125 |      poder | podia; pôde; podendo; poderá; posso                |
+|  123 |        dar | dado; daremos; dei; deu; darei                     |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -4011,11 +4129,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  458 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  409 |        ter | tem; têm; terei; tido; teria                       |
-|  286 |     querer | querer; queres; quer; querido; querendo            |
-|  251 |      fazer | fazendo; faziam; feitos; fizeram; faz              |
-|  244 |      poder | poderiam; pode; podiam; poderei; poder             |
+|  458 |      dizer | digo; diz; disse; diziam; diria                    |
+|  409 |        ter | teriam; temos; tive; tinha; tenha                  |
+|  286 |     querer | quer; querem; quiser; queres; queriam              |
+|  251 |      fazer | faziam; feito; fazia; faria; fará                  |
+|  244 |      poder | pudessem; podia; pôde; posso; podendo              |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -4091,11 +4209,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   56 |        ter | tem; têm; tinha; terei; ter                        |
-|   33 |      poder | pode; poder; posso; podemos; poderia               |
-|   29 |     querer | querer; queres; quer; quis; quero                  |
-|   26 |      fazer | fazendo; faz; feito; faria; fez                    |
-|   23 |      dizer | dizer; dizia; diz; digo; disse                     |
+|   56 |        ter | tínhamos; tivesse; ter; tive; tinha                |
+|   33 |      poder | podia; posso; podendo; pudesse; pode               |
+|   29 |     querer | quer; queres; quero; quis; querer                  |
+|   26 |      fazer | feito; faria; faz; feitas; fez                     |
+|   23 |      dizer | digo; disse; diz; dizia; dito                      |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -4143,11 +4261,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   71 |        ter | tem; têm; tinha; terei; ter                        |
-|   55 |      saber | sabe; sabendo; sabia; soube; sabido                |
-|   53 |      dizer | dizer; diria; diz; digo; disse                     |
-|   49 |     querer | queres; quer; querendo; querem; quis               |
-|   34 |      poder | pode; podiam; podem; posso; poderá                 |
+|   71 |        ter | temos; tivesse; tive; tinha; tenha                 |
+|   55 |      saber | sabe; sabendo; sabido; saber; soube                |
+|   53 |      dizer | digo; disse; diz; diria; dizer                     |
+|   49 |     querer | quer; querem; queres; quero; quis                  |
+|   34 |      poder | podia; poderá; posso; podiam; pode                 |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -4194,11 +4312,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  170 |        ter | tem; têm; tinha; terei; ter                        |
-|   99 |      saber | saberão; sabe; sabemos; sabia; saiba               |
-|   92 |      dizer | dirá; disseram; dizer; dizia; diria                |
-|   89 |      haver | haja; houve; houver; haverá; havido                |
-|   87 |        ser | seja; era; fosse; serei; foram                     |
+|  170 |        ter | temos; tivesse; tido; tive; tinha                  |
+|   99 |      saber | sabe; saber; sabia; saiba; saberão                 |
+|   92 |      dizer | digo; diz; disse; diziam; diria                    |
+|   89 |      haver | haverá; houver; havido; haverão; havia             |
+|   87 |        ser | será; é; seja; fosse; serei                        |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -4249,11 +4367,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  220 |        ter | tem; têm; tinha; terei; ter                        |
-|  151 |     querer | querer; queres; quer; querendo; querem             |
-|  148 |      poder | pode; podiam; poderei; poder; podem                |
-|  123 |      saber | sabe; saberei; sabendo; sabia; saiba               |
-|  122 |      dizer | dizer; dizia; diria; diz; digo                     |
+|  220 |        ter | terá; temos; tivesse; tínhamos; tido               |
+|  151 |     querer | quer; querem; quiser; queres; quero                |
+|  148 |      poder | poderão; podia; pôde; poderá; podendo              |
+|  123 |      saber | sabe; sabendo; sabido; sabem; saber                |
+|  122 |      dizer | digo; disse; diz; diria; dizia                     |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -4300,11 +4418,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  294 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  257 |      poder | poderiam; pode; podiam; poderei; poder             |
-|  238 |      fazer | fazendo; faziam; fazerem; fizeram; faz             |
-|  225 |      saber | saberia; sabe; sabendo; sabia; saberem             |
-|  224 |        ter | tem; têm; terei; tenham; teria                     |
+|  294 |      dizer | digo; digamos; dizemos; dizerem; disse             |
+|  257 |      poder | podia; pôde; posso; poderá; podendo                |
+|  238 |      fazer | faziam; feito; fazia; faria; fará                  |
+|  225 |      saber | sabe; sabendo; saberia; saberá; saberem            |
+|  224 |        ter | temos; tive; tinha; terão; tenha                   |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -4374,11 +4492,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  129 |        ter | tem; têm; tinha; ter; temos                        |
-|  109 |        ver | via; viam; vê; viu; vi                             |
-|  108 |      poder | pode; podiam; pôde; podem; posso                   |
-|   97 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|   79 |      haver | havia; houve; há; haveria; haver                   |
+|  129 |        ter | terá; temos; ter; tido; tive                       |
+|  109 |        ver | vi; vemos; viu; vê; viram                          |
+|  108 |      poder | podia; pôde; poderá; posso; possam                 |
+|   97 |      dizer | digo; disse; diz; diria; diziam                    |
+|   79 |      haver | haver; havia; há; houve; haveria                   |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -4468,11 +4586,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|   22 |        ter | tinha; terei; ter; tive; tivesse                   |
-|   19 |      poder | pode; pôde; poder; podem; podemos                  |
-|   19 |      fazer | faz; fizera; fez; fazer; faça                      |
-|   16 |        ver | via; viu; vê; vendo; visto                         |
-|   15 |      haver | havia; há; houve                                   |
+|   22 |        ter | tivesse; tido; tive; tinha; tinham                 |
+|   19 |      poder | podia; pôde; podendo; pode; poderia                |
+|   19 |      fazer | fazia; fazer; faz; fez; feita                      |
+|   16 |        ver | viu; vê; viram; visto; via                         |
+|   15 |      haver | houve; há; havia                                   |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -4541,11 +4659,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  352 |      dizer | disseram; dizer; dizia; diria; diz                 |
-|  235 |        ter | tem; têm; tido; teria; tiver                       |
-|  200 |      fazer | fazendo; faziam; fazerem; fizeram; faz             |
-|  155 |      poder | pode; poderem; podiam; poderei; poder              |
-|  150 |     querer | quiseram; querer; queres; quer; queiram            |
+|  352 |      dizer | digo; digamos; dizerem; diz; disse                 |
+|  235 |        ter | teriam; temos; tive; tinha; terão                  |
+|  200 |      fazer | faziam; feito; fazia; faria; fará                  |
+|  155 |      poder | pudessem; podia; pôde; posso; podendo              |
+|  150 |     querer | quer; querem; queiram; quiser; queres              |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -4615,11 +4733,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  221 |        ter | tem; têm; tenham; tido; teria                      |
-|  214 |      dizer | disseram; dizer; dizia; diz; diziam                |
-|  147 |      haver | haja; houve; haviam; haverá; haver                 |
-|  137 |      fazer | fazendo; faziam; fazerem; fizeram; faz             |
-|  126 |      saber | sabe; sabíamos; sabendo; sabia; saberem            |
+|  221 |        ter | temos; tive; tinha; tinham; tenha                  |
+|  214 |      dizer | digo; dizemos; dizerem; disse; diz                 |
+|  147 |      haver | haverá; houve; haviam; havia; há                   |
+|  137 |      fazer | faziam; feito; fazia; faria; faz                   |
+|  126 |      saber | sabe; sabíamos; sabendo; saberá; saberem           |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -4704,11 +4822,11 @@ for obra in obras:
 
 | freq |      lemma | ex. não ordenado de flexões                        |
 | ----:| ----------:|:-------------------------------------------------- |
-|  144 |        ter | tem; têm; tinha; terei; ter                        |
-|  112 |      dizer | dirá; dizer; dizia; diria; diz                     |
-|  100 |      poder | pode; podiam; poderei; poder; pôde                 |
-|   83 |      fazer | fazendo; faziam; fizeram; faz; feito               |
-|   73 |        ver | via; vinham; viam; vê; viu                         |
+|  144 |        ter | temos; tivesse; tive; tinha; teria                 |
+|  112 |      dizer | digo; disse; diz; diria; diziam                    |
+|  100 |      poder | pudessem; podia; pôde; posso; poderá               |
+|   83 |      fazer | faziam; feito; fazia; faria; fará                  |
+|   73 |        ver | vi; viu; vê; visto; via                            |
 
 
 #### [ref. enunciado nº 9, necessitando internamente nº 8, e fornecendo 10 já que iterando sobre todos os livros]
@@ -4757,4 +4875,53 @@ capítulos são errôneamente atribuídos.
 
 Reforço então a sugestão de padronização de estilo para que análises automáticas
 resultem mais refinadas.
+
+## Anexos:
+
+#### listagem não exaustiva dos títulos que não estão em caixa-alta
+
+```python
+	chHeader_TitleCase = ['A enjeitada','A filha do Acerdiago', 
+		'A filha do doutor negro', 'A mulher fatal', 'A neta do arcediago',
+		'Anatema 1', 'Aventuras de Basilio Fernandes', 'Carlota Angela',
+		'Cenas da Foz', 'Gracejos que matam', 'Misterios de Fafe',
+		'O Judeu', 'O que fazem mulheres', 'O regicida','Um homem de brios']
+	chHeader_Roman = ['A Gratidao','A Infanta Capelista', 
+		'A Morgada de Romariz', 'A queda de um Anjo-Grafia actualizada', 
+		'Amor de Salvacao', 'Eusebio Macario','Memorias de Guilherme do Amaral',
+		'Misterios de Lisboa 1','Misterios de Lisboa 2','Misterios de Lisboa 3',
+		'Novelas do Minho 1','Novelas do Minho 2','O carrasco de Vitor Hugo',
+		'Coracao cabeca e estomago', 'Doze casamentos felizes',
+		'Duas Horas de Leitura','Eusebio Macario', 'Novelas do Minho 1', 
+		'Novelas do Minho 2','O esqueleto-v2',
+		'O retrato de Ricardina-v1', 'Onde esta a felicidade', 'Um livro']
+```
+
+#### listagem não exaustiva de falsas localidades levantadas pelo **spaCy**
+
+Mariana, provavelmente tomada como localidade pelo acidente ambiental 
+constava em __Amor de Perdição__ como a localidade mais falada, sendo na verdade
+uma personagem.
+
+```python
+non_locs_A_Brasileira_de_Prazins = ['Srª','Majestade', 'Marco']
+non_locs_Amor_de_Perdicao = ['A5','Abençoado','Abram-me',
+	'Abria','Aconteceu', 'Ajuntava','Albuquerque','Alcobaça','aleive',
+	'Almacave','Amanhã','Animava-a','Arranjou','Atira','bela fugitiva!',
+	'Bela','Bemposta','Bendito seja Deus!','bigorna','boa moça!','Brito',
+	'cabo da rua','cabo dum punhal','Chamou','Claro','Coma','Conhece-a',
+	'Conta-me','Cuide','Dai-me','Decerto','Deixa','desditosa menina!',
+	'Dezoito','Digo','Dionisia','Disse-mo','Donde','Eis-me','Estará','Estou',
+	'esturrínho','Estás','Fala-lhe','Fale','Farei','fidalguinha','Fr',
+	'Ignorava','Imaginara','Importa','insólito','Iremos',
+	'Juiz de fora de','juiz de fora.','Juiz','Junqueira','lareira',
+	'Leia','Mande-me','Mariana','Mariana.','Matasse','Mau','minha',
+	'Nossa Senhora','Noutra','Nã','Olhe','Parece-me','Parei','Pasmosa',
+	'pedra da lareira','pedra dum agueiro.','Pensará','Peça-lhe',
+	'Pinhão','Pintos','planizava','Pobre','Posso amar-te','Procura-a',
+	'Promete-me','Que','Queres','Queria','Rodeado','Rodeou','sanhudo',
+	'Sansão','Senta-te','Serei','Significa','Simão','Sol','Tenha',
+	'Tenho','Terias','terra','tonizar','Vai-te','Vais','Vales','Vamos',
+	'Venha','Venho','Vinha','Ânsia','És','Ó']
+```
 

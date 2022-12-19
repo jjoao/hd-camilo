@@ -45,17 +45,17 @@ def spacyTagTxt(paragraphs,ents):
 
 class Book:
 	def __init__(self,filepath):
-		self.filename = filepath[8:]
+		self.filename = filepath[11:]
 		baseurl = 'https://raw.githubusercontent.com/'
 		repo = 'jjoao/hd-camilo'
 		branch = '/main'
 		folder = '/Obra/'
 		self.url= baseurl+repo+branch+folder+self.filename
-		self.title = re.sub('_',' ',filepath[7:-4])[8:]
-		self.author = filepath.split('-')[0][8:]
+		self.title = re.sub('_',' ',self.filename[7:-4])
+		self.author = filepath.split('-')[0][11:]
 	
 	def stats(self, action=''):
-		book = '../Obra/' + self.filename
+		book = '../../Obra/' + self.filename
 		with open(book, 'r') as file:  content = file.read()
 		doc = nlp(content)
 		self.ents = [(e.text, e.label_, e.start_char, e.end_char) for e in doc.ents]
@@ -118,7 +118,7 @@ class Book:
 		entities()
 	
 def locationByChapter(b: Book):
-	filepath = '../Obra/' + b.filename
+	filepath = '../../Obra/' + b.filename
 	with open(filepath, 'r', encoding='utf8') as book: content = book.readlines()
 	query = '^ {0,70}[A-Z\u00c0-\u00dc]{1,}[^a-z\.]+$'
 	chHeader_TitleCase = ['A enjeitada','A filha do Acerdiago', 
@@ -262,9 +262,9 @@ Listar as obras de Camilo existentes na pasta `Obra/` do nosso repositório.
 Ou seja apresentar a lista dos ficheiros de texto existentes nessa pasta."""
 
 try: 
-	with open('../Obra', 'r') as folder: folder.read()
+	with open('../../Obra', 'r') as folder: folder.read()
 except IsADirectoryError: 
-	obras = os.listdir('../Obra'); obras.sort(); 
+	obras = os.listdir('../../Obra'); obras.sort(); 
 	pass
 except: print('ERRO: diretório "Obra" não achado')
 finally: 
@@ -279,7 +279,7 @@ finally:
 #### Código
 
 ```python
-obras = os.listdir('../Obra'); obras.sort();
+obras = os.listdir('../../Obra'); obras.sort();
 ```
 
 ### Listagem de obras
@@ -301,7 +301,7 @@ if interactive:
 	title = 'Selecione um título de livro de Camilo Castelo Branco'
 	options = books
 	option, i = pick(options, title)
-	book_path = '../Obra/' + obras[i]
+	book_path = '../../Obra/' + obras[i]
 	book = Book(book_path)
 	book.stats()
 	print('# TP1\n\n## primeira iteração: \n')
@@ -334,8 +334,6 @@ if interactive:
 
 		book.per= dict(sorted(book.per.items(), key = itemgetter(1), reverse = True))
 		book.loc= dict(sorted(book.loc.items(), key = itemgetter(1), reverse = True))
-		print(md(book,2))
-		book.verbs('list')
 
 else:
 	markdown += '''
@@ -355,24 +353,88 @@ Então imprimo tabelas e as 2 frases iniciais com tais informações (função _
 
 ```python
 for obra in obras:
-	book_path = '../Obra/' + obra
+	book_path = '../../Obra/' + obra
 	book = Book(book_path)
 	book.stats()
-	markdown += md(book)
+	markdown += md(book,3)
 ```
 
 ### Listagem de obras
 
+Destaco **Amor de Perdição**, aonde retrabalhei o output do **spaCy**.
+Para comparação: [iteração inicial](#Camilo-Amor_de_Perdicao.txt), [2ª iteração](#Camilo-Amor_de_Perdicao.txt_v2)
+
+#### Código de correcção:
+
+<details id="correcção">
+
+  <summary>expanda para excerto do código</summary>
+
+
+```python
+
+if book.title == 'Amor de Perdicao':
+	book.per['Mariana'] = book.loc['Mariana']
+	del book.loc['Mariana']
+	del book.loc['Estou']
+	del book.loc['Albuquerque']
+	del book.loc['Olhe']
+	del book.loc['Vamos']
+	del book.loc['Que']
+	personagens = [('Baltasar Coutinho',"Balta"),('Simão Botelho',"Simão"),
+		('Tadeu de Albuquerque', "Tadeu"), ('Teresa de Albuquerque',"Tere")]
+	for k in book.per.keys():
+		for p,query in personagens:
+			if k != p:
+				if k.find(query) > -1:
+					book.per[p] += book.per[k]
+					book.per[k] = 0
+	book.per= dict(sorted(book.per.items(), key = itemgetter(1), reverse = True))
+	book.loc= dict(sorted(book.loc.items(), key = itemgetter(1), reverse = True))
+```
+</details>\n\n
+
 	
 '''
 	for obra in obras:
-		book_path = '../Obra/' + obra 
+		book_path = '../../Obra/' + obra 
 		book = Book(book_path)
 		markdown += str('### ' + book.title 
 				 + '\n<details id="'+ obra +'">'
 				  +'\n\t<summary>expanda para detalhes</summary>\n\n')
 		book.stats()
 		markdown += md(book,3) + '</details>\n\n'
+
+		if book.title == 'Amor de Perdicao':
+			markdown += '''\n\n\nVê-se erros do Spacy:
+			\t* em citar mais de uma vez o mesmo Simão (Botelho);
+			\t* em pensar que Mariana seria uma localidade.
+			temos assim uma [2ª iteração](#Camilo-Amor_de_Perdicao.txt_v2):\n'''
+
+			book.per['Mariana'] = book.loc['Mariana']
+			del book.loc['Mariana']
+			del book.loc['Estou']
+			del book.loc['Albuquerque']
+			del book.loc['Olhe']
+			del book.loc['Vamos']
+			del book.loc['Que']
+
+			personagens = [('Baltasar Coutinho',"Balta"),('Simão Botelho',"Simão"),
+						('Tadeu de Albuquerque', "Tadeu"), ('Teresa de Albuquerque',"Tere")]
+			for k in book.per.keys():
+				for p,query in personagens:
+					if k != p:
+						if k.find(query) > -1:
+							book.per[p] += book.per[k]
+							book.per[k] = 0
+
+			book.per= dict(sorted(book.per.items(), key = itemgetter(1), reverse = True))
+			book.loc= dict(sorted(book.loc.items(), key = itemgetter(1), reverse = True))
+
+			markdown += str('### **2ª iteração** ' + book.title 
+				 + '\n<details id="'+ obra +'_v2">'
+				  +'\n\t<summary>expanda para detalhes da 2ª iteração</summary>\n\n')
+			markdown += md(book,3) + '</details>\n\n'
 	
 
 
@@ -416,7 +478,7 @@ resultem mais refinadas.
 
 #### listagem não exaustiva de falsas localidades levantadas pelo **spaCy**
 
-Mariana, provavelmente pelo tomada como localidade pelo acidente ambiental 
+Mariana, provavelmente tomada como localidade pelo acidente ambiental 
 constava em __Amor de Perdição__ como a localidade mais falada, sendo na verdade
 uma personagem.
 
@@ -444,4 +506,5 @@ non_locs_Amor_de_Perdicao = ['A5','Abençoado','Abram-me',
 
 '''
 
-print(markdown)
+with open('./README.md', mode='w', encoding='utf8') as output:
+	output.write(markdown)
