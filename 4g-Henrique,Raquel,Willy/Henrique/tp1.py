@@ -432,7 +432,7 @@ if book.title == 'Amor de Perdicao':
 			book.loc= dict(sorted(book.loc.items(), key = itemgetter(1), reverse = True))
 
 			markdown += str('### **2ª iteração** ' + book.title 
-				 + '\n<details id="'+ obra +'_v2">'
+				 + '\n<details open id="'+ obra +'_v2">'
 				  +'\n\t<summary>expanda para detalhes da 2ª iteração</summary>\n\n')
 			markdown += md(book,3) + '</details>\n\n'
 	

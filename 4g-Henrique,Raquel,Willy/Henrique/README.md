@@ -1292,7 +1292,7 @@ Vê-se erros do Spacy:
 				* em pensar que Mariana seria uma localidade.
 			temos assim uma [2ª iteração](#Camilo-Amor_de_Perdicao.txt_v2):
 ### **2ª iteração** Amor de Perdicao
-<details id="Camilo-Amor_de_Perdicao.txt_v2">
+<details open id="Camilo-Amor_de_Perdicao.txt_v2">
 	<summary>expanda para detalhes da 2ª iteração</summary>
 
 #### metadata
