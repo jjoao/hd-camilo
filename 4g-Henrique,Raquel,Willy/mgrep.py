@@ -19,7 +19,6 @@ def multiLine_grep(f_i, r_i, r_o):
 
 if __name__ == '__main__':
 	arg_len = len(sys.argv[1:])
-	print(arg_len)
 	if sys.stdin.isatty():
 		""""when nothing in stdin consider arg as the followinng
             [input.file , pattern, replacement, output.file]"""

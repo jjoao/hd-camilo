@@ -1,10 +1,10 @@
 # -*- coding: utf-8 -*-
-import json, re, sys
+import json, re, sys, ast
 import doctest
 
 # loading data on where to find book
 try:
-	with  open("./sources/dictSubst.json", 'r') as f:
+	with  open("./src/dictSubst.json", 'r') as f:
 		dictSubst = json.load(f)
 except FileNotFoundError:  
 	dictSubst = {
@@ -73,9 +73,9 @@ if __name__ == '__main__':
 		if   n_args == 1: print(substDict(txt))
 		elif n_args == 2: 
 			try:
-				dct = open(sys.argv[2]).read()
+				dct = json.load(open(sys.argv[2]))
 			except FileNotFoundError: 
-				dct = sys.argv[2]
+				dct = ast.literal_eval(sys.argv[2])
 			print(substDict(txt,dct))
 		else : print("too many arguments")
 	else: print(substDict(sys.stdin.read()))
