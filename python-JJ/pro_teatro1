@@ -1,0 +1,22 @@
+#!/usr/bin/python3
+'''
+NAME
+   pro_teatro1 - Processa teatro juntando 
+
+SYNOPSIS
+   pro_teatro x > teatro.md
+
+Description
+   marca Acto (# -), Cenas (## -) e personagens (**-**), após linha em branco
+'''
+
+from jjcli import * 
+
+cl=clfilter(opt="do:", doc=__doc__)     ## option values in cl.opt dictionary
+
+for txt in cl.text():
+    txt = sub(r'\n\n\s*(Acto .*)', r'\n\n# \1\n', txt)
+    txt = sub(r'\n\n\s*(Cena .*)', r'\n\n## \1\n(personagens....)', txt)
+    txt = sub(r'\n\n(\w.*)',       r'\n\n**\1**', txt)
+
+    print(txt)
