@@ -3,7 +3,7 @@
 NAME
    pro_teatro1 - Processa teatro juntando 
 
-SYNOPSIS
+Usage
    pro_teatro x > teatro.md
 
 Description
