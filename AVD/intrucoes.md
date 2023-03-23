@@ -24,8 +24,6 @@ Alguma actualização opcionais...
 - winget install strawberryperl.strawberryperl
 - winget install github.cli
 
-- gh repo clone sitiususc/linguakit
-ou
 - gh repo clone jjoao/linguakit
 - cd linguakit
 - gmake deps
