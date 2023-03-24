@@ -1,0 +1,18 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "one_sent_per_line"
+authors = [{name = "J.João", email = "jj@di.uminho.pt"}]
+license = {file = "LICENSE"}
+classifiers = ["License :: OSI Approved :: MIT License"]
+dynamic = ["version", "description"]
+dependencies = [ "jjcli", ]
+# readme = "XXX.md"
+
+[project.urls]
+Home = "https://natura.di.uminho.pt/one_sent_per_line"
+
+[project.scripts]
+onesentpl = "one_sent_per_line:main"
