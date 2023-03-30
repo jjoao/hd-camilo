@@ -1,13 +1,15 @@
 #!/usr/bin/python3
 '''
 NAME
-   onesentpl - convert into oner-sentence-per-line format
+   onesentpl - convert text into one-sentence-per-line format
 
 Usage:
-   onesentpl file.txt > nova.txt
+   onesentpl -l file.txt > nova.txt
 
+Options:
+   -l   convert utf8 '—' in ascii '-' (for linguakit)
 '''
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 from jjcli import * 
 

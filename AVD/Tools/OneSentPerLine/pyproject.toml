@@ -8,7 +8,7 @@ authors = [{name = "J.João", email = "jj@di.uminho.pt"}]
 license = {file = "LICENSE"}
 classifiers = ["License :: OSI Approved :: MIT License"]
 dynamic = ["version", "description"]
-dependencies = [ "jjcli", ]
+dependencies = [ "jjcli >=0.1.23", ]
 # readme = "XXX.md"
 
 [project.urls]
