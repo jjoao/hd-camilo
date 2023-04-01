@@ -15,7 +15,7 @@ from jjcli import *
 
 def main():
     cl=clfilter(opt="l", doc=__doc__) 
-    abrev = r'((Sr|Sra|Exm[oa]?|Ilm[oa]|Dr|Dra)\.)\n'
+    abrev = r'((Sr|Sra|Exm[oa]?|Ilm[oa]|Dr|Dra|Fr)\.)\n'
     
     for par in cl.paragraph():      ## process paragrafo de cada vez
         if match(r'---\s*\n',par):  ## não processa as linhas "---" metadados
@@ -27,7 +27,7 @@ def main():
         par = re.sub(r'([a-zãáéíúó0-9][.?!]+) ([A-ZÁÉÍÓÚ\-])', r'\1\n\2', par)
         par = re.sub(r'([a-zãáéíúó0-9][.?!]+) (— *[A-ZÁÉÍÓÚ])', r'\1\n\2', par)
         par = re.sub(r' +', r' ', par) 
-        par = re.sub(abrev, r'\1 ', par)                    ## abreviaturas
+        par = re.sub(abrev, r'\1 ', par,flags=re.I)         ## abreviaturas
         par = re.sub(r'(#.*)§', r'\n\1\n', par)
         if "-l" in cl.opt:
             par = re.sub(r'—', r'-', par)
