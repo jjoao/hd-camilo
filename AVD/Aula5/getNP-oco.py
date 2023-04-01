@@ -16,4 +16,3 @@ for linha in cl.input():
 for  w,n  in  oco.most_common(q):
     print( f"{w},{n}")
 
-#print(oco.most_common(30),"\n")
