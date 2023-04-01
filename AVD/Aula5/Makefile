@@ -1,3 +1,5 @@
+N=40
+
 p0:
 ## limpeza geral AP; uma frase por linha
 	onesentpl -l Camilo-Amor_de_Perdicao.txt > AP.txt
@@ -8,4 +10,4 @@ p1:
 
 p2:
 ## Calcular entidades; selecionar as 20 mais oco
-	python getNP-oco.py AP.tag > AP20.csv
+	python getNP-oco.py -n $N AP.tag > AP20.csv
