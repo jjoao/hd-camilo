@@ -22,8 +22,8 @@ Esta é uma história mágica, recheada de fantasia e
 encantamento, de aventuras misteriosas e de perigos
 arrepiantes, de criaturas sobrenaturais e de surpresas
 divertidas, que está a enfeitiçar as crianças... e também a
-gente mais adulta, um pouco por todo o mundo. Um *bestseller*
-com todos os ingredientes de um grande *clássico*, já
+gente mais adulta, um pouco por todo o mundo. Um bestseller
+com todos os ingredientes de um grande clássico, já
 galardoado com o Gold Award de 1997, o British Book Award de
 1997, o Smarties Prize e o Children's Book of the Year de
 1998.
@@ -34,7 +34,7 @@ Para a Jessica que adora histórias
 Para a Ana que também as adora
 e para Di, que ouviu esta primeiro
 
-I
+# I
 
 O rapaz que sobreviveu
 
@@ -149,7 +149,7 @@ com um grupo que se encontrava junto da padaria. Lançou-lhes
 um olhar enfurecido. Não sabia explicar porquê mas faziam-no
 sentir-se desconfortável. Este grupo estava também a murmurar,
 denotando uma grande excitação. Só quando passou por eles,
-levando um enorme *donut* num saco, conseguiu apanhar no ar
+levando um enorme donut num saco, conseguiu apanhar no ar
 algumas palavras do que eles estavam a dizer.
 
 - Os Potters, sim, foi o que ouvi dizer.
@@ -247,7 +247,7 @@ Night« (1) - que é só na próxima semana - mas posso
 prometer-vos chuva para esta noite.
 
 (1) Festividade que se realiza exclusivamente na Grã-Bretanha.
-(N_T)
+(NT)
 
 O senhor Dursley sentou-se gelado na poltrona. Estrelas
 cadentes em toda a Grã-Bretanha? Corujas a voarem
@@ -412,7 +412,7 @@ que ele desapareceu mesmo, não foi, Dumbledore?!
 - Parece que sim - respondeu ele. - Temos de estar muito
 gratos. Não quer tomar uma limonada comigo?
 
-- Uma *quê*?
+- Uma quê?
 
 - Uma limonada. É uma bebida dos Muggles de que
 eu gosto muito.
@@ -426,20 +426,20 @@ tendo o «Quem nós sabemos» desaparecido...
 sensata como a senhora pode referir-se a ele usando o seu
 verdadeiro nome. Toda essa história disparatada do «Quem nós
 sabemos»; há onze anos que tento convencer as pessoas a
-proferirem o seu nome: *Voldemort*. - A professora
+proferirem o seu nome: Voldemort. - A professora
 Mc_Gonagall vacilou mas Dumbledore, que estava a abrir duas
 limonadas, pareceu não dar por isso. - Torna-se tão confuso
 continuar a dizer o «Quem nós sabemos». Eu honestamente nunca
 vi qualquer motivo para ter medo de proferir o nome de
-*Voldemort*.
+Voldemort.
 
 - Eu sei que não viu - disse a professora Mc_Gonagall num tom
 que expressava surpresa e admiração. - Mas você é diferente.
 Todos sabem que era o único de quem «Quem nós sabemos», oh!
-está bem, o *Voldemort* tinha medo.
+está bem, o Voldemort tinha medo.
 
 - Sinto-me elogiado - disse Dumbledore calmamente, -
-*Voldemort* tinha poderes que eu nunca possuirei.
+Voldemort tinha poderes que eu nunca possuirei.
 
 - Apenas porque você é demasiado... como direi, nobre, para os
 utilizar.
@@ -464,7 +464,7 @@ este estava a escolher outra limonada e não lhe respondeu.
 
 - Dizem --, prosseguiu ela - que na última noite em que
 Voldemort apareceu em Godric's Hollow foi procurar os
-Potters. O que corre é que Lily e James Potter... *morreram*.
+Potters. O que corre é que Lily e James Potter... morreram.
 
 Dumbledore baixou a cabeça. A professora Mc_Gonagall suspirou.
 
@@ -484,7 +484,7 @@ Voldemort desapareceu.
 
 Dumbledore acenou com ar sorumbático.
 
-- Mas, é... *verdade*? - hesitou a professora Mc_Gonagall. -
+- Mas, é... verdade? - hesitou a professora Mc_Gonagall. -
 Depois de tudo o que ele fez... toda a gente que matou...
 não foi capaz de matar um rapazinho? É tão confuso, como terá
 o Harry conseguido sobreviver?
@@ -515,7 +515,7 @@ você não pode fazer uma coisa dessas. Tenho estado a
 observá-los durante todo o dia e não é possível encontrar duas
 pessoas mais diferentes de nós. E têm um filho - vi-o a
 massacrar a mãe durante todo o caminho para lhe comprar doces.
-Harry Potter, *aqui*?!
+Harry Potter, aqui?!
 
 - É o melhor lugar para ele --, disse Dumbledore com firmeza.
 - A tia e o tio poderão explicar-lhe tudo um dia mais tarde
@@ -546,7 +546,7 @@ esconder o garoto.
 
 - Hagrid vai trazê-lo.
 
-- Acha que é *sensato* confiar a Hagrid algo tão importante
+- Acha que é sensato confiar a Hagrid algo tão importante
 como isto?
 
 - Eu confiaria a Hagrid a minha própria vida --, afirmou
@@ -683,7 +683,7 @@ pessoas brindavam com os copos no ar, gritando:
 - Ao Harry Potter, o rapaz que sobreviveu!
 
 
-II
+# II
 
 O vidro desaparecido
 
@@ -728,7 +728,7 @@ A tia estava de novo junto da porta.
 -- Quase - disse Harry.
 
 -- Bem, vamos a despachar, quero que acabes o pequeno-almoço e
-não deixes queimar o *bacon*. Tudo tem de estar perfeito no
+não deixes queimar o bacon. Tudo tem de estar perfeito no
 aniversário do Duddy.
 
 Harry resmungou.
@@ -774,7 +774,7 @@ cicatriz.
 - Ficou-te do acidente de automóvel em que os teus pais
 morreram - respondeu ela - e não faças perguntas.
 
-*_Não fazer perguntas* - aquela era a primeira regra para uma
+Não fazer perguntas - aquela era a primeira regra para uma
 vida tranquila com os Dursleys.
 
 O tio Vernon entrou na cozinha no momento em que Harry estava
@@ -795,7 +795,7 @@ cabecinha gorda. A tia Petúnia dizia muitas vezes que ele
 parecia um anjinho - Harry costumava dizer que ele parecia um
 porco de chinó.
 
-Harry pousou os pratos de ovos com *bacon* sobre a mesa, o que
+Harry pousou os pratos de ovos com bacon sobre a mesa, o que
 não foi fácil uma vez que esta estava cheia e não restava
 muito espaço. Dudley entretanto contava os presentes. De
 repente, a sua expressão tornou-se carrancuda.
@@ -900,8 +900,8 @@ ele estrague o teu dia! - murmurou-lhe enquanto o envolvia num
 enorme abraço.
 
 - Eu... não... quero... que... ele... venha! - gritava Dudley
-entre enormes gritos de pretenso choro. - Ele estraga... s...
-empre... tudo! - Lançou a Harry um sorriso maldoso enquanto a
+entre enormes gritos de pretenso choro. - Ele estraga... 
+sempre... tudo! - Lançou a Harry um sorriso maldoso enquanto a
 mãe o abraçava.
 
 Foi então que tocou a campainha da porta. - Oh! Santo Deus,
@@ -1064,8 +1064,8 @@ para a cobra e piscou também.
 
 A cobra fez um sinal de cabeça apontando para o tio Vernon e
 para Dudley, depois ergueu os olhos para o tecto e lançou a
-Harry um olhar que dizia claramente: -*_Eu tenho daquilo a
-toda a hora*.
+Harry um olhar que dizia claramente: 
+- Eu tenho daquilo a toda a hora.
 
 - Eu sei --, murmurou Harry, através do vidro, embora não
 tivesse a certeza absoluta de que a cobra conseguia ouvi-lo. -
@@ -1082,13 +1082,14 @@ BOA CONSTRICTOR, BRASIL.
 - Era bom viver lá?
 
 A Boa Constrictor abanou de novo com a cauda e Harry leu:
-:__este espécimen nasceu no __zoológico. - Ah! já percebi,
+
+Este espécimen nasceu no zoológico. - Ah! já percebi,
 nunca foste ao Brasil?
 
 Quando a serpente fez que não com a cabeça, um grito
 horripilante por detrás de Harry fê-los saltar aos dois.
-«:__dudley, mr. dursley! venha ver esta serpente. não vai
-acreditar no que ela está a __fazer!»
+«Dudley, mr. Dursley! venha ver esta serpente. Não vai
+acreditar no que ela está a fazer!»
 
 Dudley veio a correr atrás deles o mais depressa que podia.
 
@@ -1179,7 +1180,7 @@ com fita-cola e ninguém queria desagradar ao grupo do Dudley.
 
 
 
-III
+# III
 
 As cartas de ninguém
 
@@ -1292,7 +1293,7 @@ Harry, evitando o bastão dos Smeltings, foi buscar o correio.
 Estavam três coisas no tapete fora da porta: um postal da irmã
 do tio Vernon, Marge, que estava a passar férias na ilha de
 Wight, um sobrescrito castanho que parecia ser uma conta para
-pagar e - uma carta *para o Harry*.
+pagar e - uma carta para o Harry.
 
 Harry pegou-lhe e ficou a olhar espantado, o coração a tremer
 como se quisesse saltar-lhe do peito. Nunca, ninguém, em toda
@@ -1347,7 +1348,7 @@ depressa do que as luzes de um semáforo. E não parou por aí.
 Alguns segundos mais tarde estava de um verde-pálido, cor de
 papas de aveia fora do prazo de validade.
 
-- P-_P-_Petúnia --, chamou quase sem conseguir respirar.
+- P P Petúnia --, chamou quase sem conseguir respirar.
 
 Dudley tentou agarrar a carta para a ler mas o tio Vernon
 segurava-a bem alto, fora do seu alcance. A tia Petúnia
@@ -1372,7 +1373,7 @@ meter a carta no sobrescrito.
 
 Harry não se moveu.
 
-- :__quero a minha __carta! - gritou.
+- Quero a minha carta! - gritou.
 
 - Deixa-me vê-la - exigiu o Dudley.
 
@@ -1420,7 +1421,7 @@ sinteticamente. - Achei melhor queimá-la.
 - Não era um engano - disse o Harry furioso, - vinha para a
 minha despensa.
 
-- __silêncio! - gritou o tio Vernon fazendo que, com o susto,
+- Silêncio! - gritou o tio Vernon fazendo que, com o susto,
 algumas aranhas caíssem do tecto. Respirou fundo várias vezes
 e depois, com um sorriso forçado que quase parecia doloroso,
 disse.
@@ -1532,7 +1533,7 @@ Nesse dia o tio Vernon não foi trabalhar. Ficou em casa e
 fechou com pregos a caixa do correio.
 
 - Vês? - explicou à tia Petúnia, pelo meio de um monte de
-pregos, - se eles não poderem *entregá-las*, acabarão por
+pregos, - se eles não poderem entregá-las, acabarão por
 desistir.
 
 - Não tenho tanta certeza assim de que isso resulte,
@@ -1552,8 +1553,8 @@ rés-do-chão.
 O tio Vernon voltou a ficar em casa. Depois de queimar todas
 as cartas, foi buscar um martelo e pregos e pregou tábuas nas
 portas, de tal modo que ninguém podia sair. Enquanto
-trabalhava ia cantarolando entredentes o *_Tiptoe through the
-Tulips* (Em bicos de pés entre as túlipas) e saltava sempre
+trabalhava ia cantarolando entredentes o "Tiptoe through the
+Tulips" (Em bicos de pés entre as túlipas) e saltava sempre
 que ouvia um pequeno barulho.
 
 No sábado, as coisas começaram a fugir por completo ao seu
@@ -1629,7 +1630,7 @@ e a cheirar a mofo. Dudley ressonou mas Harry ficou acordado,
 sentado no peitoril da janela, a olhar para baixo para as
 luzes dos carros que passavam e a pensar...
 
-No dia seguinte, ao pequeno-almoço comeram *corn flakes* e
+No dia seguinte, ao pequeno-almoço comeram corn flakes e
 torradas com tomate frio de conserva e tinham todos terminado
 no momento em que a dona do hotel se aproximou da mesa.
 
@@ -1673,12 +1674,12 @@ fechados lá dentro e desaparecera.
 Começou a chover. Enormes pingos de chuva batiam no tejadilho
 do carro. Dudley choramingava.
 
-- Hoje é segunda-feira - dizia ele à mãe. - Há o *show*, do
+- Hoje é segunda-feira - dizia ele à mãe. - Há o show, do
 grande Humberto, quero ir para qualquer lado onde haja
 televisão.
 
 Segunda-feira. Aquilo lembrava ao Harry qualquer coisa. Se
-*era* de facto segunda-feira - e geralmente o Dudley nunca se
+era de facto segunda-feira - e geralmente o Dudley nunca se
 enganava nos dias por causa da televisão - então no dia
 seguinte, terça-feira, era o seu aniversário. Harry ia fazer
 onze anos. É claro que os seus aniversários não costumavam
@@ -1778,7 +1779,7 @@ BOOOOOM.
 Toda a cabana estremeceu. Harry deu um salto e ficou a olhar.
 Alguém estava lá fora a bater à porta.
 
-IV
+# IV
 
 
 O guarda das chaves
@@ -1822,7 +1823,7 @@ estava sentado, a tremer de medo.
 grito e correu a esconder-se atrás da mãe que tremia
 apavorada atrás do tio Vernon.
 
-- Ah! Aqui .tá o Harry! - disse o gigante. Harry olhou para
+- Ah! Aqui está o Harry! - disse o gigante. Harry olhou para
 aquele rosto feroz, tosco e indistinto e viu que os olhinhos
 de barata lhe sorriam.
 
@@ -2002,7 +2003,7 @@ Harry estendeu a mão, agarrando por fim o sobrescrito amarelo,
 endereçado em tinta verde esmeralda ao Senhor H. Potter,
 rés-do-chão, Cabana da rocha, Oceano. Pegou na carta e leu:
 
-:__escola hogwarts de magia e __feitiçaria
+Escola hogwarts de magia e feitiçaria
 
 Director: Albus Dumbledore
 
@@ -2093,15 +2094,15 @@ impressão que tinha tudo aquilo preso na garganta havia muitos
 anos.
 
 - Depois de encontrar o Potter na escola, casaram e nasceste
-tu. E, é claro que eu sabia que irias ser tão estranho - *tão
-anormal* - como eles. Por fim acabou por fazer com que
+tu. E, é claro que eu sabia que irias ser tão estranho - tão
+anormal - como eles. Por fim acabou por fazer com que
 rebentassem com ela e tu vieste aterrar aqui!
 
 Harry tinha ficado branco. Quando conseguiu falar disse: -
 Rebentassem com ela? Vocês disseram-me que eles tinham morrido
 num acidente de automóvel!
 
-- __acidente __de __automóvel - berrou Hagrid, dando um salto,
+- Acidente de automóvel - berrou Hagrid, dando um salto,
 tão furioso, que os Dursleys voltaram a recuar para o canto da
 sala. - Como poderia um acidente de automóvel matar Lily e
 James Potter? É um ultraje, uma vergonha, um escândalo! Harry
@@ -2149,7 +2150,7 @@ Hagrid engoliu em seco, mas nenhuma palavra saía.
 
 - Podes escrever? - sugeriu Harry.
 
-- Na' consigo soletrar. Lá vai - *_Voldemort* - disse Hagrid
+- Não consigo soletrar. Lá vai - Voldemort - disse Hagrid
 estremecendo. - Não me obriguem a repeti-lo. De qualquer modo
 este, este feiticeiro há cerca de vinte anos começou a
 procurar seguidores. Conseguiu alguns, uns porque tinham medo,
@@ -2172,7 +2173,7 @@ Dumbledore para quererem fosse o que fosse com o lado negro.
 
 Talvez pensasse que podia persuadi-los ou afastá-los do
 caminho. O que se sabe é que ele chegou à cidade onde vocês
-viviam no dia de *_Hallowe'en, há dez anos e...
+viviam no dia de Hallowe'en, há dez anos e...
 
 Hagrid voltou a puxar de um lenço de assoar sujíssimo e
 espremeu o nariz com um barulho que parecia de uma sirene.
@@ -2227,7 +2228,7 @@ A ideia de ser trespassado pelo guarda-chuva de um gigante
 barbudo fez com que a coragem do tio Vernon se desvanecesse de
 novo. Espalmou-se contra a parede e não abriu mais a boca.
 
-- _é melhor assim - disse Hagrid, respirando pesadamente e
+- É melhor assim - disse Hagrid, respirando pesadamente e
 voltando a sentar-se no sofá que, desta vez, ruiu por
 completo, estatelando-se no chão.
 
@@ -2309,16 +2310,16 @@ são como ele, para variar, e estará sobre a supervisão do
 maior director que Hogwarts alguma vez teve, Albus
 Dumbledore...
 
-- :__eu não vou pagar para um velho idiota lhe ensinar truques
-de __magia! --, gritou o tio Vernon.
+- Eu não vou pagar para um velho idiota lhe ensinar truques
+de magia! --, gritou o tio Vernon.
 
 Mas, desta vez, tinha ido longe de mais. Hagrid pegou no
 guarda-chuva, ergueu-o acima da cabeça do Muggle e gritou bem
-alto: - NUNCA --, vociferou, - :__nunca mais
-insultes na minha frente albus __dumbledore!
+alto: - NUNCA --, vociferou, - Nunca mais
+insultes na minha frente Albus Dumbledore!
 
 Baixou o guarda-chuva, cortando o ar com uma vergastada e
-apontou-o ao Dudley - houve um *flash* de luz violeta, um som
+apontou-o ao Dudley - houve um flash de luz violeta, um som
 que parecia o de um foguete, um forte grunhido e, no momento
 seguinte, o Dudley parecia estar a dançar, aos saltos, com as
 mãos agarradas ao rabo gordo e a gritar com dores. Quando se
@@ -2364,9 +2365,9 @@ Tirou o seu casacão preto e grosso e atirou-o a Harry.
 se mexer, acho que ainda tenho alguns roedores num dos bolsos.
 
 
-V
+# V
 
-DIAGON-__AL
+DIAGON-AL
 
 
 Harry acordou cedinho na manhã seguinte. Apesar de ver que já
@@ -2515,7 +2516,7 @@ chão de Londres. Debaixo dos subterrâneos. Qualquer um
 morreria de fome a tentar chegar lá.
 
 Harry sentou-se a pensar em tudo aquilo enquanto Hagrid lia o
-jornal, o *_Daily Prophet* (O Profeta Diário). Tinha aprendido
+jornal, o Daily Prophet (O Profeta Diário). Tinha aprendido
 com o tio Vernon que as pessoas gostavam que as deixassem em
 paz quando liam o jornal mas era muito difícil. Nunca tivera
 tantas perguntas para fazer em toda a sua vida.
@@ -2534,7 +2535,7 @@ manhãs e a pedir-lhe conselhos.
 
 - Mas o que faz um Ministro da Magia?
 
-- Bem, a tarefa principal é não deixar que os _muggles saibam
+- Bem, a tarefa principal é não deixar que os muggles saibam
 qu'inda existem bruxas e feiticeiros por todo o país.
 
 - Porque?
@@ -2552,7 +2553,9 @@ atravessavam a pé a cidadezinha até à estação. Harry não podia
 censurá-los. Hagrid tinha não só o dobro da estatura de
 qualquer cidadão normal como não parava de apontar para as
 coisas mais vulgares como por exemplo os parquímetros, dizendo
-alto: - `_tás a ver aquilo, Harry? As coisas qu'os Muggles
+alto: 
+
+- Tás a ver aquilo, Harry? As coisas qu'os Muggles
 inventam, hein?
 
 - Hagrid --, disse Harry, quase sem fôlego, enquanto corria
@@ -2581,14 +2584,15 @@ malhas.
 Harry tirou o sobrescrito de pergaminho de dentro do
 bolso.
 
-- Óptimo --, disse Hagrid. - `_tá aí uma lista de tudo o que
-precisas. - Harry desdobrou a segunda folh. de papel na qual
+- Óptimo --, disse Hagrid. 
+- Tá aí uma lista de tudo o que
+precisas. - Harry desdobrou a segunda folha de papel na qual
 nem tinha reparado na véspera e leu:
 
-:__escola hogwarts de magia e __feitiçaria
+Escola hogwarts de magia e feitiçaria
 
 
-*_Uniforme*
+Uniforme
 
 Os alunos do primeiro ano vão precisar de:
 
@@ -2605,31 +2609,29 @@ semelhante)
 Por favor tenha em atenção que as roupas de todos os alunos
 devem ter etiquetas com os nomes.
 
-*_Série de livros*
+Série de livros
 
 Todos os alunos deverão ter um exemplar dos seguintes livros:
 
-*_O livro básico dos feitiços* (grau 1), por Miranda
-Goshawk
+" O livro básico dos feitiços" (grau 1), por Miranda Goshawk
 
-*_A história da Magia*, por Bathilda Bagshot
+" A história da Magia", por Bathilda Bagshot
 
-*_A magia teórica, por Adalbert Waffling
+" A magia teórica, por Adalbert Waffling
 
-*_A transfiguração - um guia para principiantes*, por Emeric
-Switch
+" A transfiguração - um guia para principiantes", por Emeric Switch
 
-*_Um milhar de ervas e fungos mágicos*, por Phyllida Spore
+" Um milhar de ervas e fungos mágicos", por Phyllida Spore
 
-*_Planos e poções mágicas*, por Arsenius Jigger
+" Planos e poções mágicas", por Arsenius Jigger
 
-*_Animais fantásticos e onde encontrá-los*, por Newt
+" Animais fantásticos e onde encontrá-los", por Newt
 Scamander
 
-*_As forças das trevas: Guia para autoprotecção*, por Quentin
+" As forças das trevas: Guia para autoprotecção", por Quentin
 Trimble
 
-*_Outro Equipamento*
+" Outro Equipamento"
 
 Uma varinha
 
@@ -2646,8 +2648,8 @@ Um caduceu
 Os alunos podem também trazer uma coruja, um gato ou um
 sapo.
 
-:__lembramos os pais de que no primeiro ano não são
-autorizadas as suas próprias __vassouras
+Lembramos os pais de que no primeiro ano não são
+autorizadas as suas próprias vassouras
 
 
 - Podemos comprar tudo isto em Londres? - perguntou Harry em
@@ -2700,24 +2702,24 @@ assunto, Hagrid conduzira-o para dentro.
 Era bastante miserável e sombrio para um lugar famoso. Algumas
 velhotas estavam sentadas a um canto a beber copinhos de
 xerez. Uma delas fumava cachimbo Um homem baixinho com um
-chapéu alto conversava com o *barman* que era totalmente calvo
+chapéu alto conversava com o barman que era totalmente calvo
 e parecia uma noz inchada. O sussurro das vozes parou por
 completo quando eles entraram. Todos pareciam conhecer
 Hagrid.
-Cumprimentaram-no, sorriram-lhe e o *barman* foi buscar um
+Cumprimentaram-no, sorriram-lhe e o barman foi buscar um
 copo enquanto dizia: - O habitual, Hagrid?
 
-- Não posso, Tom. `_tou em serviço p'ra Hogwarts - disse
+- Não posso, Tom. Tou em serviço p'ra Hogwarts - disse
 Hagrid, dando uma forte palmada com a sua mão enorme no ombro
 de Harry que fez com que os joelhos se lhe vergassem.
 
-- Santo Deus - disse o *barman*, olhando para Harry, - este é
+- Santo Deus - disse o barman, olhando para Harry, - este é
 - será possível que ele seja?
 
 O Caldeirão Escoante ficou subitamente mergulhado num silêncio
 total.
 
-- Abençoado seja - murmurou o velho *barman* . - Harry
+- Abençoado seja - murmurou o velho barman . - Harry
 Potter... que honra.
 
 Saiu rapidamente detrás do balcão, correu para Harry e
@@ -2821,9 +2823,9 @@ rapidamente por cima do ombro e viu o arco a encolher
 instantaneamente, voltando a ficar uma parede fechada.
 
 O sol brilhava iluminando uma série de caldeirões que estavam
-à porta da loja mais próxima. *_Caldeirões - todos os tamanhos
+à porta da loja mais próxima. Caldeirões - todos os tamanhos
 - Cobre, Bronze, Liga de Estanho, Prata - Automisturadores,
-Desmontáveis*, estava escrito no letreiro pendurado fora da
+Desmontáveis, estava escrito no letreiro pendurado fora da
 loja.
 
 - Vais precisar d'um --, disse Hagrid. - Mas temos d'ir buscar
@@ -2838,9 +2840,9 @@ indignadamente a cabeça, dizendo: - Fígado de dragão a
 dezassete Leões o quilo. Estão doidos...
 
 Fez-se ouvir um piar baixo e suave, vindo de uma loja escura
-com um letreiro que dizia: *_Armazém das corujas -
-amarelas, castanhas, corujas-das-torres, corujas-de-chaminé.
-coruja-real*.
+com um letreiro que dizia: "Armazém das corujas -
+amarelas, castanhas, corujas-das-torres, corujas-de-chaminé,
+coruja-real".
 
 Vários rapazinhos, sensivelmente da idade do Harry,
 espreitavam com os narizes achatados contra a montra das
@@ -2900,7 +2902,7 @@ senhor Harry Potter.
 
 - Tem a chave dele, senhor?
 
-- `_tá prà 'qui não sei onde, - disse Hagrid que começou a
+- Tá prà 'qui não sei onde, - disse Hagrid que começou a
 esvaziar os bolsos em cima do balcão, espalhando uma mão cheia
 de biscoitos de cão todos amassados sobre o livro de
 contabilidade dos duendes. O duende torceu o nariz. Harry
@@ -2932,7 +2934,7 @@ através de uma porta que dava para fora do vestíbulo.
 treze? - perguntou Harry.
 
 - Não sei --, respondeu Hagrid com um ar misterioso. - Muito
-secreto, Negócios d'_hogwarts. Dumbledore confia em mim. Não é
+secreto, Negócios de Hogwarts. Dumbledore confia em mim. Não é
 p'ra dizer.
 
 Griphook manteve a porta aberta para lhes dar passagem. Harry,
@@ -2963,7 +2965,7 @@ e estalagmites.
 ensurdecedor da carreta, - qual é a diferença entre uma
 estalactite e uma estalagmite!
 
-- As estalagmites têm um *_M* --, disse Hagrid. - E não me
+- As estalagmites têm um M --, disse Hagrid. - E não me
 faças perguntas agora. Estou quase a vomitar.
 
 De facto estava muito verde e quando a carreta finalmente
@@ -3045,7 +3047,7 @@ levava consigo mais dinheiro do que tivera em toda a sua vida
 tido.
 
 - Podemos ir tratar do teu uniforme --, disse Hagrid, batendo
-à porta de *_Madame Malkin. Capas para todas as ocasiões*. -
+à porta de Madame Malkin. Capas para todas as ocasiões. -
 Harry, importavas-te s'eu fosse tomar um copinho ao Caldeirão
 Escoante? Detesto aquelas carretas do Gringotts. - Ele estava
 ainda com mau aspecto, por isso
@@ -3096,8 +3098,8 @@ toda a razão. Já sabes qual vai ser a tua equipa?
 - Não --, disse Harry que se sentia cada vez mais estúpido.
 
 - Bem, só podemos saber ao certo quando lá chegarmos, não é?
-Mas eu já sei que vou estar nos *_Slytherin*, como toda a
-minha família; imagina só se me colocassem nos *_Hufflepuff*
+Mas eu já sei que vou estar nos Slytherin, como toda a
+minha família; imagina só se me colocassem nos Hufflepuff
 acho que me vinha logo embora. Não farias o mesmo?
 
 - Mmm --, disse o Harry, desejando poder dar uma resposta um
@@ -3118,7 +3120,7 @@ de criado, não é?
 gostava menos daquele rapazinho.
 
 - Sim, precisamente. Ouvi dizer que é um pouco
-*selvagem*, que vive numa cabana nos campos da escola e, de
+selvagem, que vive numa cabana nos campos da escola e, de
 vez em quando, embriaga-se, tenta fazer magia e acaba por
 pegar fogo a própria cama.
 
@@ -3143,7 +3145,9 @@ deviam receber apenas os membros das mais antigas famílias de
 feiticeiros. A propósito, qual é o teu apelido?
 
 Mas antes que Harry tivesse tempo de responder, Madame Malkin
-disse: -- _está pronto, filho - e Harry aproveitou a deixa
+disse: 
+
+- Está pronto, filho - e Harry aproveitou a deixa
 para pôr fim à conversa com o outro rapaz, descendo
 imediatamente do banquinho.
 
@@ -3180,20 +3184,20 @@ de Muggles. Olh'a tua mãe e a irmã qu'ela teve!
 
 - Então o que é o Quidditch?
 
-- _é o nosso desporto. O desporto dos feiticeiros. E com'o
+- É o nosso desporto. O desporto dos feiticeiros. E com'o
 futebol no mundo dos Muggles. Todos vêem o Quidditch qu'é
 jogado no ar, em vassouras e com quatro bolas. É meio difícil
 explicar as regras.
 
-- E o que são os *_Slytherin* e os *_Hufflepuff*?
+- E o que são os Slytherin e os Hufflepuff?
 
 - Equipas da escola. São quatro. Todos dizem que os
-*_Hufflepuff* são um grupo de estúpidos mas...
+Hufflepuff são um grupo de estúpidos mas...
 
--- Aposto que estou nos *_Hufflepuff* --, disse Harry,
+-- Aposto que estou nos Hufflepuff --, disse Harry,
 melancolicamente.
 
-- Antes nos *_Hufflepuff* do que nos *_Slytherin* - disse
+- Antes nos Hufflepuff do que nos Slytherin - disse
 Hagrid com alguma tristeza. - Não houve uma única bruxa ou
 feiticeiro dos que se tornaram cruéis que não tivesse vindo
 dos Slytherin. Um deles foi o «Quem nós sabemos..
@@ -3209,11 +3213,11 @@ como lajes de pedra, outros do tamanho de selos de correio,
 com capas de seda, livros cheios de símbolos peculiares e
 alguns sem nada escrito. Até o Dudley, que nunca lia nada,
 teria gostado de deitar a mão a alguns destes. Hagrid teve
-quase de arrastar Harry para longe das *_Maldições e
+quase de arrastar Harry para longe das Maldições e
 contramaldições (enfeitiça os teus amigos e confunde os teus
 inimigos com as últimas vinganças: perda de cabelo,
 amolecimento das pernas, língua presa e muitos, muitos
-outros*) pelo professor Vindictus Viridian.
+outros) pelo professor Vindictus Viridian.
 
 - Estava a tentar descobrir como enfeitiçar o Dudley.
 
@@ -3242,7 +3246,7 @@ a pá).
 
 Fora do boticário, Hagrid consultou de novo a lista.
 
-- `_tá só a faltar a varinha - Ah! e inda não te comprei o
+- Tá só a faltar a varinha - Ah! e inda não te comprei o
 presente de aniversário.
 
 Harry sentiu-se corar.
@@ -3271,8 +3275,8 @@ Uma varinha mágica... era o que Harry realmente mais desejava.
 
 A última loja era estreita e encontrava-se em muito mau
 estado. Nas letras douradas e descarnadas, da porta, podia
-ler-se *_Ollivander: Fabricante das melhores varinhas desde
-382 a._C*. Na montra suja estava uma única varinha, sobre uma
+ler-se "Ollivander: Fabricante das melhores varinhas desde
+382 a.C. ". Na montra suja estava uma única varinha, sobre uma
 almofada de carmesim descolorido.
 
 Uma campainha ouviu-se algures no fundo da loja quando eles
@@ -3450,7 +3454,7 @@ colo de Harry. Subiram outra escada rolante até à estação de
 Paddington. Harry só se apercebeu de onde estavam quando
 Hagrid lhe deu uma palmada no ombro.
 
-- `_inda temos tempo p'ra comer qualquer coisa antes de o
+- Ainda temos tempo p'ra comer qualquer coisa antes de o
 comboio partir --, disse.
 
 Comprou um hambúrguer para o Harry e sentaram-se ambos nos
@@ -3484,14 +3488,14 @@ Hagrid ajudou Harry a entrar no comboio que o levaria de volta
 
 - O teu bilhete p'ra Hogwarts --, disse. - Dia 1 de Setembro.
 Está tud'aí no bilhete. Se tiveres problemas com os Dursleys
-manda-me uma carta pela coruja, ela sabe o caminho. `_té
+manda-me uma carta pela coruja, ela sabe o caminho. Té
 breve, Harry.
 
 O comboio arrancou da estação. Harry queria ver Hagrid até ele
 desaparecer. Pôs-se de pé e encostou o nariz ao vidro da
 janela mas, num abrir e fechar de olhos, Hagrid desaparecera.
 
-VI
+# VI
 
 A viagem da plataforma
 nove e três quartos
@@ -3509,7 +3513,7 @@ passado, ao fim de um certo tempo começou a ser deprimente.
 
 Harry ficava no quarto tendo como companhia a sua coruja a
 quem resolveu chamar Hedwig, um nome que encontrou no livro
-*_História da magia*. Os seus livros de estudo eram muito
+"História da magia". Os seus livros de estudo eram muito
 interessantes e ele ficava deitado em cima da cama até altas
 horas da noite a ler. Hedwig saltitava livremente dentro e
 fora da janela aberta. Era uma sorte a tia Petúnia não
@@ -3583,7 +3587,7 @@ aquela cauda cor-de-rosa, antes de ir para Smeltings.
 
 Harry acordou às cinco da manhã e estava tão nervoso e
 excitado que já não conseguiu adormecer. Levantou-se,
-enfiou-se nos *jeans* porque não queria ir até à estação com a
+enfiou-se nos jeans porque não queria ir até à estação com a
 capa de feiticeiro. Mudava depois, no comboio. Conferiu a
 lista para se certificar de que não lhe faltava nada, viu que
 a Hedwig estava segura e fechada na sua gaiola e ficou à
@@ -3725,11 +3729,11 @@ abriu os olhos.
 
 O comboio vermelho-escarlate estava parado junto de uma
 plataforma cheia de gente. Um letreiro lá em cima dizia
-*_Hogwarts Express*, 11 horas.
+"Hogwarts Express", 11 horas.
 
 Harry olhou para trás e viu uma arcada de ferro no lugar onde
-antes estava a barreira, com as palavras *_Plataforma nove e
-três quartos*. Tinha conseguido!
+antes estava a barreira, com as palavras "Plataforma nove e
+três quartos". Tinha conseguido!
 
 O fumo da locomotiva elevava-se sobre as cabeças da multidão
 ruidosa enquanto gatos de todas as cores se enroscavam aqui e
@@ -3779,7 +3783,7 @@ apontando para a cicatriz em forma de relâmpago.
 
 - Caramba - disse o outro gémeo. - Tu és...?
 
-- _é - afirmou o primeiro gémeo. - Não és? - perguntou
+- É - afirmou o primeiro gémeo. - Não és? - perguntou
 dirigindo-se a Harry.
 
 -- Quem? - inquiriu Harry.
@@ -4068,9 +4072,9 @@ que tinha trazido sandes. Harry saiu para o corredor.
 
 Enquanto vivera com os Dursleys nunca tinha tido dinheiro para
 comprar doces e agora, com os bolsos cheios de ouro e prata,
-estava pronto a comprar todos os chocolates *_Mars* que
+estava pronto a comprar todos os chocolates Mars que
 conseguisse transportar consigo. Mas a mulher não tinha
-chocolates *_Mars*. O que ela trazia era: feijões de todos os
+chocolates Mars. O que ela trazia era: feijões de todos os
 sabores da Bertie Bott, as melhores pastilhas elásticas dos
 Drooble, sapos de chocolate, pastéis de abóbora, bolos do
 Caldeirão, varinhas mágicas de alcaçuz e mais uma imensa
@@ -4092,7 +4096,7 @@ O Ron tinha retirado e desembrulhado de um pacote rugoso
 quatro sandes. Pôs uma de parte e resmungou: - Ela esquece-se
 sempre que eu não gosto de carne de conserva.
 
--- _troco-ta por um destes -- disse Harry, dando-lhe
+- Troco-ta por um destes -- disse Harry, dando-lhe
 um pastel. - Toma.
 
 - Tu não vais gostar disso. E sequíssimo --, disse o Ron. -
@@ -4111,25 +4115,25 @@ não?
 - Começava a achar que já nada o surpreendia.
 
 - Não - disse o Ron, - mas vê qual é o cromo que tem lá
-dentro, falta-me o *_Agrippa*!
+dentro, falta-me o Agrippa!
 
 - O quê?
 
 -Ah! é claro que tu não sabes. Os sapos de chocolate trazem
 cromos lá dentro para coleccionar - feiticeiros e broxas
 famosas. Eu já tenho cerca de quinhentos mas falta-me o
-*_Agrippa* ou o *_Ptolemy*.
+Agrippa ou o Ptolemy.
 
 Harry desembrulhou o seu sapo de chocolate e pegou no cromo.
 Era o rosto de um homem com óculos de meia-lua, um nariz
 longo e curvo, com cabelo, barba e bigode abundantes e cor de
-prata. Sob a fotografia vinha o nome: *_Albus Dumbledore*.
+prata. Sob a fotografia vinha o nome: Albus Dumbledore.
 
 - Então este é que é Dumbledore! - disse Harry.
 
 - Não me digas que nunca ouviste falar do Dumbledore! -
 exclamou Ron. - Dás-me um sapo? Pode ser que traga o
-*_Agrippa*. Obrigado.
+Agrippa. Obrigado.
 
 Harry virou o cromo e leu:
 
@@ -4148,7 +4152,7 @@ o rosto de Dumbledore tinha desaparecido.
 
 - Então, não podias esperar que ficasse aí todo o dia -
 respondeu Ron. - Ele volta. Olha saiu-me outra vez a
-*_Morgana* e já tenho seis cromos dela. Queres? Podias começar
+Morgana e já tenho seis cromos dela. Queres? Podias começar
 a fazer a colecção.
 
 Os olhos de Ron perderam-se na pilha de sapos de chocolate à
@@ -4271,9 +4275,9 @@ ele também não decorara todos os livros de estudo.
 
 - A sério? - disse Hermione. - Sei tudo a teu respeito, é
 claro; tenho alguns livros suplementares para leitura de apoio
-que falam de ti, como por exemplo a *_História da magia
-moderna, _alvorada e crepúsculo das artes das trevas e Os
-grandes acontecimentos da feitiçaria no século vinte*.
+que falam de ti, como por exemplo a "História da magia
+moderna, alvorada e crepúsculo das artes das trevas e Os
+grandes acontecimentos da feitiçaria no século vinte".
 
 - Falam de mim? - perguntou Harry, espantado. - Meu Deus, não
 sabias? Eu, no teu lugar, teria tentado descobrir tudo - disse
@@ -4355,7 +4359,7 @@ meio. Era o garoto pálido da loja de capas de Madame Malkin.
 Olhava para Harry com um ar bastante mais interessado do que
 o que manifestara na Diagon-_Al.
 
-- _é mesmo verdade? - perguntou. - Diz-se por todo o comboio
+- É mesmo verdade? - perguntou. - Diz-se por todo o comboio
 que o Harry Potter está neste compartimento. És tu?
 
 - Sou - respondeu Harry, enquanto olhava para os outros
@@ -4448,7 +4452,7 @@ lá muito. Segundo ele, o pai do Malfoy não precisava de uma
 desculpa para se passar para o lado das trevas. - Voltou-se
 para Hermione: - Precisas de alguma coisa?
 
-- _é melhor vocês apressarem-se a vestir as roupas. Eu foi
+- É melhor vocês apressarem-se a vestir as roupas. Eu foi
 agora lá à frente perguntar ao condutor quanto tempo faltava e
 ele diz que estamos mesmo a chegar. Vocês não andaram à luta,
 pois não? Não vão arranjar sarilhos ainda antes de lá
@@ -4547,13 +4551,13 @@ relvado húmido e macio que ficava na sombra do castelo.
 Subiram um lanço de degraus de pedra e reuniram-se em volta da
 imensa porta principal de madeira de carvalho.
 
-- ._tão todos aqui? ._inda tens o sapo?
+- Tão todos aqui? . Ainda tens o sapo?
 
 Hagrid ergueu o seu punho gigantesco e bateu três vezes na
 porta do castelo.
 
 
-VII
+# VII
 
 O chapéu seleccionador
 
@@ -4671,7 +4675,7 @@ antiga equipa.
 - Saiam daqui, agora --, disse uma voz cortante. - A cerimónia
 de selecção está prestes a começar.
 
-A professora Mc_Gonagall havia. regressado. Um a um, os
+A professora Mc_Gonagall havia regressado. Um a um, os
 fantasmas desapareceram através da parede oposta.
 
 - Formem agora uma fila --, disse a professora Mc_Gonagall aos
@@ -4699,7 +4703,7 @@ estudantes, os fantasmas tinham uma cor vagamente prateada. A
 fim de evitar todos aqueles olhares fixos, Harry olhou para
 cima e viu um tecto preto aveludado salpicado de estrelas.
 Ouviu Hermione murmurar: «E pura magia para parecer o céu lá
-de fora, li sobre isso na *_História de Hogwarts*.»
+de fora, li sobre isso na "História de Hogwarts".»
 
 Era difícil acreditar que aquilo fosse um tecto e que o grande
 salão não estivesse simplesmente aberto ao céu.
@@ -5019,7 +5023,7 @@ Quando todos tinham comido à vontade, os restos de comida
 desapareceram dos pratos, que ficaram tão limpos e reluzentes
 como antes. No momento seguinte, surgiram as sobremesas. Bolas
 de gelado de todos os sabores, tartes de maçã e de melaço,
-*éclairs* de chocolate, *donuts* de compota, bolo de vinho,
+éclairs de chocolate, donuts de compota, bolo de vinho,
 morangos, geleia, bolos de arroz, etc.
 
 Enquanto Harry se servia de uma tarte de melaço, a conversa
@@ -5124,7 +5128,7 @@ Harry riu-se mas foi um dos poucos.
 - Ele não está a falar a sério, pois não? - perguntou baixinho
 ao Percy.
 
-- _é capaz de estar --, disse este, franzindo as
+- É capaz de estar --, disse este, franzindo as
 sobrancelhas. - É estranho porque ele costuma dar-nos uma
 justificação para não irmos a este ou àquele lugar - a
 floresta está cheia de animais selvagens, todos sabem disso.
@@ -5187,7 +5191,7 @@ ares, diante deles e quando Percy deu um passo em frente,
 lançaram-se contra o chefe de departamento.
 
 - Peeves .., explicou Percy aos alunos dos primeiros anos - Um
-*_Poltergeist*. - Levantou a voz - Peeves, mostra-te!
+Poltergeist. - Levantou a voz - Peeves, mostra-te!
 
 A resposta foi dada por uma voz desagradável, como o ar que
 sai de um balão.
@@ -5258,7 +5262,7 @@ a transpirar e a tremer.
 Deu uma volta na cama e adormeceu de novo e quando acordou, no
 dia seguinte, esquecera por completo o sonho.
 
-VIII
+# VIII
 
 
 O professor das poções
@@ -5301,7 +5305,7 @@ Os fantasmas também não ajudavam muito. Era sempre um choque
 desagradável quando um deles deslizava subitamente pelo meio
 da porta que alguém estava a tentar abrir. O Nick quase sem
 cabeça gostava de indicar aos novos Gryffindor a direcção
-certa mas Peeves, o *Poltergeist*, arranjava sempre maneira de
+certa mas Peeves, o Poltergeist, arranjava sempre maneira de
 fazer com que duas portas não abrissem e uma escada se
 tornasse traiçoeira, quando encontrava pelo caminho algum
 aluno atrasado para as aulas. Lançava cestos cheios de papéis
@@ -5407,7 +5411,7 @@ fosse.
 
 Harry ficou bastante aliviado ao descobrir que não estava tão
 atrasado em relação aos outros como receara. Muitos
-colegas tinham vindo de famílias de _muggles e, tal como ele,
+colegas tinham vindo de famílias de muggles e, tal como ele,
 ignoravam que eram bruxas e feiticeiros. Havia tanto para
 aprender que mesmo os que eram como Ron não tinham, em relação
 aos outros, um grande avanço.
@@ -5448,7 +5452,7 @@ Querido Harry, dizia nuns gatafunhos bastante desordenados,
 Sei que tens as tardes de sexta-feira livres. Não queres vir
 tomar um chá comigo por volta das três horas? Gostaria de
 saber tudo sobre a tua primeira semana. Manda-nos uma
-resposta pela _hedwig.
+resposta pela Hedwig.
 
 Hagrid
 
@@ -5536,7 +5540,7 @@ as aulas. Não foi, Potter?
 Harry fez um esforço para aguentar aquele olhar frio. Ele
 tinha aberto os livros, sim, em casa dos Dursleys, mas será
 que o Snape esperava que ele se lembrasse de todos os nomes
-contidos no livro *_Um milhar de ervas e fungos mágicos*?
+contidos no livro "Um milhar de ervas e fungos mágicos"?
 
 Snape continuava a ignorar a mão palpitante de Hermione.
 
@@ -5683,7 +5687,7 @@ de Charlie com os dragões, Harry pegou num pedaço de papel que
 estava sobre a mesa, debaixo do abafador do chá. Era um
 recorte do Profeta Diário:
 
-:__recente assalto a __gringotts
+Recente assalto a Gringotts
 
 Continuam as investigações sobre o assalto a Gringotts, em 31
 de Julho, que se acredita ser da autoria de feiticeiros ou
@@ -5722,7 +5726,7 @@ o pacote mesmo na hora certa? Onde estaria agora? E, saberia
 Hagrid alguma coisa sobre o Snape que não lhes quisera dizer?
 
 
-IX
+# IX
 
 O duelo da meia-noite
 
@@ -5734,7 +5738,7 @@ Malfoy. Felizmente, os Gryffindor do primeiro ano só tinham a
 aula de poções em conjunto com os Slytherin, por isso não eram
 obrigados a conviver muito tempo com o Malfoy. Ou, pelo menos,
 essa era a regra até ao dia em que foram encontrar espetado no
-*ptacard* da sala comum dos Gryffindor uma notícia que os pôs
+ptacard da sala comum dos Gryffindor uma notícia que os pôs
 a todos maldispostos. As lições de voo iam começar na próxima
 quinta-feira e Gryffindor e Slytherin teriam essa aula em
 conjunto.
@@ -5796,17 +5800,17 @@ avó. Ele abriu-o com grande excitação e
 mostrou aos colegas uma bola de vidro do tamanho de um grande
 berlinde que parecia cheia de um fumo branco.
 
-- _é um *lembrador*! - explicou. - A minha avó sabe que eu
+- É um lembrador! - explicou. - A minha avó sabe que eu
 passo a vida a esquecer-me de tudo. Isto diz-nos se há coisas
 de que nos estamos a esquecer. Olha, apertas assim e se ficar
-vermelha... oh! - Ficou aflitíssimo porque o *lembrador*
+vermelha... oh! - Ficou aflitíssimo porque o lembrador
 tornou-se vermelho-escarlate. - Esqueci-me... de qualquer
 coisa...
 
 Neville estava a fazer um esforço enorme para tentar
 lembrar-se do que tinha esquecido quando Draco Malfoy, que
 passava naquele momento pela mesa dos Gryffindor, lhe arrancou
-o *lembrador* das mãos.
+o lembrador das mãos.
 
 Harry e Ron puseram-se de pé, num salto. De certo modo
 esperavam um pretexto para dar uns socos ao Malfoy mas a
@@ -5816,9 +5820,9 @@ escola, chegou num rompante.
 
 - O que é que se passa aqui?
 
-- O Malfoy tirou-me o meu *lembrador*, professora.
+- O Malfoy tirou-me o meu lembrador, professora.
 
-Com ar de poucos amigos, Malfoy pôs novamente o *lembrador* em
+Com ar de poucos amigos, Malfoy pôs novamente o lembrador em
 cima da mesa. - Estava só a ver --, disse enquanto se afastava
 seguido do Crabbe e do Goyle.
 
@@ -5918,7 +5922,7 @@ Slytherin.
 relvado. - É aquela coisa estúpida que a avó do Longbottom lhe
 mandou.
 
-O *lembrador* brilhou ao sol quando ele lhe pegou.
+O lembrador brilhou ao sol quando ele lhe pegou.
 
 - Dá cá isso, Malfoy - disse o Harry com: a maior das calmas.
 Toda a gente se calou para observar.
@@ -5973,7 +5977,7 @@ a vassoura para trás e dirigiu-a para baixo - um segundo
 depois descia a toda a velocidade atrás da bola --, o vento
 assobiava-lhe aos ouvidos. A centímetros do chão agarrou-a,
 mesmo a tempo de pôr a vassoura direita e pousá-la
-delicadamente no relvado com o *lembrador* a salvo, na mão.
+delicadamente no relvado com o lembrador a salvo, na mão.
 
 - HARRY POTTER!
 
@@ -6044,7 +6048,7 @@ um caixote de lata que ressoou fortemente e saiu a praguejar.
 Mc_Gonagall fechou a porta e voltou-se para os dois rapazes.
 
 - Potter, este é OliverWood. Wood, encontrei-te um
-*seeker*!
+seeker!
 
 A expressão de Wood mudou da confusão »ara uma satisfação
 imensa.
@@ -6072,7 +6076,7 @@ excitado.
 
 - O Wood é o capitão do clube dos Gryffindor - explicou ela.
 
-- Ele até tem a estrutura de um *seeker* - disse o Wood que
+- Ele até tem a estrutura de um seeker - disse o Wood que
 andava à volta de Harry a observá-lo. - Leve, rápido, temos de
 lhe arranjar uma boa vassoura, professora - uma Nimbus dois
 mil ou uma Cleansweep sete, não acha?
@@ -6101,7 +6105,7 @@ todos os acontecimentos. Ron tinha um pedaço de bife e empadão
 de batata a meio caminho da boca mas esquecera-se deles por
 completo.
 
-- *_Seeker* - disse. - Mas os primeiros anos nunca... tu deves
+- Seeker - disse. - Mas os primeiros anos nunca... tu deves
 ser o jogador mais novo em cerca de...
 
 - Um século - completou Harry, começando a comer o empadão.
@@ -6118,7 +6122,7 @@ Fred e George Weasley chegaram naquele momento ao salão,
 reconheceram Harry e comentaram de imediato:
 
 - Boa - disse o George em voz baixa. - O Wood contou-nos.
-Nós também fazemos parte da equipa como *beaters*.
+Nós também fazemos parte da equipa como beaters.
 
 - Não tenho dúvidas de que este ano vamos ganhar a taça de
 Quidditch - disse o Fred. - Nunca mais ganhámos desde que o
@@ -6152,7 +6156,7 @@ mesmo, se quiseres. Um duelo de feiticeiros. Só com varinhas,
 sem contacto. Qual é o problema? Nunca ouviste falar num duelo
 de varinhas?
 
-- _é claro que sim - disse Ron, rodeando a questão. - Eu sou o
+- É claro que sim - disse Ron, rodeando a questão. - Eu sou o
 segundo dele, quem é o teu?
 
 Malfoy olhou para Crabbe e Goyle como que a medi-los.
@@ -6428,8 +6432,8 @@ dos olhos. - É para o vosso bem...
 - Sai da frente - disse asperamente Ron, cometendo o grave
 erro de lhe dar um encontrão.
 
-- :__alunos fora da __cama! - berrou Peeves. -
-:__alunos fora da cama no corredor dos __encantamentos!
+- Alunos fora da cama! - berrou Peeves. 
+- Alunos fora da cama no corredor dos encantamentos!
 
 Passando por debaixo do Peeves, todos eles se lançaram numa
 corrida de vida ou de morte até ao fim do corredor onde foram
@@ -6443,9 +6447,9 @@ aos gritos de Peeves.
 
 - Façam qualquer coisa - disse rispidamente Hermione que,
 agarrando na varinha de Harry, bateu com ela na fechadura,
-murmurando - *_Alohomora*!
+murmurando - "Alohomora"!
 
-A fechadura fez um *clic e a porta abriu-se de par em par -
+A fechadura fez um clic e a porta abriu-se de par em par -
 entraram todos de roldão e ficaram empilhados com os ouvidos
 encostados à porta.
 
@@ -6461,7 +6465,7 @@ Peeves na sua voz irritante e monocórdica.
 
 - Está bem, está bem, por favor.
 
-- NADA! Ah! Ah! Ah!...eu disse-te que não dizia nada enquanto
+- NADA! Ah! Ah! Ah! Eu disse-te que não dizia nada enquanto
 não pedisses por favor!
 
 E ficaram a ouvir a voz do Peeves a rir-se e a do Filch a
@@ -6556,7 +6560,7 @@ encontrava naquele momento o pacotezinho de aspecto sujo do
 cobre setecentos e treze.
 
 
-X
+# X
 
 HALLOWE'EN
 
@@ -6600,13 +6604,13 @@ estreito e comprido, transportado por seis grandes corujas das
 torres. Harry estava tão interessado como os outros em saber o
 que vinha naquele grande embrulho quando as corujas desceram e
 o colocaram mesmo na sua frente, fazendo com que um pedaço de
-*bacon* lhe caísse ao chão. Tinham acabado de levantar voo
+bacon lhe caísse ao chão. Tinham acabado de levantar voo
 quando outra coruja depôs uma carta em cima do embrulho.
 
 Harry abriu-a em primeiro lagar e foi uma sorte porque a
 carta dizia:
 
-:__não abras o embrulho à __mesa
+Não abras o embrulho à mesa
 
 Contém a tua nova Nimbus dois mil, mas não quero que se fique
 a saber que tens uma vassoura ou todos os teus colegas vão
@@ -6669,7 +6673,7 @@ raiva e a confusão que se apoderaram de Malfoy.
 
 - Até é verdade - disse o Harry no meio de alegres gargalhadas
 quando chegaram ao cimo das escadas. - Se ele não tivesse
-roubado o *lembrador* do Neville eu não feria agora parte do
+roubado o lembrador do Neville eu não feria agora parte do
 clube desportivo.
 
 - Portanto, deves achar que se trata de uma recompensa por
@@ -6698,7 +6702,7 @@ desembrulhar, finalmente, a Nimbus dois mil.
 da cama do Harry. O próprio Harry, que não sabia absolutamente
 nada de vassouras, achou-a deslumbrante. Brilhante e macia,
 com o cabo em mogno, tinha uma longa cauda de galhos lisos e
-elegantes e *_Nimbus dois mil* escrito em letras de ouro no
+elegantes e Nimbus dois mil escrito em letras de ouro no
 topo do cabo.
 
 Como as sete horas se aproximavam, Harry saiu do castelo e
@@ -6737,19 +6741,19 @@ tamanhos.
 - Muito bem --, disse o Wood. - O Quidditch é muito fácil de
 entender, embora seja bastante mais difícil de jogar. Os
 jogadores são sete de cada lado, três dos quais são os
-*chasers*.
+chasers.
 
-- Três *chasers* - repetiu Harry enquanto o Wood tirava uma
+- Três chasers - repetiu Harry enquanto o Wood tirava uma
 bola vermelho brilhante com o tamanho aproximado de uma bola
 de futebol.
 
-- Esta bola chama-se *quaffle* --, disse o Wood. - Os
-*chasers* lançam a *quaffle* uns para os outros e tentam
+- Esta bola chama-se quaffle --, disse o Wood. - Os
+chasers lançam a quaffle uns para os outros e tentam
 enfiá-la numa das argolas para marcar um golo. Dez pontos de
-cada vez que a *quaffle* entrar por uma das argolas. Estás a
+cada vez que a quaffle entrar por uma das argolas. Estás a
 seguir-me?
 
-- Os *chasers* lançam a *quaffle* e fazem-na passar pelas
+- Os chasers lançam a quaffle e fazem-na passar pelas
 argolas para marcar pontos - repetiu Harry. - Então, é uma
 espécie de basquetebol em vassouras, com seis argolas, não é?
 
@@ -6758,13 +6762,13 @@ curiosidade.
 
 -- Deixa estar - disse Harry sem querer perder tempo.
 
-- Ora bem, há outro jogador de cada lado que é o *keeper* - eu
-sou *keeper* dos Gryffindor. Tenho de voar em volta das
+- Ora bem, há outro jogador de cada lado que é o keeper - eu
+sou keeper dos Gryffindor. Tenho de voar em volta das
 nossas argolas e tentar impedir que o outro clube ganhe
 pontos.
 
-- Três *chasers*, um *keeper* - disse Harry que estava
-disposto a decorar tudo. - E eles jogam com a *quaffle*. Está
+- Três chasers, um keeper - disse Harry que estava
+disposto a decorar tudo. - E eles jogam com a quaffle. Está
 bem, já percebi até aqui. Mas, então, para que são essas? -
 perguntou apontando para as três outras bolas que estavam no
 estojo.
@@ -6772,19 +6776,19 @@ estojo.
 - Vou mostrar-te - disse Wood. - Toma esta.
 
 Entregou a Harry um pequeno bastão, uma espécie de taco de
-*rounders*.
+rounders.
 
-- Vou mostrar-te para que servem as *bludgers* - disse o
-Wood.-Estas são as duas *bludgers*.
+- Vou mostrar-te para que servem as bludgers - disse o
+Wood. - Estas são as duas bludgers.
 
 Mostrou-lhe duas bolas idênticas, totalmente pretas e
-ligeiramente mais pequenas do que a *quaffle* vermelha. Harry
+ligeiramente mais pequenas do que a quaffle vermelha. Harry
 notou que elas pareciam contorcer-se num tremendo esforço por
 se soltarem das presilhas de couro que as prendiam dentro do
 estojo.
 
 - Chega-te para trás - avisou Wood, enquanto se baixava e
-libertava uma das *bladgers*.
+libertava uma das bladgers.
 
 Num segundo, a bola elevou-se bem alto no ar e, em seguida,
 lançou-se direita à cara do principiante. Harry tentou
@@ -6796,50 +6800,50 @@ se atirou para cima dela, conseguindo segurá-la contra o chão.
 - Vês --, disse com dificuldade o Wood, metendo à força no
 estojo a bola lutadora e fechando-a bem.
 
-- As *bludgers* passam como foguetes, tentando fazer com que
+- As bludgers passam como foguetes, tentando fazer com que
 os jogadores caiam das vassouras abaixo. É por
-isso que cada clube tem dois *bludgers* - os nossos são os
+isso que cada clube tem dois bludgers - os nossos são os
 gémeos Weasley - cuja função é proteger o seu lado das
-*bludgers* e arremessá-las contra o campo do adversário.
+bludgers e arremessá-las contra o campo do adversário.
 Então, alguma dúvida?
 
-- Três *chasers* tentam marcar com a *quaffle*, o *keeper*'
-guarda os postes dos golos, os *beaters* mantêm as *bludgers*
+- Três chasers tentam marcar com a quaffle, o keeper'
+guarda os postes dos golos, os beaters mantêm as bludgers
 afastadas do seu clube --, papagueou o Harry.
 
 - Muito bem - disse Wood.
 
--- Er... as *bludgers* já alguma vez, por acaso, mataram
+-- Er... as bludgers já alguma vez, por acaso, mataram
 alguém? - perguntou Harry, tentando parecer espontâneo.
 
 - Em Hogwarts, nunca. Alguns maxilares quebrados mas nada mais
 grave do que isso. E, por fim, o último membro do clube é o
-*seeker* que é a tua posição. E tu não tens que te preocupar
-com a *quaffle* nem com as *bludgers* ...
+seeker que é a tua posição. E tu não tens que te preocupar
+com a quaffle nem com as bludgers ...
 
 - A não ser que me abram a cabeça...
 
 - Não tenhas problemas, os Weasley chegam bem para elas -
-quero dizer, eles próprios já são um par de *bludgers*
+quero dizer, eles próprios já são um par de bludgers
 humanas.
 
 Wood aproximou-se do estojo e retirou de lá de dentro a
-quarta e última bola. Comparada com a *quaffle* e com as
-*bludgers* esta era pequenina, mais ou menos do tamanho de uma
+quarta e última bola. Comparada com a quaffle e com as
+bludgers esta era pequenina, mais ou menos do tamanho de uma
 noz. Era dourada e tinha umas pequenas asas cor de prata, em
 grande alvoroço.
 
-- Esta - disse o Wood, é a *snitch* de ouro, a bola mais
+- Esta - disse o Wood, é a snitch de ouro, a bola mais
 importante de todas. É muito difícil de agarrar não só por ser
 extremamente veloz mas também porque é dificil de ver. E
-função do *seeker* agarrá-la. Tens de avançar e recuar pelo
-meio dos *chasers*, dos *beaters*, das *bludgers* e da
-*quaffle* para conseguir agarrá-la antes do *seeker* do clube
-adversário, porque aquele que agarrar a *snitch* ganha para o
+função do seeker agarrá-la. Tens de avançar e recuar pelo
+meio dos chasers, dos beaters, das bludgers e da
+quaffle para conseguir agarrá-la antes do seeker do clube
+adversário, porque aquele que agarrar a snitch ganha para o
 seu clube cento e cinquenta pontos, ou seja, o jogo fica
-praticamente ganho. E por isso que os *seekers* estão sempre
+praticamente ganho. E por isso que os seekers estão sempre
 a ser penalizados. Um jogo de Quidditch só termina quando a
-*snitch* é agarrada, portanto pode demorar imenso tempo
+snitch é agarrada, portanto pode demorar imenso tempo
 
 - Julgo que o tempo recorde foi de três meses e foi preciso ir
 arranjando constantes substitutos para que os jogadores
@@ -6850,7 +6854,7 @@ pudessem ir dormindo.
 Harry abanou negativamente a cabeça. Compreendera o que tinha
 de fazer. O problema estava em conseguir ou não fazê-lo.
 
-- Não vamos praticar já com a *snitch* - disse Wood,
+- Não vamos praticar já com a snitch - disse Wood,
 fechando-a com todo o cuidado dentro do estojo. Está muito
 escuro e podíamos correr o risco de a perder. Vamos treinar
 com algumas destas.
@@ -6899,7 +6903,7 @@ praticar! - repetiu o professor Flitwick, encarrapitado, como
 sempre, na pilha de livros que o fazia parecer mais alto. -
 Rápido e seco. E é muito importante pronunciar correctamente
 as palavras mágicas; lembrem-se do feiticeiro Baruffio que
-substituiu um *f* por um *s* e deu por si caído no meio do
+substituiu um f por um s e deu por si caído no meio do
 chão com um búfalo em cima do peito.
 
 Era muito dificil. Harry e Seamus fizeram movimentos rápidos e
@@ -6910,18 +6914,18 @@ com o próprio chapéu.
 
 Na mesa ao lado, Ron não estava a ser melhor sucedido.
 
-- *_Wingardium leviosa* - gritava ele, acenando com os braços
+- "Wingardium leviosa" - gritava ele, acenando com os braços
 como se fosse um moinho de vento.
 
 Harry ouviu a voz de Hermione a corrigi-lo. - Estás a dizer
-mal. É *wingar-dium levi-o-as*. O «*gar*« tem de ser longo e
+mal. É "wingar-dium levi-o-as". O "gar" tem de ser longo e
 suave.
 
 - Então faz tu já que és tão espertinha --, respondeu-lhe o
 Ron.
 
 Hermione arregaçou as mangas do seu trajo académico, fez um
-movimento com a varinha e disse: *_Wingardium Leviosa*!
+movimento com a varinha e disse: "Wingardium Leviosa"!
 
 A pena ergueu-se da secretária e flutuou um metro e tal acima
 das suas cabeças.
@@ -7129,7 +7133,7 @@ uma enorme cacetada.
 
 Hermione desmaiara de medo. Ron puxou da sua varinha e, sem
 saber o que fazer, deu consigo a pronunciar o primeiro feitiço
-que lhe veio à cabeça: *_Wingardiam Leviosa*!
+que lhe veio à cabeça: "Wingardiam Leviosa"!
 
 A moca do gigante "saltou-lhe subitamente da mão e subiu,
 subiu no ar. Depois, voltou-se lentamente e caiu com um
@@ -7192,7 +7196,7 @@ vencê-lo sozinha uma vez que tinha lido tanto sobre eles.
 Ron deixou cair a varinha. Hermione Granger a dizer uma
 mentira a uma professora.
 
-- Se eles não me tivessem encontrado estaria morta. _o Harry
+- Se eles não me tivessem encontrado estaria morta. O Harry
 enfiou-lhe a varinha mágica no nariz e o Ron atirou-o ao chão
 com a sua própria moca. Eles não tiveram tempo de chamar
 ninguém. O gigante ia matar-me quando chegaram aqui.
@@ -7212,7 +7216,7 @@ começado a distribuir doces pelos alunos.
 - Hermione Granger, os Gryffindor perderão cinco pontos por
 isto - disse a professora Mc_Gonagall. - Estou muito
 decepcionada consigo. Se não lhe aconteceu nada de mal é
-melhor ir já direitinha para a torre dos _gryffindor, os
+melhor ir já direitinha para a torre dos Gryffindor, os
 alunos estão a terminar o banquete nas salas de convívio das
 suas equipas.
 
@@ -7259,7 +7263,7 @@ obrigam a gostar uns dos outros e enfrentar um gigante da
 montanha com três metros e meio de altura era, sem dúvida, uma
 delas.
 
-XI
+# XI
 
 Quidditch
 
@@ -7279,7 +7283,7 @@ passariam ao segundo lugar nos clubes do campeonato.
 Quase ninguém tinha visto o Harry jogar porque Wood assim o
 decidira. Era uma espécie de arma secreta. Harry seria mantido
 bem em segredo. Mas a notícia de que ele iria jogar como
-*seeker* acabou por espalhar-se e Harry já não sabia o que era
+seeker acabou por espalhar-se e Harry já não sabia o que era
 pior - se as pessoas que lhe diziam que ele ia ser brilhante
 ou as que se ofereciam para correr por debaixo da vassoura
 dele com um colchão.
@@ -7294,7 +7298,7 @@ tempos que acabou por ser uma leitura muito interessante.
 Harry aprendeu que havia setecentas maneiras de cometer
 irregularidades no Quidditch e que todas elas tinham ocorrido
 durante o Campeonato Mundial da Taça, em 1473, que os
-*seekers* eram geralmente os jogadores mais pequenos e mais
+seekers eram geralmente os jogadores mais pequenos e mais
 rápidos e os acidentes mais graves do Quidditch lhes
 aconteciam sempre a eles, e que, apesar de as pessoas
 raramente morrerem durante o jogo, havia referências a
@@ -7319,7 +7323,7 @@ penalizar.
 
 - O que é que tens aí, Potter?
 
-Era o *_Quidditch através dos tempos*. Harry mostrou-lho.
+Era o "Quidditch através dos tempos". Harry mostrou-lho.
 
 - Os livros da biblioteca não podem sair da escola - disse o
 professor. - Dá-mo. Cinco pontos a menos para os Gryffindor.
@@ -7338,8 +7342,8 @@ Hermione estava a rever-lhes os trabalhos-de-casa para os
 encantamentos. Nunca ela os deixaria, copiar (Como é que
 querem aprender?), mas ao pedirem-lhe que os lesse atentamente
 acabavam na mesma por ter as respostas certas
-Harry sentia-se impaciente. Queria ter de volta *_o Quidditch
-através dos tempos* para se distrair e parar de pensar no jogo
+Harry sentia-se impaciente. Queria ter de volta o "Quidditch
+através dos tempos" para se distrair e parar de pensar no jogo
 do dia seguinte. Porque é que havia de ter medo do Snape?
 Pondo-se de pé, disse aos amigos que ia pedir de novo o livro
 ao professor.
@@ -7426,10 +7430,10 @@ Harry sentia-se pessimamente. Dentro de uma hora ia entrar no
 estádio.
 
 - Harry, precisas de ter forças - disse Seamus Finnigan. - Os
-*seekers* são sempre aqueles que são atacado pelo outro lado.
+seekers são sempre aqueles que são atacado pelo outro lado.
 
 - Obrigado, Seamus - disse Harry enquanto o via deitar
-*_Ketchup* a jorros nas salsichas.
+ketchup a jorros nas salsichas.
 
 Cerca das onze horas quase toda a escola enchia o lugares do
 estádio de Quidditch. Grande parte dos alunos tinha binóculos.
@@ -7452,11 +7456,11 @@ Wood afinou a garganta para que se fizesse silêncio
 
 - O. K. rapazes --, disse.
 
-- E raparigas - completou a *chaser* Angelina Johnson.
+- E raparigas - completou a chaser Angelina Johnson.
 
 - Exactamente. E raparigas - concordou ele.
 
-- _é o grande momento - disse Fred Weasley. - O momento pelo
+- É o grande momento - disse Fred Weasley. - O momento pelo
 qual todos nós temos estado à espera - disse George.
 
 - Já sabemos o discurso do Oliver de cor - disse o Fred
@@ -7483,7 +7487,7 @@ disse quando os dois clubes estavam junto dela. Harry reparou
 que ela se dirigia particularmente ao capitão dos Slytherin,
 Marcus Flint, um aluno do quinto ano. Flint parecia ter sangue
 de gigante. Pelo canto do olho, Harry viu a faixa que se
-erguia acima da multidão. dizendo «Potter à presidência». O
+erguia acima da multidão dizendo «Potter à presidência». O
 coração bateu mais forte, enchendo-o de coragem.
 
 - Montem nas vassouras, por favor. - Harry subiu para a sua
@@ -7491,9 +7495,9 @@ Nimbus dois mil.
 
 Madame Hooch soprou com forca no seu apito de prata.
 
-Quinze vassouras elevaram-se no ar. - E a *quaffle* é
+Quinze vassouras elevaram-se no ar. - E a quaffle é
 agarrada, de imediato, por Angelina Johnson dos Gryffindor -
-que excelente *chaser* é aquela rapariga e bastante bonita por
+que excelente chaser é aquela rapariga e bastante bonita por
 acaso...
 
 - JORDAN!
@@ -7505,21 +7509,21 @@ observado de perto pela professora Mc_Gonagall.
 - E ela está a jogar forte ali em cima, uma passagem óptima
 para Alicia Spinnet, um bom achado do Oliver Wood que no ano
 passado era apenas suplente - novamente pára Johnson e - oh!
-não, os Slytherin agarram a *quaffle*, o capitão dos
-Slytherin, Marcus Flint, tem *quaffle* e aí vai ele - Flint
+não, os Slytherin agarram a quaffle, o capitão dos
+Slytherin, Marcus Flint, tem quaffle e aí vai ele - Flint
 voando como uma águia vai m... -- não, foi travado por uma
-excelente jogada do *keeper* dos Gryffindor, Wood e Gryffindor
-tem agora *quaffle* - é a *chaser* Katie Bell dos Gryffindor,
+excelente jogada do keeper dos Gryffindor, Wood e Gryffindor
+tem agora quaffle - é a chaser Katie Bell dos Gryffindor,
 excelente passe em volta de Flint, sobre o campo e - uuppss! -
-deve ter doído, atingida na nuca por uma *bludger* - *quaffle*
+deve ter doído, atingida na nuca por uma bludger - quaffle
 foi agarrada pelos Slytherin - é Adrian Pucey a voar em
 direcção aos postes de marcação mas é travado pela segunda
-*bludger* lançada por Fred ou George Weasley, não distingo
-bem qual dos dois gémeos - boa jogada dos *beaters* dos
-Gryffindor e Johnson está de novo de posse da *quaffle*, o
+bludger lançada por Fred ou George Weasley, não distingo
+bem qual dos dois gémeos - boa jogada dos beaters dos
+Gryffindor e Johnson está de novo de posse da quaffle, o
 campo está livre à sua frente. Aí vai ela em pleno voo - foge
-rapidamente a uma *bludger* está face aos postes de marcação -
-vamos Angelina - o *keeper* Bletchley a toda a velocidade -
+rapidamente a uma bludger está face aos postes de marcação -
+vamos Angelina - o keeper Bletchley a toda a velocidade -
 falha - GRYFFINDOR MARCA!!!
 
 Os aplausos aos Gryffindor encheram o ar gélido juntamente
@@ -7535,8 +7539,8 @@ lhes juntasse.
 - Tenho 'tado a ver da minha cabana - disse Hagrid que
 transportava um grande par de binóculos em volta do pescoço.
 
-- Mas nunc'é o mesmo que 'tar no meio da multidão. `_inda não
-apareceu a *snitch*, hein?
+- Mas nunc'é o mesmo que 'tar no meio da multidão. Ainda não
+apareceu a snitch, hein?
 
 - Não --, disse ó Ron. - O Harry ainda não fez grande coisa.
 
@@ -7546,36 +7550,36 @@ erguendo os binóculos e espreitando em direcção ao céu para a
 pintinha lá em cima que era o Harry.
 
 Bem acima deles, Harry planava acima do jogo, olhando em todas
-as direcções em busca de um sinal da *snitch*. Aquela atitude
+as direcções em busca de um sinal da snitch. Aquela atitude
 fazia parte de um esquema concebido por ele e pelo Wood.
 
 - Mantém-te fora do ângulo de visão dos outros até veres a
-*snitch* - dissera-lhe o Wood. - Não queremos que te ataquem
+snitch - dissera-lhe o Wood. - Não queremos que te ataquem
 antes de ser absolutamente necessário.
 
 Quando Angelina marcou, Harry fez uma série de piruetas para
 extravasar os seus sentimentos. Agora, estava de novo atento à
-*snitch*. De uma vez avistou algo dourado, mas era apenas o
+snitch. De uma vez avistou algo dourado, mas era apenas o
 reflexo de um dos relógios de pulso dos gémeos e, de outra
-vez, uma *bludger* resolveu dirigir-se a ele como uma bola de
+vez, uma bludger resolveu dirigir-se a ele como uma bola de
 canhão mas Harry desviou-a e Fred Weasley veio atrás dela.
 
 - Tudo bem, Harry? - perguntou ele numa fracção de segundo
-enquanto dava uma fortíssima tacada na *bludger* lançando-a
+enquanto dava uma fortíssima tacada na bludger lançando-a
 contra Marcus Flint.
 
-- Os Slytherin a jogar - repetia Lee Jordan.-O *chaser* Pucey
-evita duas *bludgers*, os dois Weasleys e o *chaser* Bell e
-voa na direcção de... um momento - aquilo seria a *snitch*?
+- Os Slytherin a jogar - repetia Lee Jordan.-O chaser Pucey
+evita duas bludgers, os dois Weasleys e o chaser Bell e
+voa na direcção de... um momento - aquilo seria a snitch?
 
 Um murmúrio percorreu a multidão quando Adrian Pucey largou a
-*quaffle*, olhando preocupado por cima do ombro para a pequena
+quaffle, olhando preocupado por cima do ombro para a pequena
 luz dourada que lhe rasara a orelha esquerda.
 
 E Harry viu-a. Com grande velocidade e entusiasmo mergulhou
-atrás do vestígio de ouro. O *seeker* dos Slytherin, Terence
+atrás do vestígio de ouro. O seeker dos Slytherin, Terence
 Higgs, também a tinha visto. Pescoço frente a pescoço
-precipitaram-se para a *snitch* - todos os *chasers* pareciam
+precipitaram-se para a snitch - todos os chasers pareciam
 ter-se esquecido das suas funções, tendo parado no ar a
 observá-los.
 
@@ -7590,7 +7594,7 @@ estava agora agarrado a ela com todas as suas forças.
 
 Madame Hooch dirigiu-se, muito zangada, ao Flint e em seguida
 decretou um golo livre dos Gryffindor. Mas, no meio da
-confusão, é claro, todos perderam de vista a *snitch*.
+confusão, é claro, todos perderam de vista a snitch.
 
 - Cá para baixo para a bancada - gritava Dean Thomas. -
 Ponham-no fora, cartão vermelho!
@@ -7612,13 +7616,13 @@ Lee Jordan estava a ter dificuldade em se mostrar imparcial.
 
 - Jordan, estou a avisar-te...
 
-- Está bem, está bem. O Flint quase matou o *seeker* dos
+- Está bem, está bem. O Flint quase matou o seeker dos
 Gryffindor, o que podia ter acontecido a qualquer um, claro.
 Portanto, uma penalização dada aos Gryffindor por Spinnet que
 acaba de retirá-la e o jogo continua. Gryffindor ainda a
 liderar.
 
-Foi quando Harry desviou outra *bludger* que vinha
+Foi quando Harry desviou outra bludger que vinha
 perigosamente em direcção à sua cabeça que aquilo aconteceu.
 A vassoura deu uma guinada súbita e assustadora. Por uma
 fracção de segundo, pensou que ia mesmo cair. Agarrou-se bem
@@ -7638,9 +7642,9 @@ obrigavam a desequilibrar-se.
 
 Lee continuava a comentar.
 
-- Slytherin na liderança - Flint com a *quaffle* - passa ao
+- Slytherin na liderança - Flint com a quaffle - passa ao
 Spinnet - passa ao Bull - atingido fortemente na cara por uma
-*bludger* - espero que lhe parta o nariz - estou a brincar,
+bludger - espero que lhe parta o nariz - estou a brincar,
 professora, os Slytherin marcam, oh! não...
 
 Os Slytherin estavam radiantes. Ninguém se tinha dado conta de
@@ -7696,7 +7700,7 @@ de nada - de cada vez que se aproximavam a vassoura subia
 ainda mais. Começaram então a voar em círculos, um pouco
 abaixo, na esperança de o agarrarem se ele caísse.
 
-Marcus Flint agarrou a *quaffle* e marcou cinco vezes sem que
+Marcus Flint agarrou a quaffle e marcou cinco vezes sem que
 ninguém desse por isso.
 
 - Vá lá, Hermione - suplicou Ron, desesperado. Hermione abrira
@@ -7728,7 +7732,7 @@ quando a multidão o viu levar a mão à boca como se fosse
 vomitar - dominou completamente o estádio --, tossiu e uma
 coisinha dourada caiu-lhe na mão.
 
-- Tenho a *snitch*! - gritou, acenando com ela acima da cabeça
+- Tenho a snitch! - gritou, acenando com ela acima da cabeça
 e pondo fim ao jogo no meio da maior confusão.
 
 - Ele não a apanhou, engoliu-a - berrava ainda vinte minutos
@@ -7785,11 +7789,11 @@ opinião que ela tinha do Snape.
 sobre eles! É preciso manter um constante contacto visual e o
 Snape nem pestanejou, eu vi!
 
-- `_tou a dizer-te que 'tás enganada! - disse o Hagrid com
+- Tou a dizer-te que 'tás enganada! - disse o Hagrid com
 vivacidade. - Não sei porq'é que a vassoura do Harry fez
 aquilo mas o Snape não ia tentar matar um aluno. E vocês,
 ouçam bem o qu'eu digo - `tão a meter-se em coisas
-que não são da vossa conta. Isso pode ser perigoso. _esqueçam
+que não são da vossa conta. Isso pode ser perigoso. Esqueçam
 aquele cão e esqueçam o qu'ele 'tá a guardar. Isso é entre o
 professor Dumbledore e Nicolas Flamel...
 
@@ -7801,7 +7805,7 @@ Hagrid estava furioso consigo próprio.
 
 
 
-XII
+# XII
 
 O espelho dos invisíveis
 
@@ -7835,7 +7839,7 @@ socapa. Harry ignorou-os e continuou a pesar o pó de espinha
 de peixe-leão. O Malfoy tornara-se ainda mais desagradável
 depois do desafio de Quidditch. Irritado por os Slytherin
 terem perdido, tentou pôr toda a gente a rir, sugerindo que o
-próximo *seeker* que substituísse Harry teria de ser uma
+próximo seeker que substituísse Harry teria de ser uma
 raineta com três grandes bocas abertas. Mas constatou que
 ninguém achava graça à sua piada porque todos tinham ficado
 verdadeiramente impressionados com o modo como Harry
@@ -7893,7 +7897,7 @@ virou costas. - Um dia destes, apanho-o.
 
 - Eu detesto os dois --, disse o Harry. - O Malfoy e o Snape.
 
-- Vá lá, animem-se, rapazes. `_tamos quase no Natal. Venham
+- Vá lá, animem-se, rapazes. Tamos quase no Natal. Venham
 comigo ver como está o salão, parece uma festa.
 
 E lá foram todos atrás do Hagrid e da sua grande árvore até ao
@@ -7912,7 +7916,7 @@ centenas de velinhas acesas.
 - Quantos dias faltam p'ra vocês começarem as férias? -
 perguntou Hagrid.
 
-- _só um - disse Hermione. - E isso vem lembrar-me que -
+- Só um - disse Hermione. - E isso vem lembrar-me que -
 Harry, Ron, temos meia hora até ao almoço --, devíamos estar
 na biblioteca.
 
@@ -7952,11 +7956,11 @@ livros desde que o Hagrid, por engano, o deixara escapar. De
 que outro modo poderiam saber o que Snape andava a tentar
 roubar? O problema estava em não saberem por onde começar,
 ignorando por completo que Flamel poderia ter feito para ter o
-seu nome nos livros. Não era referido nos *_Grandes
-feiticeiros do século vinte*, nem nos *_Nomes notáveis do
-nosso tempo*. Também não falavam dele nas *_Importantes
-descobertas da magia moderna* nem no *_Estudo dos novos
-desenvolvimentos da feitiçaria*. E, é claro, havia ainda que
+seu nome nos livros. Não era referido nos "Grandes
+feiticeiros do século vinte", nem nos "Nomes notáveis do
+nosso tempo". Também não falavam dele nas "Importantes
+descobertas da magia moderna" nem no "Estudo dos novos
+desenvolvimentos da feitiçaria". E, é claro, havia ainda que
 ter em conta as dimensões da biblioteca. Milhares de livros,
 centenas de prateleiras e de filas estreitas.
 
@@ -8060,14 +8064,14 @@ para o seu monte que era um pouco mais alto.
 
 Harry pegou no presente que estava em cima. Vinha embrulhado
 em papel castanho espesso e uns gatafunhos em toda a volta
-diziam *_Para o Harry do Hagrid*. Lá dentro vinha uma flauta
+diziam "Para o Harry do Hagrid". Lá dentro vinha uma flauta
 de madeira, artesanal. Devia ter sido feita pelo próprio
 Hagrid. Harry soprou - o som parecia o piar de uma coruja.
 
 O segundo presente, um pacotinho pequeno, continha uma nota.
 
-*_Recebemos a tua mensagem e estamos a enviar-te o teu
-presente de Natal. Do tio Vernon e da tia Petúnia*. Pegada à
+Recebemos a tua mensagem e estamos a enviar-te o teu
+presente de Natal. Do tio Vernon e da tia Petúnia. Pegada à
 nota vinha uma moeda de vinte escudos.
 
 - É simpático - disse o Harry.
@@ -8096,7 +8100,7 @@ confeccionados em casa.
 desembrulhando a dele. - E a minha é sempre
 castanho-avermelhado.
 
-- _é amoroso da parte dela - disse o Harry, experimentando um
+- É amoroso da parte dela - disse o Harry, experimentando um
 bombom que era muito saboroso.
 
 O seu próximo presente também continha doces - uma grande
@@ -8163,7 +8167,7 @@ Não lhe apetecia, por enquanto, partilhá-lo com mais ninguém.
 - Olhem, o Harry também tem uma camisola Weasley.
 
 O Fred e o George usavam camisolas azuis, uma com um grande
-*_F* e outra com um *_G*.
+F e outra com um G.
 
 - A do Harry é melhor do que as nossas - disse o Fred, pegando
 na camisola do Harry. - Ela esmerou-se mais por tu não seres
@@ -8262,13 +8266,14 @@ de baixo o manto.
 
 Do seu pai... aquilo pertencera ao seu pai. Deixou que o
 tecido lhe roçasse as mãos, mais macio do que a seda, mais
-leve do que o ar. *_Usa-o* bem, dizia o bilhete.
+leve do que o ar. 
+Usa-o bem, dizia o bilhete.
 
 Tinha de experimentá-lo de novo. Saltou da cama e embrulhou-se
 nele. Olhando para baixo, para as pernas, apenas viu sombras e
 luar. Era um sentimento estranhíssimo.
 
-*_Usa-o bem.*
+Usa-o bem.
 
 De repente, sentiu-se completamente acordado. Todas
 as divisões de Hogwarts se lhe abriam com aquele manto.
@@ -8372,8 +8377,9 @@ que ninguém o encontrasse.
 
 Era um espelho magnífico, tão alto que quase tocava no tecto,
 com uma moldura trabalhada em ouro e assente
-em dois pés de garra. No topo havia uma inscrição: *_Erised
-stra ehru oyt ube cafru oyt on wohsi*.
+em dois pés de garra. No topo havia uma inscrição: 
+
+Erised stra ehru oyt ube cafru oyt on wohsi.
 
 Tendo afastado o pânico com o desaparecimento de Filch e de
 Snape, Harry aproximou-se, querendo mais uma vez olhar para
@@ -8479,7 +8485,7 @@ sentido contrário mas não viram mais ninguém. No preciso
 momento em que o Ron tinha começado a queixar-se de que sentia
 os pés gelados, Harry deu com a armadura.
 
-- _é aqui, aqui mesmo, aqui!
+- É aqui, aqui mesmo, aqui!
 
 Abriram a porta. Harry tirou o manto dos ombros e correu para
 o espelho.
@@ -8670,7 +8676,7 @@ também, enquanto enxotava o Scabbers da almofada, que aquela
 fora uma pergunta bastante indiscreta.
 
 
-XIII
+# XIII
 
 Nicolas Flamel
 
@@ -8761,7 +8767,7 @@ Quidditch.
 
 - Parte mesmo uma perna - aconselhou o Ron.
 
-- Não posso - disse o Harry. - Não há nenhum *seeker*
+- Não posso - disse o Harry. - Não há nenhum seeker
 suplente. Se eu lhes faltar os Gryffindor não poderão jogar.
 
 Nesse momento o Neville entrou de roldão na sala comum. Todos
@@ -8823,9 +8829,9 @@ seguida olhou para Ron e Hermione:
 que tinha lido sobre ele no comboio quando vinha para cá -
 ouçam isto: O professor Dumbledore é particularmente famoso
 por ter derrotado o mago negro Grindelwald em 1945, pela
-descoberta de doze utilizações para o sangue de dragão e *pelo
+descoberta de doze utilizações para o sangue de dragão e pelo
 seu trabalho alquímico, juntamente com o seu colega Nicolas
-Flamel*!
+Flamel!
 
 Hermione deu dois saltos de contente. Não se mostrava tão
 entusiasmada desde o dia em que recebera a nota do seu
@@ -8862,7 +8868,7 @@ A frase não teve o impacte que ela esperava.
 
 Pôs-lhes o livro na frente e Harry Ron leram:
 
-*_O antigo estudo da alquimia relaciona-se com a construção da
+O antigo estudo da alquimia relaciona-se com a construção da
 pedra filosofal, uma substância lendária com poderes
 fabulosos. A pedra transforma qualquer metal em ouro puro.
 Produz também o elixir da vida que tornará imortal aquele que
@@ -8872,7 +8878,7 @@ Tem havido muitas referências à pedra filosofal ao longo dos
 séculos, mas a única que de facto existe pertence ao senhor
 Nicolas Flamel que festejou o ano passado o seu 665.o
 aniversário e que leva uma vida tranquila em Devon, com a sua
-mulher Perenelle, de 658 anos*.
+mulher Perenelle, de 658 anos.
 
 
 - Estão a ver? - disse Hermione quando Harry e
@@ -8947,7 +8953,7 @@ Malfoy o usara com Neville e estavam agora prontos a pô-lo em
 prática contra Snape, à primeira tentativa de este fazer mal
 ao Harry.
 
-- Não te esqueças, é *_Locomotor Mortis* - murmurou Hermione
+- Não te esqueças, é Locomotor Mortis - murmurou Hermione
 enquanto o Ron escondia a varinha dentro da manga.
 
 - Eu sei --, rabujou ele, - não chateies.
@@ -8992,9 +8998,9 @@ desta vez, em cima da vassoura. Alguém quer apostar? Weasley?
 
 Ron não lhe respondeu. O Snape tinha acabado de conceder aos
 Hufflepuff um penálti porque o George Weasley lhes
-arremessara uma *bludger*. Hermione, que fazia figas no colo,
+arremessara uma bludger. Hermione, que fazia figas no colo,
 tinha os olhos fixos no Harry que voava em círculos sobre o
-jogo como um falcão, em busca da *snitch*.
+jogo como um falcão, em busca da snitch.
 
 - Sabes como é que, na minha opinião, eles escolhem os
 jogadores para os Gryffindor? - disse Malfoy bem alto alguns
@@ -9046,11 +9052,11 @@ e murros entre o Neville, o Crabbe e o Goyle.
 Lá em cima, no ar, Snape voltou a vassoura mesmo a tempo de
 ver algo escarlate passar por ele, falhando por centímetros -
 no segundo seguinte Harry tinha terminado o mergulho. Com
-o braço no ar, vitorioso, mostrava a *snitch* que tinha na
+o braço no ar, vitorioso, mostrava a snitch que tinha na
 mão.
 
 As bancadas quase vieram abaixo. Era um recorde que nunca fora
-atingido, jamais a *snitch* tinha sido agarrada em tão pouco
+atingido, jamais a snitch tinha sido agarrada em tão pouco
 tempo.
 
 -- Ron! Ron! Onde estás? O jogo acabou! O Harry venceu!
@@ -9068,7 +9074,7 @@ sentiu então uma mão no ombro e olhou para o rosto sorridente
 de Dumbledore.
 
 - Muito bem - disse Dumbledore baixinho, para que só Harry
-pudesse ouvir. - _é bom ver que não ficaste perturbado por
+pudesse ouvir. - É bom ver que não ficaste perturbado por
 aquele espelho e que tens trabalhado a sério. Excelente!
 
 Snape cuspiu causticamente para o chão.
@@ -9142,7 +9148,7 @@ disse o Snapç, dando um passa em direcção a ele.
 
 Um mocho piou tão alto que Harry quase caiu da árvore abaixo.
 Equilibrou-se a tempo de ouvir o Snape dizer: - O seu
-bocadinho de *hocus pocus*. Estou à espera.
+bocadinho de "hocus pocus". Estou à espera.
 
 - M... as eu não sssei.
 
@@ -9177,7 +9183,7 @@ que tinha visto e ouvido.
 - Portanto estávamos certos, é a pedra filosofa e o Snape está
 a tentar obrigar o Quirrell a ajudá-lo a roubá-la.
 Perguntou-lhe se ele sabia como passar pelo Fluffy e disse
-qualquer coisa sobre o *hocus pocus* do Quirrell - suponho que
+qualquer coisa sobre o "hocus pocus" do Quirrell - suponho que
 deve haver outras coisas a guardar a pedra além do Fluffy,
 encantamentos provavelmente e o Quirrell deve ter feito um
 feitiço qualquer contra as artes das trevas de que o Snape
@@ -9189,7 +9195,7 @@ Hermione.
 
 - Ela vai sair dali na próxima terça-feira --, lembrou o Ron.
 
-XIV
+# XIV
 
 Norbert, o dragão norueguês
 
@@ -9244,8 +9250,8 @@ pela janela da biblioteca. Era o primeiro dia bonito que havia
 em meses. O céu estava de um azul muito clarinho e sentia-se
 no ar a chegada do Verão.
 
-Harry, que estava à procura de «díctamo« em *_Uma centena de
-ervas e fungos mágicos*, só olhou quando ouviu o Ron gritar: -
+Harry, que estava à procura de díctamo em "Uma centena de
+ervas e fungos mágicos", só olhou quando ouviu o Ron gritar: -
 Hagrid, o que estás a fazer na biblioteca?
 
 Hagrid apareceu, arrastando os pés e parecendo esconder
@@ -9253,7 +9259,7 @@ qualquer coisa atrás das costas. Estava bastante deslocado
 naquele lagar, dentro do seu enorme sobretudo de pele de
 toupeira.
 
-- `_tava só à procura d'uma coisa --, justificou-se num tom de
+- Estava só à procura d'uma coisa --, justificou-se num tom de
 voz manhoso que lhes chamou a atenção. - E vocês, o qu'é que
 'tão aqui a fazer? - Parecia desconfiado. - Não é à procura do
 Nicolas Flamel, pois não?
@@ -9266,7 +9272,7 @@ está a guardar a pedra filosofal.
 certificando-se de que ninguém os ouvira. - Não te ponhas para
 aí a dizer isso em voz alta. O que é que te deu?
 
-- Há algumas perguntas que. queríamos efectivamente fazer-te -
+- Há algumas perguntas que queríamos efectivamente fazer-te -
 disse o Harry. - Sobre o que está a guardar a pedra além do
 Fluffy.
 
@@ -9288,9 +9294,9 @@ que já tinha trabalhado bastante. Voltou minuto depois com um
 monte de livros nos braços e depositou-os sobre a mesa.
 
 - Dragões --, murmurou. - O Hagrid estava à de alguma coisa
-sobre dragões. Olhem só os títulos: *_espécies de dragões do
+sobre dragões. Olhem só os títulos: "espécies de dragões do
 Reino Unido e Irlanda, Do Ovo ao Inferno, um guia para os
-guardas de dragões*.
+guardas de dragões".
 
 - O Hagrid sempre sonhou ter um dragão. Disse-mo ele no
 primeiro dia em que nos conhecemos - confessou Harry.
@@ -9301,7 +9307,7 @@ primeiro dia em que nos conhecemos - confessou Harry.
 em 1709, todos sabem disso. Seria totalmente impossível
 passarmos despercebidos aos Muggles se tivéssemos dragões no
 jardim. Além disso não é possível domesticar dragões, é
-perigoso. Devias ver as queimaduras que o _charlie fez a lidar
+perigoso. Devias ver as queimaduras que o Charlie fez a lidar
 com alguns dragões selvagens na Roménia.
 
 - Mas não há dragões selvagens no Reino Unido não? - perguntou
@@ -9335,7 +9341,7 @@ a pedra filosofal além do Fluffy.
 
 Hagrid olhou-o de sobrancelhas cerradas.
 
--`_tá claro que não posso - disse. - Primeiro, nem eu sei.
+- Está claro que não posso - disse. - Primeiro, nem eu sei.
 Segundo, vocês já 'tão a saber de mais e por isso não vos
 dizia mesmo que soubesse. Aquela pedra 'tá aqui por um bom
 motivo. Quase foi roubada de Gringotts; calculo que saibam
@@ -9360,7 +9366,7 @@ esquecia-me de um, o professor Snape.
 
 - Snape?
 
-- Sim, 'inda não sabiam isto, vocês. '_tão a ver, o Snape
+- Sim, 'inda não sabiam isto, vocês. Estão a ver, o Snape
 ajudou a proteger a pedra. Não ia depois roubá-la...
 
 Harry tinha a certeza de que o Ron e a Hermione estavam a
@@ -9405,7 +9411,7 @@ perguntou Hermione.
 
 - Bem, tenh'andado a ler - disse Hagrid, retirando um grande
 livro debaixo da almofada. - Trouxe este da biblioteca -
-*_Criação de dragões para prazer e utilização* --, 'tá um
+"Criação de dragões para prazer e utilização" --, 'tá um
 pouc'ultrapassado mas diz aqui tudo. Manter o ovo ao lume
 porque as mães respiram sobre eles, e quando o bebé dragão
 nascer alimente-o com um balde de brande misturado com sangue
@@ -9523,8 +9529,8 @@ repleto de garrafas vazias de brande e penas de galinha.
 - Decidi chamar-lhe Norbert - disse Hagrid, olhando para o
 dragão com os olhos turvos pelas lágrimas.
 
-- Ele agora já me conhece mesmo, reparem só. *_Norbert!
-Norbert! Onde está a mamã*?
+- Ele agora já me conhece mesmo, reparem só. Norbert!
+Norbert! Onde está a mamã?
 
 - Ele passou-se - murmurou o Ron ao ouvido do Harry.
 
@@ -9534,7 +9540,7 @@ Dumbledore a qualquer mometo.
 
 Hagrid mordeu o lábio.
 
--- Eu sei que não posso ficar com ele p'ra sempre. _mas não
+-- Eu sei que não posso ficar com ele p'ra sempre. Mas não
 posso abandoná-lo, não posso.
 
 Harry voltou-se subitamente para Ron.
@@ -9543,7 +9549,7 @@ Harry voltou-se subitamente para Ron.
 
 - Mau, também te estás a passar? Eu sou o Ron.
 
-- Não é isso. O teu irmão _charlie que está na Roménia a
+- Não é isso. O teu irmão Charlie que está na Roménia a
 estudar dragões. Podíamos mandar-lhe o Norbert. O Charlie
 podia tomar conta dele-nos primeiros tempos e depois
 devolvê-lo à liberdade!
@@ -9578,23 +9584,23 @@ entrar. - Deve trazer notícias do, Charlie!
 
 Os três juntaram as cabeças e leram o bilhete:
 
-*_Querido Ron
+Querido Ron
 
-*_Como estás? Obrigado pela tua carta. Terei todo o gosto em
+Como estás? Obrigado pela tua carta. Terei todo o gosto em
 tomar conta do Dragão norueguês mas não vai ser fácil fazê-lo
 chegar, aqui. Julgo que o melhor a fazer será mandá-lo por uns
 amigos meus que vem visitar-me na próxima semana. O problema é
 que não podem ser vistos a transportar um dragão ilegal.
 
-*_Poderias levar o dragão até à torre mais alta, no sábado à
+Poderias levar o dragão até à torre mais alta, no sábado à
 meia-noite? Eles irão aí ter contigo e trazem o dragão
 enquanto está escuro.
 
-*_Responde-me tão breve quanto possível.
+Responde-me tão breve quanto possível.
 
-*_Um abraço do teu irmão.
+Um abraço do teu irmão.
 
-Charlie*
+Charlie
 
 
 Olharam uns para os outros.
@@ -9764,7 +9770,7 @@ corredor o rosto de Filch saiu do escuro.
 Tinham deixado o manto da invisibilidade no alto da torre.
 
 
-XV
+# XV
 
 A floresta proibida
 
@@ -9902,7 +9908,7 @@ Quidditch?
 Mas até o Quidditch tinha perdido o interesse para ele. Os
 colegas não lhe dirigiam a palavra durante os treinos
 e, quando eram obrigados a referir-se a ele, diziam o
-*seeker*.
+seeker.
 
 Hermione e Neville sofriam igualmente. Não tanto quanto o
 Harry porque não eram tão conhecidos como ele, mas também
@@ -9991,11 +9997,11 @@ luas.
 Na manhã seguinte foram entregues ao Harry, a Hermione e a
 Neville bilhetes com o mesmo texto.
 
-*_A sua punição terá lugar às onze horas da noite.
+A sua punição terá lugar às onze horas da noite.
 
-*_Procure o senhor Filch à entrada do vestíbulo.
+Procure o senhor Filch à entrada do vestíbulo.
 
-Professora Mc_Gonagall*
+Professora Mc_Gonagall
 
 Harry esquecera-se por completo, no meio da confusão dos
 pontos perdidos, de que tinham ainda a punição pela frente.
@@ -10064,7 +10070,7 @@ quase meia hora. Vocês `tão bem, Harry, Hermione?
 - Eu no teu lugar não seria tão simpático com eles --, disse
 friamente Filch. - Afinal, estão aqui para serem castigados.
 
-- _é por isso que 'tás tão atrasado, já percebi --, disse
+- É por isso que 'tás tão atrasado, já percebi --, disse
 Hagrid furioso com Filch. - Tens 'tado a pregar-lhes sermões.
 Esse não é o teu trabalho. Podes ir. Eu tomo conta deles a
 partir daqui.
@@ -10123,7 +10129,7 @@ noite passada.
 -- Eu quero o Fang - disse o Malfoy rapidamente, olhando para
 os longos dentes aguçados do cão de caça.
 
-- `_tá bem, mas aviso-te qu'ele é cobarde - disse o Hagrid. -
+- Está bem, mas aviso-te qu'ele é cobarde - disse o Hagrid. -
 Então eu, a Hermione e o Harry vamos p'ra um lado e o Draco
 Malfoy, o Neville e o Fang prò outro. Se algum encontrar o
 unicórnio envia faíscas verdes prò ar. Certo?
@@ -10156,7 +10162,7 @@ unicórnio ao longo do caminho tortuoso.
 
 - Estás bem, Hermione? - perguntou baixinho o Hagrid. -Não te
 preocupes, não deve ter ido muito longe, ferido como está e
-podemos :__esconder-nos atrás daquela __árvore!
+podemos esconder-nos atrás daquela árvore!
 
 Hagrid agarrou Harry e Hermione e fê-los sair do caminho,
 escondendo-se todos atrás de um carvalho muito alto. Puxou de
@@ -10183,7 +10189,7 @@ detrás tinha um corpo de cavalo castanho, reluzente, com uma
 longa cauda também avermelhada, que fez Hermione e Harry
 ficarem de boca aberta.
 
-- Ah! _és tu, Ronan --, disse o Hagrid aliviado. -- _como
+- Ah! És tu, Ronan --, disse o Hagrid aliviado. -- Como
 estás?
 
 Deu dois passos em frente e apertou a mão ao centauro.
@@ -10367,13 +10373,13 @@ levou alguns minutos a passar. Quando abriu de novo os olhos,
 o estranho ser tinha desaparecido. À sua frente estava um
 centauro que não era nem o Ronan nem o Bane. Este parecia mais
 jovem e tinha cabelos de um louro muito claro e um corpo de
-*_Palomino* (um cavalo dourado que apenas existe no Sul dos
+Palomino (um cavalo dourado que apenas existe no Sul dos
 Estados Unidos).
 
 - Estás bem? - perguntou o centauro, ajudando Harry a pôr-se
 de pé.
 
-- Sim, obrigado, o que era *aquilo*?
+- Sim, obrigado, o que era aquilo?
 
 O centauro não respondeu. Tinha uns olhos incrivelmente azuis
 que lembravam duas safiras. Olhou atentamente
@@ -10419,7 +10425,7 @@ modo que Harry teve de se agarrar aos ombros dele para não
 cair.
 
 - Vocês não viram o unicórnio? - bramiu Firenze.
--- _não compreendem porque é que foi morto? Ou os planetas não
+- Não compreendem porque é que foi morto? Ou os planetas não
 vos deixaram entender esse segredo? Eu
 revolto-me contra o que está emboscado nesta floresta,
 juntamente com os humanos se for preciso.
@@ -10554,10 +10560,10 @@ Quando Harry se meteu nos lençóis, deu com o manto da
 invisibilidade muito bem dobradinho lá dentro. Juntamente
 estava um bilhete:
 
-*_Para o caso de ser preciso*.
+Para o caso de ser preciso.
 
 
-XVI
+# XVI
 
 Pelo alçapão
 
@@ -10611,7 +10617,7 @@ partilhar a alegria dos outros.
 disse Hermione enquanto se juntavam à multidão que afluía aos
 campos banhados pelo sol. - Eu nem precisava de ter estudado o
 Código de Conduta dos Lobisomens de 1637 nem a insurreição de
-Elfric, *_o Impaciente*.
+Elfric, o Impaciente.
 
 Hermione gostava sempre de ficar a ver atentamente as provas
 depois dos exames acabados, mas o Ron alegou que aquilo o
@@ -10781,7 +10787,7 @@ muito requisitado neste momento.
 
 - Mas isto é muito importante.
 
-- _é mais importante o que tens para lhe dizer do que o
+- É mais importante o que tens para lhe dizer do que o
 Ministério da Magia, Potter?
 
 - Ouça, professora -- disse Harry, arriscando tudo por tudo, -
@@ -10812,7 +10818,7 @@ que vão lá para fora aproveitar o sol.
 
 Mas eles não foram.
 
-- _é esta noite - disse Harry quando teve a certeza de que a
+- É esta noite - disse Harry quando teve a certeza de que a
 professora Mc_Gonagall já não podia ouvi-los. - O Snape vai
 entrar pelo alçapão hoje à noite. Já descobriu tudo o que lhe
 fazia falta e agora conseguiu pôr o Dumbledore fora do
@@ -10841,7 +10847,7 @@ que estão a tramar alguma coisa. E os Gryffindor não estão em
 posição de perder mais pontos. Não acham?
 
 Harry corou. Voltaram-se para se dirigirem para a rua mas
-Snape. chamou-os.
+Snape chamou-os.
 
 - Estás avisado, Potter, mais passeiozinhos por aí de noite e
 eu trato pessoalmente da tua expulsão. Muito bom dia.
@@ -10960,7 +10966,7 @@ no que estavam prestes a fazer.
 Aos poucos a sala foi ficando vazia, à medida que as pessoas
 saíam para se irem deitar.
 
-- _é melhor ir buscar o manto - murmurou o Ron quando o Lee
+- É melhor ir buscar o manto - murmurou o Ron quando o Lee
 Jordan finalmente saiu a esticar-se e a fazer ruídos.
 Harry correu até à camarata escura. Tirou o manto e, em
 seguida, os olhos fixaram-se na flauta que o Hagrid lhe
@@ -11030,7 +11036,7 @@ Hermione avançou.
 - Neville - disse ela - lamento ter de fazer isto! Levantou a
 varinha.
 
-- *_Petrificus totalus*! - exclamou, apontando-a ao Neville.
+- Petrificus totalus! - exclamou, apontando-a ao Neville.
 
 Os braços do Neville ficaram como que colados ao longo do
 corpo, as pernas unidas uma à outra, o corpo hirto. Balançou e
@@ -11042,7 +11048,7 @@ moviam, olhando para eles horrorizado.
 
 - O que é que lhe fizeste? - murmurou o Harry.
 
-- É a *_Ligadura total do corpo* - disse Hermione
+- É a "Ligadura total do corpo" - disse Hermione
 infelicíssima. - Oh! Neville, desculpa.
 
 - Tinha de ser, Neville, não há tempo agora para explicações
@@ -11187,9 +11193,9 @@ algo macio. Sentou-se e olhou em volta, com os olhos ainda não
 habituados à escuridão. Sentia-se como se estivesse em cima de
 uma planta.
 
-- Tudo O._K. - gritou para o fio de luz do tamanho de um selo
-de correio que era a abertura do alçapão. - _é um aterrar
-suave, podem saltar!
+- Tudo OK - gritou para o fio de luz do tamanho de um selo
+de correio que era a abertura do alçapão. 
+- É um aterrar suave, podem saltar!
 
 Ron não esperou por mais e aterrou mesmo ao lado de Harry.
 
@@ -11219,7 +11225,7 @@ para os dois rapazes que lutavam para afastar a planta, mas
 quanto maior era a luta mais ela os apertava.
 
 - Fiquem quietos! - disse Hermione num tom de comando. - Eu
-sei o que isso é, é *_A armadilha do diabo*!
+sei o que isso é, é "A armadilha do diabo"!
 
 - Ah! que bom ficar a conhecer-lhe o nome. É uma ajuda
 preciosa - barafustou o Ron, encostando-se para trás numa
@@ -11240,8 +11246,9 @@ o professor Sprout disse? Gosta do escuro e da humidade.
 
 - Claro, claro, mas não há madeira - lamentou-se Hermione,
 torcendo as mãos.
-- __tu __estás __parva? - bradou o Ron. - :__és uma feiticeira
-ou __não?
+
+- Tu estás parva? - bradou o Ron. - És uma feiticeira
+ou não?
 
 - Está bem! - disse Hermione pegando na varinha e fazendo um
 gesto no ar. Murmurou algo indecifrável e enviou um jacto de
@@ -11255,7 +11262,7 @@ disse o Harry, enquanto se juntava a ela encostado à parede e
 limpava o suor do rosto.
 
 - Sim - disse o Ron. - E ainda bem que o Harry mantém a cabeça
-fria nos momentos críticos - *_Não há madeira*, francamente...
+fria nos momentos críticos - Não há madeira, francamente...
 
 - Por aqui - apontou Harry, mostrando-lhes uma passagem que
 descia e que era o único caminho.
@@ -11301,7 +11308,7 @@ porta incólume. Deu a volta à maçaneta mas estava fechada.
 
 Os outros dois seguiram-no. Puxaram e empurraram a porta mas
 ela não se moveu nem quando Hermione tentou o seu feitiço
-*_Alohomora*.
+"Alohomora".
 
 - E agora? - perguntou o Ron.
 
@@ -11331,7 +11338,7 @@ enfeitiçadas precipitavam-se como setas e desciam tão
 rapidamente que era praticamente impossível agarrar alguma.
 
 Mas também não era por acaso que Harry era o mais jovem
-*seeker* de há um século para cá em Hogwarts. Tinha um dom
+seeker de há um século para cá em Hogwarts. Tinha um dom
 para vislumbrar o que escapava aos outros. Após alguns minutos
 a serpentear por entre o turbilhão de penas multicores,
 reparou numa chave prateada e longa que tinha uma asa dobrada
@@ -11359,7 +11366,7 @@ Ron e da Hermione ecoaram em todo o salão.
 Aterraram rapidamente e Harry correu para a porta com a chave
 a lutar para lhe fugir da mão. Enfiou-a na fechadura e deu a
 volta. Era mesmo aquela. Tinham acertado. Mas mal a fechadura
-fez o *clic* e se abriu, a chave voou de novo, com um aspecto
+fez o clic e se abriu, a chave voou de novo, com um aspecto
 bastante mais amachucado, agora que fora agarrada duas vezes.
 
 
@@ -11498,7 +11505,7 @@ saíram pela porta em direcção à próxima passagem.
 - Ele fica bem --, disse o Harry, tentando convencer-se a si
 próprio. - O que virá a seguir?
 
-- Já tivemos a *Armadilha do diabo* que devia ser o feitiço
+- Já tivemos a "Armadilha do diabo" que devia ser o feitiço
 do Sprout - o Flitwick deve ter enfeitiçado as chaves - a
 Mc_Gonagall transfigurou as peças do xadrez para as fazer
 ganhar vida - só faltam os feitiços do Quirrell e do Snape...
@@ -11647,7 +11654,7 @@ Havia alguém que já se encontrava lá, mas não era o Snape.
 E também não era o Voldemort.
 
 
-XVII
+# XVII
 
 O homem com duas caras
 
@@ -11959,10 +11966,10 @@ Sentiu o braço do Quirrell afrouxar o aperto e soube que
 estava tudo perdido. Começou a cair... a cair... a cair na
 escuridão.
 
-Algo dourado brilhava acima dele. A *snitch*! Tentou agarrá-la
+Algo dourado brilhava acima dele. A snitch! Tentou agarrá-la
 mas o braço estava muito pesado.
 
-Piscou os olhos. Não era a *snitch*. Eram uns óculos. Que
+Piscou os olhos. Não era a snitch. Eram uns óculos. Que
 estranho.
 
 Piscou de novo os olhos e viu o rosto sorridente de Albus
@@ -12430,7 +12437,7 @@ Nunca antes daquele dia tinha ganho um único ponto para os
 Gryffindor. Harry, ainda a aplaudir, deu uma palmada nas
 costas do Ron e apontou para o Malfoy, que estava tão rígido e
 horrorizado que parecia que lhe tinham feito o feitiço da
-*Ligadura total do corpo*.
+"Ligadura total do corpo".
 
 - O que significa - continuou Dumbledore, sobrepondo a voz à
 maré de aplausos, pois até os Hufilepuff estavam felizes com a
@@ -12473,7 +12480,7 @@ era permitido usar magia nas férias («Estou sempre à espera
 que se esqueçam de nos entregar este papel», disse o Fred
 Weasley, desconsolado), Hagrid esperava-os para os conduzir ao
 pequeno cais dos barcos que atravessavam o lago para depois
-tomarem o *Hogwarts Express*, onde poderiam rir e conversar
+tomarem o Hogwarts Express, onde poderiam rir e conversar
 enquanto os campos se iam tornando mais verdejantes e bem
 tratados, comendo os feijões de todos os sabores da Bertie
 Bott, à medida que se aproximavam das cidades dos Muggles, e
