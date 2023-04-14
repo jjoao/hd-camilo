@@ -23,16 +23,18 @@ def carrega_sentilex():
                 exit()
 
 def sentimento(frase):
-#    lp = frase.split()
-    lp = re.findall(r"\w+", frase)
+    lp = re.findall(r"\w+", frase)    #  era...lp = frase.split()
     ptotal = 0
+    
     for p in lp:
         if p in POL:
             ptotal += POL[p] 
 
-    return ptotal
+    return (ptotal, len(lp)) 
 
 carrega_sentilex()
-#frase = "O assassino está feliz e contente, até radiante."
+
 txt = open("harry_potter_pedra_filosofal.txt").read()
-print( sentimento(txt))
+listacap = re.split(r"#", txt)
+for cap in listacap:
+    print( len(cap), sentimento(cap))
