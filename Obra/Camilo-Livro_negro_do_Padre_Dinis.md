@@ -1,88 +1,31 @@
-LIVRO NEGRO 
+---
+title: Livro Negro do Padre Dinis
+author: Camilo Castelo Branco
+orthography: XIX-OCR
+revision: Ricardo e JJoao
+---
+LIVRO NEGRO DE PADRE DINIZ 
 
-
-
-DE 
-
-
-
-IPUMIE ÍDilHIIS; 
-
-
-
-II 
-
-
-
-TYPOSRAPHIA DE FRANCISCO GOMES DA FONSECA 
-
-72, Rua do Bomjardim, 72 
-
-
-
-LIVRO NEGRO 
-
-
-
-DE 
-
-
-
-PADRE DINIZ 
-
-
-
-mm EM COIIXIJAC^O aos MYSTERÍOS de LISBOA 
-
-
+EM CONTINUAÇÂO aos MYSTÉRIOS de LISBOA 
 
 POR 
 
+CAMILLO CASTELLO-BRANCO 
 
-
-CAMILLO CASTELLO-BRMCO 
-
-
-
-SECUJiDA EDIÇÍO 
-
-
-
+segunda edição
 
 PORTO 
-
 EM CASA DE F. G. DA FONSECA — EDITOR 
-
 72, Rua do Bomjardim, 72 
 
 1863 
 
-
-
-
-
-
-Digitized by the Internet Archive 
-in 201^0-with funding from 
-1^ i tlniversity of Toi;çnto 
-
-
-
-
-
 http://www.archive.org/details/livronegrodepadrOOcast 
-
-
 
 ADVERTÊNCIA 
 
 
-
-O 
-
-
-
-LIVRO NEGRO não foi escripto para ser 
+O LIVRO NEGRO não foi escripto para ser 
 publicado em forma alguma, e muito menos em 
 forma de romance. 
 
@@ -105,8 +48,6 @@ pelo soíTrimenlo.
 
 
 
-Vi ADVERTÊNCIA 
-
 Grande coragem foi a d'esse homem que 
 tantos quadros, coloridos a sanguo e lagrimas, 
 deixou de si, como herança aos que desespe- 
@@ -127,8 +68,7 @@ uma estudada philosophia!
 
 Era «homem» padre Diniz? 
 
-Os homens nascem, soíTrem, e morrem as- 
-sim ? 
+Os homens nascem, sofrem, e morrem assim ? 
 
 Aquelle corpo que se apalpava; aquellas 
 faces que se abriam em sulcos ao queimar das 
@@ -144,10 +84,6 @@ aquelle homem por ventura era o homem que
 cae, que se aniquila, que reparte uma fibra 
 por cada verme? 
 
-
-
-ADVERTÊNCIA Til 
-
 Esta interrogação, feita ao silencio — este 
 apello, anoioso a Iodas as religiões e a todas 
 as pliilosopliias — é um espinlio que vne muito 
@@ -157,7 +93,7 @@ se vê passar o anjo bemdilo, e o Lúcifer amal-
 diçoado — o réprobo dos grandes crimes, e o 
 marlyr das sobre-humanas virtudes! 
 
-JNão o viram ? 
+Não o viram ? 
 
 Poderam aíferil-o no padrão vulgar d'esta 
 milícia de sórdidas batalhas de paixões ignóbeis, 
@@ -187,10 +123,6 @@ O seu livro, por tanto, seria inintelligivel.
 Que diz isto? — perguntariam muitos. 
 
 O que diz isto ! 
-
-
-
-Vm ADVKRTENCfA 
 
 E' um homem despedaçado. Reiíni-mo to- 
 das essas lagrimas; com todas estas fibras fazei- 
@@ -233,10 +165,6 @@ e Sousa.
 
 E onde está elle? 
 
-
-
-AD.VERTF.\C1A U 
-
 Quem abriu os sele sellos do apocalipse? 
 
 Quem falia com os mortos para arraucar- 
@@ -278,13 +206,6 @@ Se me dessem tal (|ual é, tal qual o en-
 contrei oLlVRONEGlU) DE PADKE DINIZ, lan- 
 çal-o-ia de mim com o desalento do avaro, que 
 abrisse um livro em (pie lhe são indicados mil 
-
-
-
-ADVERTÊNCIA 
-
-
-
 thesouros escondidos, mas numa linguagem que 
 olle não comprohende, nem quer que os inte- 
 ligentes llie traduzam com medo quo o atrai- 
@@ -304,20 +225,7 @@ Lede como quem se recreia. Para isso
 compraes este livro. 
 
 
-
--=;^ífe^ 
-
-
-
-LIVRO NEGRO 
-
-
-
-VB 
-
-
-
-PADRE DI\!Z 
+LIVRO NEGRO VB PADRE DI\!Z 
 
 
 
@@ -337,11 +245,6 @@ A criancinha era o filho da condessa do Viso. e
 de D. Álvaro de Albuquerque. 
 
 A mulher, que tremia com ella nos braços, na 
-
-
-
-12 1,1 vno NF.r.p.o 
-
 presença do pavoroso quadro d"iima agonia, era a ve- 
 nesianá, que acompanhara Albuquerque a Uoma. 
 
@@ -466,11 +369,6 @@ zados cm oiro, com algumas jóias.
 
 
 
-14 
-
-
-
-LIVHO NEURO 
 
 
 
@@ -596,7 +494,6 @@ paralisara de improviso.
 
 
 
-IH LIVRO NF.r.RO 
 
 Não podia com ello : doirou o resvalar... 
 
@@ -651,7 +548,6 @@ Em Paris, o seu zelo com Scbasliãozinho era ex-
 
 
 
-Dl-: PADRE DIMZ 17 
 
 Iromoso. A romana amava-o como íilho, e o marquez 
 não o amaria mais se fosse pae. 
@@ -709,7 +605,6 @@ tos orgulhos, zombando de muitos ciúmes, c chaman-
 
 
 
-i8 LIVKO iSKGKO 
 
 do sobre seu marido rauilas cóleras que desprezavam 
 ambos. 
@@ -831,7 +726,6 @@ com a placidez d*uma nobre dignidade. ,
 
 
 
-20 LIVHO NRG «o 
 
 Não o cliamei para íazcr-lhe accusações. Não se im- 
 paciento, senhor marquez. 
@@ -957,7 +851,6 @@ rer comsigo... Vamos ver os anjinhos...
 
 
 
-22 LIVRO xEc;ao 
 
 Laura, banhada om lagrimas, apertou ao peito Se- 
 bastião. U marqnez dcu-Hic um beijo, e, retirando os 
@@ -1021,7 +914,6 @@ da, e viu ao pé de si, ajoelhando c chorando, a crian-
 
 
 
-DE PADRE DIMZ 23 
 
 O marqiicz, para não gastar-se n'uma dôr indiana 
 dos seus altos destinos, retirava-se, Icmbrando-se does- 
@@ -1219,7 +1111,6 @@ Sebastião entrara na vida consolando infortúnios.
 
 
 
-20 LIVRO NKliRO 
 
 como padre Diniz entrcira no tumulo, enchugando pran- 
 tos. O fim díi vida fòra-lhe prophelisada no berço. 
@@ -1280,7 +1171,6 @@ elle?
 
 
 
-DE PADRE niNIZ 27 
 
 Se se chamasse Leopoldo... E' nome de meu ma- 
 rido e tão lindo 1... Porque não hade osle menino 
@@ -1344,7 +1234,6 @@ me sua amiga...
 
 
 
-28 LIVRO NF.GRO 
 
 «Não lenho a ridicula vaidade de acccilar uma auii- 
 sado, que devia envergonhal-a, rainha senhora... 
@@ -1409,7 +1298,6 @@ longo salão. Uma desceu a longa escadaria, encostan-
 
 
 
-niC PADRE DINIZ 29 
 
 dose ás balaiislradas, porque o ptnnio lhe onlurvava os 
 ollins. A outra enlrou no seu quarlo, vibiou com força 
@@ -1475,9 +1363,6 @@ das... Se é uma nova dòr para esquecer as dores anti-
 gas, Deus me dê coragem para recebèl-a... 
 
 
-
-30 LlVnO NEGRO 
-
 E entrou na sala. 
 
 «Queira dizer-nie o fim com que me procura. 
@@ -1541,7 +1426,6 @@ inlerroga em minha casa.
 
 
 
-DK PADRE niMZ 31 
 
 «Não Irndes. Esse homem ? 
 
@@ -1615,7 +1499,6 @@ me fascina?
 
 
 
-3'-2 i.ivuo .NKGRO 
 
 O incógnito lançou uma caria no regaço de Laura. 
 Fez um signal cotn os olhos ao companheiro e sairani 
@@ -1736,7 +1619,6 @@ o
 
 
 
-34 LlVlíO NEGRO 
 
 lidadcs. Quando seu marido voltar, diga Uie^ da parte 
 de um desconhocido, que ensine a este menino os 
@@ -1865,7 +1747,6 @@ cia, filha !...
 
 
 
-36 MV no SFJ,l\0 
 
 E Ião amargurada para nós ambos !... 
 
@@ -1987,7 +1868,6 @@ les.
 
 
 
-38 LIVRO .\í:gp.o 
 
 de quinze dias — acrescenloii o bispo, qnc se achava 
 presente — cumpre que sejam feilos suííragios por sua 
@@ -2109,7 +1989,6 @@ ria em Koma
 
 
 
-40 LIVRO NKCKO 
 
 O leilor devia sabor ludo islo. De corlo nHo sup- 
 pnnha que a desprezada amanle do nosso patrício era 
@@ -2222,7 +2101,6 @@ punhalada no olco, disse comsigo :
 
 
 
-42 LIVRO NEGIIO 
 
 «Bemaventiirados os que são apunhalados em effi- 
 
@@ -2340,7 +2218,6 @@ arrancado á lilha do cardeal.
 
 
 
-44 LIVRO XRGRO 
 
 Porgnntou ella. caminhando para seu marido, que 
 perínanecia eslupefaclo. 
@@ -2681,7 +2558,6 @@ te romance. 4
 
 
 
-iiO LIVUO NEGRO 
 
 Vós prescindis, naturalmente, de tudo quo são ac- 
 cessorios, c eu também prescindo de fazer-vos meu au- 
@@ -2786,7 +2662,6 @@ Nos principies de Outubro de 1780, o marquez de
 
 
 
-ti'2 MVnO .NEGRO 
 
 Luso retirou para uma quinta de sua mulher, eiu (^aon, 
 no departamento do Orne. 
@@ -2893,7 +2768,6 @@ onde o braço do assassino podcssc jogar um punhaL
 
 
 
-54 LIVRO NEGRO 
 
 O marquez de Luso abraçava sua mulher, quando 
 o braço musculoso de um encapotado o arrancou com 
@@ -3009,7 +2883,6 @@ lio ma na I
 
 
 
-S6 LIVRO NRGRO 
 
 «Mas que tem esse padre... 
 
@@ -3111,7 +2984,6 @@ quoz não lh'o ouviram nunca. Sabiam tudo, porque o
 
 
 
-58 MV 11 o VEGRO 
 
 delírio da febricitante lho atraiçoara o corarão; mas 
 nao ousavam, porque Itie temiam o orgullio varonil 
@@ -3165,7 +3037,6 @@ do seio e crava lh'o no coração.
 
 
 
-DE PADRE niiVlZ 50 
 
 «Morro!» foi a «nica palavra de Maral. 
 
@@ -3233,7 +3104,6 @@ vez de ser ao largo.
 
 
 
-60 uvnu NF.GP.o 
 
 «Ferio como lá se viu: foi um acaso. 
 
@@ -3347,7 +3217,6 @@ cezc
 
 
 
-62 Livno Nrx.no 
 
 velho a quom chamava pae, era a sua primeira e mais 
 dislincta aíTeicão. 
@@ -3563,13 +3432,6 @@ ambicionava a espada do homem ; scismava em bata-
 lhas, em triumphos, em grandes sacriíicios de sangue 
 á memoria de Luiz xvi, que morrera assassinado en- 
 tre as mãos covardes de uma populaça, que elle odia- 
-
-5 
-
-
-
-6G LiviiL) .\eg:;o 
-
 va com rancoroso nojo. Padre Diniz, aos sessenta an- 
 nos, dizia que a sen lado tinham caído Iodas as pes- 
 soas qnc quizera approximar do sen coração. Benoil de 
@@ -3669,7 +3531,6 @@ Acordado d'aquelle delirio de um anno. achouse
 
 
 
-68 i.ívr.n Nr.r.no 
 
 só, c refugiou se cm Inglaterra, onde rnconlrou hon- 
 rosas informações da sua bravura, dadas por Laroche- 
@@ -3778,7 +3639,6 @@ da por um nobre emigrado em Londres, convertido á
 
 
 
-70 i.ivRo vKf.no 
 
 ospionnfTfm pela promessa de enlrar cm França, e re- 
 havcr os bens confiscados pela republica. . 
@@ -3893,7 +3753,6 @@ A austrirca, como elle a suppunha, voltou depressa.
 
 
 
-72 MVRO NKGRO 
 
 «Não sou inglcz, minha senhora. Vivo em Ingla- 
 terra. 
@@ -4126,7 +3985,6 @@ sois ?
 
 
 
-7G LIVRO NKGRO 
 
 «Sois nobre, por consequência. Como quereis ser- 
 vir o Directório^ que representa Danton, Marat, e Ho- 
@@ -4243,7 +4101,6 @@ de artilheria. Acceilaes?... Aproveito o vosso silencio...
 
 
 
-78 ■% LIVPO NlidRO 
 
 Nnpnicão saiMidin iinia canipainha. 
 
@@ -4369,7 +4226,6 @@ Jam-uo.
 
 
 
-80 LIVRO .NEGRO 
 
 «Enlrava um ajudaiile de campo. 
 
@@ -4478,7 +4334,6 @@ G
 
 
 
-82 LlVIiO NKGnO 
 
 Mont-forl leve orgulho de desembainhar a espnda 
 ao pé de iim hometn, que sorria a cada zumbido de 
@@ -4578,7 +4433,6 @@ lon, por ser Cliton o velho solar de seus avós.
 
 
 
-8'i MVRO NEGRO 
 
 
 
@@ -4678,7 +4532,6 @@ Em uma : Mucio Scevola. Em outra: Moute a 1^ousf.n.\.\ !
 
 
 
-80 I.IVUU .NEGIIO 
 
 O qufi pôde aqui descobrir já foi muito para a sua 
 imaginação atormeniada: conheceu que a legenda era 
@@ -4802,7 +4655,6 @@ n'este nuindo. O fumo da pólvora não me deixava ver
 
 
 
-88 LIVRO i\H:r.ao 
 
 a sociedade! Agora, cedanl arma, e triumpliem, não di- 
 rei as togas, mas os vestidos sim. 
@@ -4856,7 +4708,6 @@ Billaud-Varennes?
 
 
 
-DE PADRE DIMIZ 89 
 
 
 
@@ -5038,7 +4889,6 @@ Foi um crime lirarem-m"o, porque me levaram
 
 
 
-9-2 LIVRO NRGr.O 
 
 com ellc o amor que eu linha á morlp, porque a morle 
 era a minha felicidade, e desde esse dia arrasto a vida, 
@@ -5194,7 +5044,6 @@ mento ha duas pessoas que podem sabél-o, ou não ha
 
 
 
-DE PADRE DIMZ 
 
 
 
@@ -5254,11 +5103,6 @@ bastar o espirito jiara elles. A dòr lornase ]diysicij. O
 gume do ferro toca o coração. O sangue regorgila dos 
 ■pulmões, e as paredes do peito arfam agitadas por 
 
-
-
-I 
-
-98 LIVRO .\EL;ao 
 
 uma respiração difíicil. Para estes embales não ha or- 
 ganisações inabaláveis. A coragem moral é impolenle. 
@@ -5370,7 +5214,6 @@ se vos fallei á cabeça, se ao coratão.
 
 
 
-98 LIVIIO NEGRO 
 
 Sede honrado e justo... Adeus. 
 
@@ -5613,7 +5456,6 @@ cândalo?» — perguntou Laura, serenamente.
 
 
 
-102 LIVRO NEGRO 
 
 «Nada. Entrego a Deus a minha causa. 
 
@@ -5737,7 +5579,6 @@ ra de procurar-vos, e vós a bondade de attender-me.
 
 
 
-104 LIVUO NKCnO 
 
 o general saiu, e apeou á poria do Holel do im- 
 perador. 
@@ -5796,11 +5637,6 @@ doc.
 
 Vinte e quatro horas depois da sua chegada, a du- 
 queza saíra, acompanhada de duas criadas, e não vol- 
-
-
-
-nr. PADRE DINIZ 105 
-
 lára. Colhidas informações, seguiu-lhe os passos até 
 Tolosa. Entrou no hotel d^onde sua mulher saíra mo- 
 mentos antes para o palácio do arcebispo. Ahi disse- 
@@ -5848,7 +5684,6 @@ ia vida um problema para elle, passados mczes era lhe
 
 
 
-100 LIVRO NEGRO 
 
 apenas urna lembrança indifferente, a pagina de um 
 romance que elle prometlia escrever um dia. 
@@ -5948,7 +5783,6 @@ A adoração supersticiosa que a rodeava, não era
 
 
 
-i08 LIVRO NRGRO 
 
 obsequio adulador. IndiíTerente aos incensos, dislrahida 
 no seu melancólico scismar, quando as lisonjas se emu- 
@@ -6068,7 +5902,6 @@ jos eram sempre o proemio do casamento.
 
 
 
-1 10 IJVP.O .XECRO 
 
 Eu, chorando, queria dizer que é uma Ciuel violên- 
 cia cazar-me, 
@@ -6132,7 +5965,6 @@ ton te visite?
 
 
 
-DE PADRE DINIZ 1 11 
 
 
 
@@ -6180,7 +6012,6 @@ TERRA.
 
 
 
-n2 LIVRO .VEGRO 
 
 Ricardo de Clermonf. prociirando-o horas depois do 
 violenta preceito imposlo á filiia, encontroii-o absorvi- 
@@ -6415,7 +6246,6 @@ os castiçaes, e, ao primeiro clarão, o duque de Clitoa
 
 
 
-116 JJViiO MÍORO 
 
 viu idleclir-sp o brilho da Iiiz nas lagrimas fie Bran- 
 ca. A sua voz, comliido, linha sido firme e sonora. 
@@ -6534,7 +6364,6 @@ rei lambem... o esquecimento ou a morte...
 
 
 
-i!8 LIVKO .NEGUO 
 
 «Vamos Á sala. rainha filha... não le afastes do 
 fiuqiic... Há-me um beijo... Tens o coração de tua 
@@ -6643,7 +6472,6 @@ das damas consternadas. O duque de Clilon, perplexo
 
 
 
-120 LIVRO NEGRO 
 
 e alorrarln, não sabe o que diga ás perguntas que o 
 iinijorlunam. 
@@ -6753,7 +6581,6 @@ lido.
 
 
 
-122 N LIVRO VEGRO 
 
 O facto existia, e era necessário explical-o, ou dar 
 ura tiro no ouvido, em ultimo desalento. Uns disseram 
@@ -6871,7 +6698,6 @@ Olha, duque: não precindes d'este cazamenlo?
 
 
 
-124 i.ivno Mauio 
 
 «Não ha lai violência. 
 
@@ -6993,7 +6819,6 @@ quando este o suipronduu, ali velando as esporas.
 
 
 
-126 Mvno NF.nr.o 
 
 «Tois já? !»— exclamou o dnqiie, contrafazondo os 
 tormentos, que lhe não deixaram um instante de re- 
@@ -7114,7 +6939,6 @@ grandes sorvos, quando através das murtas viu o per-
 
 
 
-128 1.1 V no NKono 
 
 l)assar de um viillo. Pareceram lhe brancos os vestidois 
 (' aíigiirouse lhe mulher a visão que colleava llovivei, 
@@ -7235,7 +7059,6 @@ haske nuircha... U
 
 
 
-130 IJVllO MÍGHO 
 
 «Comprehendivos, Branca. .. 
 
@@ -7348,7 +7171,6 @@ despidas de senlin)enlo... Até logo, duque.
 
 
 
-132- Livno NEr.HO 
 
 Cheio de uma felicidade, que a consciência, raras 
 vezes ouvida, chamava falsa, o filho do frade do Santa- 
@@ -7468,7 +7290,6 @@ me um aviso importante. Proliibo-vos de dizer a alguenj
 
 
 
-134 i.ivno iVKGno 
 
 "N(Mn Aquella que vao sor vossa... Nora proiuinitlar 
 esse notne ! 
@@ -7578,7 +7399,6 @@ lagrimas a oppiessão de longas horas.
 
 
 
-inO LIVRO .\K(:ro 
 
 O fillid do Silvina depara cnsnalmenlo uma carl.i, 
 carimbada em Tolosa. Abro-a, tremendo, porque receia 
@@ -7633,7 +7453,6 @@ no uuí lormenlo dos que tocam o extremo do gozo.
 
 
 
-DE PADRE DINTZ 1.17 
 
 «"tJma paixão iniineiisa pelo anjo, que satisfaz todas 
 as ambições de um liomem... sinto a, devorome com 
@@ -7792,7 +7611,6 @@ senão lodos, o sentimento que o entristeci a.
 
 
 
-140 LIVRO NEGRO 
 
 «Que te disse a duqueza? — perguntou Napoleão á 
 imperatriz. 
@@ -7955,17 +7773,6 @@ parelho de chá, e retira-se.
 Logo depois, entra o duque de Gliton. Senla-se á 
 meza, em que foi pousado o taboleiío. Prepara uma 
 chávena de chá, que oííerece a sua mulher. Branca, 
-
-
-
-I>K l'\OHK niMZ 
-
-
-
-143 
-
-
-
 sorrindo com doce agrado, recebe a chávena, e, por 
 11 m geslo, recusa tomar um doce da bandeja. 
 
@@ -8027,7 +7834,6 @@ li,..
 
 
 
-l'i'i LIVRO MT.nO 
 
 «Sê feliz com o coração que lens... Queixei- me eu, 
 Branca? 
@@ -8087,7 +7893,6 @@ duque!... Que serei eu aos olhos da tua alma?...
 
 
 
-DR PADRE DINIZ 145 
 
 «Um anjo... 
 
@@ -8147,10 +7952,6 @@ raandala sem mancha á presença de Deus...
 «No cerco de Alexandria. 
 
 10 
-
-
-
-146 LlVIií) Nr.GHO 
 
 •xDevo conhecer esse homem, porque eu assisti ao 
 cerco. 
@@ -8276,7 +8077,6 @@ peza sobre mim a accusação da sua morte... Desde es-
 
 
 
-1Í<S LIVr.O M.GUO 
 
 te instante, o meu mundo é outro, duque... Arrancas- 
 te me do coração o espinho... Pôde ser que ella se er- 
@@ -8383,7 +8183,6 @@ sem magoai a.
 
 
 
-150 LIVRO NF.iiRO 
 
 iSe ella rae dissesse então que sentia abrazar-se de 
 amor por mim. não lhe ouviria som desprezo esse favor. 
@@ -8492,7 +8291,6 @@ pilas dos meus olhos recuavam nos nervos ópticos, su-
 
 
 
-152 LIVRO NEGRO 
 
 biam ou desciam onde quer que o espirito existe, e 
 viam lá o rápido branquear dos cabellos da alma. Isto 
@@ -8607,7 +8405,6 @@ za, meu caro visconde.
 
 
 
-154 MVRO M;r.R() 
 
 fAinda assim porca é necessário correi as; mas tu, 
 eiii Angouléme, costumas tél-as em jaulas, onde entras 
@@ -8729,7 +8526,6 @@ porque embalava a tilha nos braços, adormeceu o mais
 
 
 
-156 1.1 V no NEGRO 
 
 vulgarmente que se pôde n\ima cadeira «voltaíreana», 
 visto que a casa do duque era, com excepção de pou- 
@@ -8851,7 +8647,6 @@ sível?
 
 
 
-158 1,1 \ MO NKGRO 
 
 «Impossível, não... que o sinlo !... 
 
@@ -8963,7 +8758,6 @@ de lucto, aos olhos de um quasi desterrado no seio de
 
 
 
-160 LIVRO NF.r.RO 
 
 sua palria- Não soi como encontrarei a Picardia, mas, 
 quando a abandonei, era Irisle. Mais triste é ainda, por- 
@@ -9086,7 +8880,6 @@ passageiros do seu costume. 11
 
 
 
-1G2 LlVno NEGUO 
 
 «Não é.,. Tem os olhos enjectados de sangue, e a 
 cabeça é uma braza viva... Desculpae-me, cavalheiros... 
@@ -9150,7 +8943,6 @@ nal-as... pensão de quem guarda em si o doloroso as-
 
 
 
-DC PADRE DIMZ 163 
 
 sumplo de muilas... Fiz-vos esta pergunta, que retiro 
 se não é discreta, porque me interesso na sorte des- 
@@ -9446,7 +9238,6 @@ senhora duqueza, que o hospede, sem vos conhecer,
 
 
 
-168 1.1 VRO NEGRO 
 
 representa cnlre ikjs um extraordinário amigo da vos- 
 sa felicidade. O que elle pensa a vosso respeito, denun- 
@@ -9558,7 +9349,6 @@ pondi-lhe com Haller, Blumembach, Brown, Holfmann,
 
 
 
-170 LIVRO XF.GRO 
 
 clc, ele, e elle, depois que me ouviu com desdenho- 
 so sorriso, replicou que o medico mais prestante á 
@@ -9615,7 +9405,6 @@ depressa. Não ha relação nenhuma entre a sensibilida-
 
 
 
-DR PADRE nJNIZ 171 
 
 de moral e as raizes capilares. Os tegiimenlos da ca' 
 beça ou pericraneo, não communicarn através da abo- 
@@ -9669,7 +9458,6 @@ cálix da ingratidão, oíferecido por sua mulher ! E" bem
 
 
 
-i72 LlVnO NEGRO 
 
 diverso o prisma porque ella hoje o véf O amor, con- 
 trariado pelo marasmo da boa alma de seu marido, 
@@ -9779,7 +9567,6 @@ v<rs'ao esperáveis encontrar, cavalheiro, este aspecto
 
 
 
-174 LIVUO .\EGRO 
 
 funeral no quarto de uma pessoa viva... — disse o du- 
 que. 
@@ -9834,7 +9621,6 @@ o iiiuslre doutor me receite qualquer pomada de in-
 
 
 
-UE PADRE DI.MZ 175 
 
 vençao sua, que deve exceder os cálculos chimicos do 
 perfumador Birotteau, que foi na minha infância o 
@@ -9886,7 +9672,6 @@ ainda se me tornasse íuslidioso... senhora duqueza, re-
 
 
 
-176 fJVHtJ ,SEGRO 
 
 liro !iie, porque a visita do hospede não deve ser mais 
 exlonsa que a do medico... 
@@ -9950,7 +9735,6 @@ talvez uma gargalhada, quando pedia compaixão, e ho-
 
 
 
-DE PADRE DINIZ 177 
 
 je, por decoro a si próprio, dáse em espectáculo de 
 riso... A desgraça lern os seus liistriões. Ainda assim, 
@@ -10003,9 +9787,8 @@ Branca reparou na agitação do duque.
 
 
 
-178 Livno Micno 
 
-tVi-te tão commovido, quando lias... 
+Vi-te tão commovido, quando lias... 
 
 «São as participações do quartel general de Itália... 
 Não posso ler, sem com moção, coisas de guerra... 
@@ -10115,7 +9898,6 @@ go de D. Pedro da Silva devia ser isto em rapaz.
 
 
 
-180 LIVRO i\KGRO 
 
 
 
@@ -10214,7 +9996,6 @@ que o vira sem bigode, com a cabeça nua de cabellos^
 
 
 
-182 LIVRO NEGRO 
 
 tonsura absurda e fradesca n'nma epocha era que as 
 cabelleiras de cachos saudavam a epocha do grande rei 
@@ -10333,7 +10114,6 @@ ferro que a traz de rastos ; quero, emfim, salvar-me de
 
 
 
-184 LIVRO NEGRO 
 
 unia imputação infame, que mo será o premio dos snr- 
 viços que vos fiz, se o desfecho doeste enredo extraor- 
@@ -10444,7 +10224,6 @@ vira e apeou. Sereno e respeitoso como quem, pela se-
 
 
 
-186 I.IVp.O NEGRO 
 
 gnnda vez, encnnlra uma pessoa, como a diiqiieza de 
 Cliton, caminlioii para pila. 
@@ -10551,7 +10330,6 @@ sympathia immaculada'?...
 
 
 
-188 LIVRO nfx.ro 
 
 iPoderei... hoide poder... não vos retireis, sem- 
 que eu fique na certeza... de que sereis feliz... viven- 
@@ -10665,7 +10443,6 @@ causa de inquietações, dignas de melhor assumpto.
 
 
 
-190 ' LIVUO MiGRO 
 
 me tenrles feito, se me disserdes que affecção moral 
 vos embranqueceu o e.v-bigode, porque trago entre mãos 
@@ -10764,7 +10541,6 @@ las, impunha uma respeitosa allenção á própria incre
 
 
 
-i9i f.IVRO NEGRO 
 
 diilidade, ao resfriado coração do medico, que se conhe- 
 ce respeitável a palhologia do corpo, ao cyiiico de risos 
@@ -10873,7 +10649,6 @@ vehcmencía.
 
 
 
-lí)4 LlVnO NF.GIIO 
 
 Será lima fraqueza... mas que quereis? Eu sou Branca de 
 Ciermont, e vós sois Ernesto Lacroze... Não sei que mais 
@@ -10973,7 +10748,6 @@ digucspor uma simples íormalidudc ?
 
 
 
-196 Liviio .\r^Gi'.o 
 
 Lacroze luclava com a honra pnra rosponder. O sou 
 silencio era um goípe, uma quasi alTronla ao desafogo do 
@@ -11085,7 +10859,6 @@ para renunciar os seus direitos ao coração d'uraa senhora
 
 
 
-198 LIVRO NEGRO 
 
 casada, que lhe promclteranão o ser... Por ventura, fize- 
 ra-lbe ella tal promessa'? 
@@ -11193,7 +10966,6 @@ converteuse n'uma espécie de idolatria, de cegueira, de
 
 
 
-200 LIVRO NHCRO 
 
 fanatismo! Paliava d'elle com férvido eníhusiasmo a 
 B.-anca, e deleitava se escrevendolhe nos dias em que o 
@@ -11246,7 +11018,6 @@ importunos na sociedade com mulheres hancas e alegres,
 
 
 
-DE PADRE DIMZ 201 
 
 davam a d'Aiivergnc a impoiiancia que não linha o vis- 
 conde que dizia liido que sabia de si, e timbrava de ser 
@@ -11297,7 +11068,6 @@ Perguntou a si própria que seulimento era aquelle : c a
 
 
 
-202 TIVnO NEGRO 
 
 consciência, austera sybilla que nunca mente, rcspon- 
 dculhe que era o ciiime, 
@@ -11357,7 +11127,6 @@ não sei que ílòr : arde assim que se lhe toca.
 
 
 
-DE PADRE DÍNIZ 203 
 
 «Evos... sempre o Achyles das mulheres? 
 
@@ -11426,7 +11195,6 @@ cimento ? I
 
 
 
-204 LlVnO NEGRO 
 
 «Deu ; mas aqnelle homem não é o (jne represjenln, 
 Hfi milito amor n'aquelle coração. Has-de fallar-me com 
@@ -11540,7 +11308,6 @@ xava sahir. Na presença do duque, recebeu uma curta
 
 
 
-200 Liviio NEono 
 
 anhilada da viscondessa, pergnntando-lhe se um grave 
 incoramodo a privara da honrosa concorrência do cava- 
@@ -11652,7 +11419,6 @@ Lacroze tinha interiormente respondido com mais
 
 
 
-208 LIVRO MíGRO 
 
 precisão á pergunta do duque. SoíTreu um golpe. Adevi- 
 nhara tudo. 
@@ -11773,13 +11539,6 @@ mitlida. As vossas companheiras lião-de ceder-vos a su-
 prciuacia na immoralidade.» 
 
 A viscondessa não corou lendo a resposta; mas cUo- 
-
-14 
-
-
-
-210 LIVRO NEGRO 
-
 rotí. As lagrimas do rancor devem ser amargas como as 
 do ímpio que morre blasfemando 1 Eram assim as da vis- 
 condessa. 
@@ -11831,7 +11590,6 @@ se levantava para faliar-lhe.
 
 
 
-DE PADRE DINIZ 211 
 
 A infeliz estava reduzida ao que era, quando Lacroze 
 a viu, pola primeira vez, em Clilon. As horas da noule 
@@ -11890,7 +11648,6 @@ grimas.
 
 
 
-212 LIVUO NEGRO 
 
 «llrancah. a nossa felicidafle saneia, som manrlia, 
 sem remorso... foi uma mentira... E' inevilavol o desti- 
@@ -11997,7 +11754,6 @@ jos. Não saberia cllc dizer se vivia.
 
 
 
-ál4 LIVRO NEGUO" 
 
 O duque de Clilon cnlrava na alameda, e pergun- 
 tava aos creados se d'Auvergno ja linha cheiíado Ues- 
@@ -12121,7 +11877,6 @@ cido no seu abysino. O boato dos amores adúlteros da
 
 
 
-216 'uvno Kvzc.no 
 
 íliiqnozíi corria já : os ciiimcs da viscondr^ísa eram noío- 
 rios; o a aii7.(!ncia d^csla dos salões de Clilon cuníirmoii 
@@ -12175,7 +11930,6 @@ Vaus m'culeudez bien...
 
 
 
-DE PADRE DIDIZ 217 
 
 Kra lima parodia do epygramma de Hlol á corlc de 
 Luiz XIV. 
@@ -12226,7 +11980,6 @@ as lauiimas. Lá muilo no reservado do coração escoii-
 
 
 
-2i8 LIVRO NEf.RO 
 
 dia-se a vergonha. Se a face a não confessava, Deus snbe 
 que tormentosa astúcia o brioso uioço. com lodo o ardor 
@@ -12277,7 +12030,6 @@ devorando paginas d'um livro de capa de ouro, que mui-
 
 
 
-DE PADRE DIMZ 2I9 
 
 tos mancebos imaginaram ser o primeiro volume do 
 compadre Mnlhciis. 
@@ -12336,7 +12088,6 @@ Empregou pequenos esforços por chamai o a sua
 
 
 
-220 LIVRO NKGnO 
 
 casa, e conseguiu convencel-o de que se Imolava de sal- 
 var a honra do seu amo, desengauan lo o a respeito do 
@@ -12448,7 +12199,6 @@ SHl csl siKje, il fera coinme eiix.
 
 
 
-222 LIVRO i\EGRO 
 
 Oiii, c'esl chose certaine. 
 
@@ -12510,7 +12260,6 @@ nicnltí Lacroze.
 
 
 
-DE PADRE DINIZ 223 
 
 «Um pouco a<;ila(Jo .. Cousas do organismo... São es- 
 tas nuvens carregadas de electricidade... Islo passa com 
@@ -12566,7 +12315,6 @@ não fosse lào trabalhoso como o primeiro.
 
 
 
-224 LIVRO .NKGRO 
 
 Cessaram as informações. O duque, de proposiío, 
 preparava eusejos de se eutioiitrarem sós sua mulher com 
@@ -12673,7 +12421,6 @@ lo
 
 
 
-22G LIVRO i\H,GRO 
 
 «O escudeiro das denuncias iníerronipou o dialogo. 
 Anniinciava dons cavalheiros que desejavam cumpri- 
@@ -12791,7 +12538,6 @@ nhando um fantástico punhal.
 
 
 
-228 LIVRO NEGIIO 
 
 
 
@@ -12843,7 +12589,6 @@ momento do quarto da duqueza.
 
 
 
-DK PADRE DINIZ 33^ 
 
 «D'Anvergne entrou vencendo a resistência qne lhe 
 fizeram. Ajoelhou ao pé do leilo da du(juo/.a. Heijou- 
@@ -12902,7 +12647,6 @@ que viu a um raio da lua que secoa\a no postigo d"uma
 
 
 
-230 LIVRO .\EGRO 
 
 porlada. Cada rolo tinha sua marca: cem mil francos: 
 íilulos do Banco iVhujUílcrra. 
@@ -13035,7 +12779,6 @@ horas antes.
 
 
 
-232 LIVRO ^RGRO 
 
 Correram vinle minutos. A pêndula do relógio, na 
 sala próxima, com seu monótono balanço, dir-se-hia o 
@@ -13099,7 +12842,6 @@ ganta^cerra se-lhe como apertada por uma gonilha.
 
 
 
-DE PADRE Dl.NIZ 233 
 
 VOZ rmica, sentando-se d'um salto, sacudida pela ago- 
 nia lacoranle. 
@@ -13154,7 +12896,6 @@ Os lábios fenderam-se em golpes côr de chumbo, ea lin-
 
 
 
-234 Livno NEGRO 
 
 gna que os hiimodccia y)arecôra tocada por um ferro em 
 Ijraza. Já não linliatii brilho os ullios, mas rolavam-se om 
@@ -13264,7 +13005,6 @@ para outro infeliz. Se não fòr eu, quem o consolará ?
 
 
 
-236 LIVRO NKGRO 
 
 «Enganci-me. Quando cedi a uma força, que não 
 era d'esle mundo, que não era minha, e disse a meu es- 
@@ -13374,7 +13114,6 @@ a leitura d'csla caria. Viu mudanças terríveis n"aquclle
 
 
 
-2:}8 L!VI\0 NKGHO 
 
 semblanfe. ínlcrrompeti-se, algumas vezes ; mas um si- 
 gnal (ie siloncio coni o brafo Irenuilo, era a resposta. 
@@ -13497,17 +13236,6 @@ vou.
 «Perdoo... 
 
 «Pordoaes?... a vosso marido ? Preciso ajoelhar-me, 
-
-
-
-240 
-
-
-
-UVnO MÍGRO 
-
-
-
 porque é assim que elle vos manda pedir perdão,.. Diz 
 que vos matara innoceule... 
 
@@ -13629,7 +13357,6 @@ IC
 
 
 
-ÍÍ42 LIVRO M£GP,0 
 
 Voou impellido pela anciã d'uma vingança prompln, 
 porque vingança foi a palavra que elle disse ao ouvido do 
@@ -13737,7 +13464,6 @@ sacões sentimcnlaes.
 
 
 
-241 LIVRO jxr.cno 
 
 «Queria darvos— dise o eslaiajadeiro— o quarto do 
 sobrado que é caiado, mas eslá lá um senhor, que ch(»- 
@@ -13866,7 +13592,6 @@ e se elie ressonar...
 
 
 
-2iG Livno NF.r.Ro 
 
 /'Ide... ide... 
 
@@ -13929,7 +13654,6 @@ caixa de Angouléme...
 
 
 
-DK PADRE DINIZ 247 
 
 «Pois sim... Gsperae... 
 
@@ -13978,7 +13702,6 @@ de costollas no ferro... Um grilo surdo... um segundo
 
 
 
-2'i8 LIVRO iXEr.uo 
 
 grito cortado na garganta pela lamina, e o estertor d'uma 
 agonia silenciosa, e os golpes successivos indistinclamen- 
@@ -14089,7 +13812,6 @@ cousas humanas, e o crime não terá a coragem de te
 
 
 
-250 LIVRO NKGRO 
 
 insultar como inútil juiz que não castigas, se as leis 
 não punem ! 
@@ -14200,7 +13922,6 @@ era Archi medes?
 
 
 
-252 LIVRO NKGRO 
 
 forçado a prestar atlcnção á verbosidade confusa do hcs- 
 pariliol. 
@@ -14306,7 +14027,6 @@ mo-nos aqui.
 
 
 
-^Ol LIVRO NEGIíO 
 
 oQuc importa O nosso encontro? Se é desgraçado, 
 callese com a sua dòr, que a minha não respira. 
@@ -14415,7 +14135,6 @@ sua presença é perigosa a eslc desgraçado...
 
 
 
-251) LI V lio MÍGUO 
 
 Monleznma scniára-so, forçado pelo velho creado. 
 
@@ -14469,7 +14188,6 @@ revellação de parricida no afogo da enibriaguez, nao
 
 
 
-1)K i-AlHiíi UliMZ 257 
 
 comprclieiKlcii esla queixa amarga do parricida conlra 
 a injustiça do seu remorso. Por vcnlura aqnella acciísa- 
@@ -14517,13 +14235,6 @@ liauça enlre o remorso e o perdão. No momento em que
 orava, não sei dizer-lhe o que senti... O anjo da piedade 
 ergueu se entre mim e o tumulo... Parece que uma voz 
 me dizia: «Longa e arrastada será a lua cxiblencia : pro- 
-
-17 
-
-
-
-2o8 LIVRO NEGRO 
-
 varas Iodas as dores ; e esquecerás a lua, tomando sobro 
 teus hombros a cruz dos oulros. Terás o teu calvário, 
 por íim ; mas a tua agonia será serena como a do juslo. 
@@ -14575,7 +14286,6 @@ Acreditei que Deus mandara salval-o^ e afugenteio
 
 
 
-DE PADRE DIMZ 259 
 
 dc mim, querendo impedir Ihea embriaguez, que ore- 
 diizira ao completo marasmo do senlimonlo, ao idiotis- 
@@ -14630,7 +14340,6 @@ xava erguer os olhos para essa mulher, que nunca
 
 
 
-260 LIVRO NRGRO 
 
 penotrou as amarguras do moço de dozoilo annos, cheio 
 de brios, orgulhoso do seu nascinienlo, e obrigado a 
@@ -14687,7 +14396,6 @@ A vingança já não era por allronlas feitas a mini.
 
 
 
-DB PADRE DIDÍZ 261 
 
 Fugi do mosteiro: não assisti aos responsos de Ade- 
 lina... A' hora em que foi sepultada... meu pae tinha 
@@ -14741,7 +14449,6 @@ Chamava-sc de Monl-fort.
 
 
 
-262 LIVRO NEGRO 
 
 «Oiie depois foi diiqne de Clilon no império. Esse 
 liorneni foi assassinado peio supposto amanle de sua mu- 
@@ -14866,7 +14573,6 @@ quez de Luso ?
 
 
 
-2G4 LIVRO NEGRO 
 
 «Não respondo a v. exc."... Não lenho do passado re- 
 cordações nenhumas. 
@@ -14985,7 +14691,6 @@ ge, aquelle pobre tolo que não soube lirar partido ne-
 
 
 
-206 LIVRO Mcr.ra 
 
 iihum dos sonetos. Era iim gosto oiivilo glosar! Tinha 
 absIracçOes assim como as suas; mas, fora d'isso , era 
@@ -15096,7 +14801,6 @@ eu no patoo examinando o meu cavallo baio, e vejo en-
 
 
 
-208 Livno .NF.cno 
 
 Irar uma mulher vestida de nogro, cora uma destas man- 
 tilhas do Porto, que arrepiauí us carnes ao senso-com- 
@@ -15199,7 +14903,6 @@ das existências.
 
 
 
-270 LlVItO MÍGP.O 
 
 Nunca mais em seus lábios passou o sorriso, que pô- 
 de ser, um inslanlc, o esquecimenlo da pena, o allivio 
@@ -15309,17 +15012,6 @@ Perdoa me esta pergunta que eu le faço á minha dór, oh
 illha da minha alma. 
 
 «No momento eiu que uma aíTeição renasça do pó 
-
-
-
-97-> 
-
-
-
-Liviu) .\R(;no 
-
-
-
 d'esto cadáver, que se rrivove em coníiirsões de desespero, 
 eu verei na mulher, que me ressiiscilar, a ujullier que 
 vem vingar-le. Branca ! 
@@ -15421,10 +15113,6 @@ piravam simultaneamente a Uns diversos setn se contra-
 riarem. 
 
 18 
-
-
-
-274 LI VIU) .\ KG lio 
 
 Cecília amava o filho friim judeu opulento. Azarias 
 Pereira era imi bello liomeai. um dissipador elegante, 
@@ -15535,7 +15223,6 @@ de justo?
 
 
 
-27G Livno NKc.iiO 
 
 «Diz o que lo approiivor ; mas aconscllia essa senho- 
 ra que receba as roíiíidencias, e que se eallc com ell.is. 
@@ -15593,7 +15280,6 @@ não der a (ilha, que heide eu fazer?
 
 
 
-DE PADRE niMZ 277 
 
 tDizos bem : era uma infâmia, e o povo de Lisboa era 
 capaz de ergnor-se contra a raça israulila, como aconle- 
@@ -15647,7 +15333,6 @@ sé 1." de bronze. Queria dizer-le, sem enfaluau)ciilo, que
 
 
 
-278 LIVRO NRGRO 
 
 vacs vêr uma mulher que tem por mim a paixão mais dou- 
 dii, mais arrojada, mais impetuosa, que imaginar se pôde, 
@@ -15700,7 +15385,6 @@ dc I rancisquinha ser o que tu não foste paru mim, Ceei-
 
 
 
-T)R PADRE DINIZ 279 
 
 lia? Eu tive de amollecor com lagrimas a dureza do li'u 
 seio ; ainda hoje me custam lioras de soíTrimenlo um leu 
@@ -15761,7 +15445,6 @@ novellas, pela vocação que te sinto para o phanlaslico.
 
 
 
-280 LIVRO NEGP.O 
 
 Valladares voltava com a chronica sobraçada, excla- 
 mando, com os óculos montados na ponta li'iangiilar do 
@@ -15879,7 +15562,6 @@ c já isto uma sympalbia?
 
 
 
-282 LIVRO .xF.r.RO 
 
 «E' uma virlude... é o perfume da piedade... V, 
 Exo.', que tem uma dòr sem motivos, aprendeu a co- 
@@ -15984,7 +15666,6 @@ que desde os doze ânuos sentiu crescer em si o vago de-
 
 
 
-2SÍ LlVnO NFJIRO 
 
 sejo de abandonar o mundo. Quando tive nso de razão, 
 vi que o íiiosleiío, e o mosleiro sem fauslo, era um logar 
@@ -16084,7 +15765,6 @@ pálpebras uào descahcui sobre us olhos que se apasccn-
 
 
 
-286 i.iVRO NKGno 
 
 Iam nobello : o ideal, que se annnvia em remotas regimes, 
 rasga iim dia a fanlaslica morlalha. e caminha dianle do 
@@ -16198,7 +15878,6 @@ tre aqucllcs que eu não quero que escolha.
 
 
 
-288 Mvr.o .NF.cno 
 
 «Eu não escolhi ninguém, meu pae. 
 
@@ -16309,7 +15988,6 @@ coração?» escrevia elle.
 
 
 
-290 LIVRO NEGRO 
 
 o Que lhe parece o acontecimento de Cecília? — por- 
 gunloulhe Francisca. 
@@ -16433,7 +16111,6 @@ go nesta tolice?
 
 
 
-292 Liviu) NKr.iio 
 
 «Não Icm resposta a pcrfíunta, meu pae. Não sei o 
 que lem, sei que o amo, que heide amal-o sempre, aqui, 
@@ -16547,7 +16224,6 @@ ceu-rae!... Elle ahi vem, arrancando a lillia c a vida a
 
 
 
-294 MVRO .\KGRO 
 
 uni vclhOj e ouro com infâmia a uma pobre mulher, 
 que o amava. 
@@ -16662,7 +16338,6 @@ infeliz se creasse uma esperança, que devera ser, de-
 
 
 
-21)G i.iVKO M;r.RO 
 
 pois, o sen tormento, morta ella. E morrera bem ceda: 
 o ainor de Francisca Valladares fôrallie uma engodo, a 
@@ -16764,13 +16439,6 @@ tenninhas do seu passado, que ella lhes contava sem quei-
 xume, nem lagrimas, iíram a i)relada, e soror Adelaide. 
 Esta, mais que a outra, lhe soubera a vida, porque 
 também a conhecera no mundo, e de lá viera para o 
-
-
-
-298 LlVllO MÍGI50 
-
-« 
-
 claustro, aos empiichões da tyrannia paternal, qiic a sa- 
 crilicoii ás conveniências <]p partilhas. 
 
@@ -16879,1237 +16547,3 @@ falso.
 
 FIM. 
 
-
-
-LIVRARIA DE CAMPOS JÚNIOR 
-
-LISBOA— 77, RUA AUGUSTA, 81— LISBOA 
-
-"NVí-U ee.Uv\)cVtc.\"(\uu\,o \\a um \iax\Q,»i.o ?'.o\Vvv\\(i,u\.o vVt L\>avos A.t "!íi\.\s?.a 
-fc Stwxaua SauVa, Lawos àe, («■\uAo, Y\Ow\autes , \)V0L\was , Cowuàvas, 
-Stfcwcií. C.o\w\t(v%, \^\\o\.ov^Ti.v\>\v\as, xXsUvs waàowacà t eí.\.vawtjmas, 
-
-= ComY^a-èt Vo^J.a a í\\vaV\àaiJ.6 íte.Vxxxoè, e, muwvVie-sí, àc (\M.a\í\utv 
-tutom\svn\(5ia. 
-Caiuillo CaMtello Branco 
-
-Memorias deGuillieriiie do Ama- 
-ral 600 
-
-O Esqueleto oOU 
-
-A Oueda d' um anjo 500 
-
-D Olho de vidro oOO 
-
-Cavar eui minas 500 
-
-Agulha em palheiro 500 
-
-Amor de perdição 500 
-
-Amor de salvação 500 
-
-3oze casamentos felizes 500 
-
-Estreitas funestas aOU 
-
-Estrollas propicias 400 
-
-VIemorias do cárcere, 2 vol... 800 
-
-As Três irmans 500 
-
-t{omance de um liomiMu rico. . 500 
-
-?so Boui Jesus do Monte 500 
-
-Esboços de apreciações littera- 
-rias : 500 
-
-A Sereia 500 
-
-Llm livro 500 
-
-[) Judeu. 2 vol 1000 
-
-Aonos de prosa 50U 
-
-Divindade de Jesus (ÍOO 
-
-Vaidades irritadas e irritantes. . 200 
-
-Horas de paz, escriptos religio- 
-sos 1000 
-
-l,UÍK Ausiioto Clebcilo cia .«iilva 
-
-A Mocidade de D. João \,',\ vol. . 1500 
-A Fadac. ia 160 
-
-J. de Andrade Corvo 
-
-Um anuo na corte, 3 vol 1500 
-
-Um conto ao serão, c. 3 a 200 
-
-O Alliciador, d. 3 a 210 
-
-
-
-O Astrólogo, d. 5 a 300 
-
-Theophilo Uraga 
-
-Tempestades souoras 500 
-
-Poesia do direito 500 
-
-Ondina do lago 500 
-
-A. P. Forjaz de Sampaio 
-
-O Bussaco e a Serra da Louzã.. 500 
-
-.11. Pinheiro ChugaM 
-
-Ensaios críticos 500 
-
-Contos e descri peões 200 
-
-Fr. F. doN I*razerc!« Maranhão 
-(O Flaviensej 
-
-Diccionario geographico de Por- 
-tugal e suas possessões 800 
-
-Arnaldo Gama 
-
-O filho do Baldaia •.... 600 
-
-Verdades e licções, 2 vol 1000 
-
-Poesias e contos 500 
-
-<V. Ci. Ij. da Camará Viuvai 
-
-Sermões 1000 
-
-F. í^oare.t Franco Júnior 
-
-O Pregador Catholico 1000 
-
-Joa<]nii:i José Aunuya 
-
-Segredo da confissão, romance. 200 
-Uma noitedemartyrio, romance. 120 
-
-A Promessa, romance 160 
-
-O Jogo, romance 120 
-
-illusões o dores, romance 120 
-
-A Vida de um rapaz pobre d . 5 a . 300 
-Um naufrágio nas costas da Bre 
-tanlia, d. 4 a 
-
-
-
-Jlatheus o braço de ferro c. 2 a. 
-Uma lição aos maridos, c. 1 a. 
-
-Um criado amo, c la 
-
-Ha de servir-me a lição, c. 1 a. 
-
-
-
-mi 
-
-200 
-160 
-160 
-160 
-
-
-
-Os eíToilos (lo prego, c. 1 a . . . 160 
-
-(^oiilus d(! iiiiiili:\ lavra .']0() 
-
-Primaveras de (>iiitra 200 
-
-(llorias do traballio, d. 3 a ."iOO 
-
-Abençoados infortúnios, d. 3 a. . 210 
-
-Malditas cartas, c. la 120 
-
-Consequências de uuia inicial, 
-
-cia 120 
-
-Monginiouodódepeito, c.2 a.. 200 
-
-Eugestio de ^çais-eoaíirt 
-
-Os Verdadeiros Miseráveis, ro- 
-mance, 2 vol 1000 
-
-André o feiticeiro, roniauce . . . 360 
-Teixfira <3c ^'MSfOHcellos 
-
-O Piato d'arroz doce, romance 400 
-
-O Sampayo da Revolução 120 
-
-A Fundaeao da Monarchia. . . . 200 
-
-Carta pliilosnpliica e critica . . . 100 
-
-Cale ou a fundação da cidade 
-do Porto, pueina 400 
-
-Obras completas, 3 vol 1800 
-
-<S. A. <Se I93aoi(*do 
-
-Obras completas, 6 vol 1600 
-
-O oriente, poema 600 
-
-Eiuilão Souve.«tti*c 
-
-Um Pbilosopbo nas a^nias far- 
-tadas, romance oOO 
-
-As Três F.ofnas, 7 vol 1680 
-
-Resumo do Cathecismo da per- 
-severança, 2 vol 600 
-
-O Verme roedor das socieda- 
-des niodei'nas 360 
-
-«io^é Urnx 
-
-Pensamentos sobre o christia- 
-nismo 600 
-
-MSs&rão de EEuH^siich 
-
-A Morai universal, ou os deve- 
-res do Lomeni fuiidados cm 
-sua natureza, 3 vol 720 
-
-Systenia social, ou princípios 
-"naturaes de moral e politica. 1)60 
-
-
-
-Pinto il/A^Iiueidn 
-
-Estudos sobre a Vida de Jesus 
-de Uenan COO 
-
-V. Aiuorira Viaiiiia 
-
-Defeza do racionalismo ou ana- 
-lyse da fé 1000 
-
-J\.. .'?KHdroIEt> 
-
-O Padre perante o século, ver- 
-dadeira liistoria universal do 
-catliolicismo 500 
-
-S»rt€!re (i-yv 
-
-A Franc-maçoneria em si mes- 
-ma e em suas relaç(5es com 
-as outras sociedades secretas 
-da Europa. 2 vol 1000 
-
-Rosei Sy de BiOrjçiiefi 
-
-A Cruz nos dois mundos ou a 
-
-cbave da sciencia, 2 vol ... . SOO 
-Jesus Cbristo perante o século. 600 
-O Meslre-escola, rom. religioso. 500 
-
-Alexnnelre Duniu.s 
-
-A Casa de gelo, 3 vol 800 
-
-Historia do reinado de Luiz xvi 
-e deíMaria Antonieta, roman- 
-ce bistorico, 6 vol. com bo- 
-nitas estampas 2400 
-
-Os Três Jlosqueteiros, romance, 
-
-4 vol. com estampas 1600 
-
-A Regência e Luiz xv, ronuiuce 
-
-bistorico, 4 vol. com est.. . . 1440 
-Jorge ou o capitão dos piratas, 
-romance marítimo, 2 vol. com 
-
-estampas 960 
-
-A Dama das pérolas, 3 vol 800 
-
-Catliarnia Rlum, 2 vol 640 
-
-Deus dispõe, romance, 3 vol. 
-
-com estampas 1800 
-
-A Furna do inferno, romance 
-
-com estampas 600 
-
-Meniiiriasdeumafavorita, 2 vol. 800 i 
-A San Felice, i'omance em 3 vol. 2400 
-O Pirata Trelawnav, romance, 
-
-2 vol .' 1100 
-
-Angelo Pitou, romance, 4 vol.. 1000 
-Joanna de -Nápoles, 2 vol 600 
-
-
-
-Três homons forto?, romance.. .'jOO 
-
-Alexandre Ilemilitno 
-
-Ao Partido lilioral portuguez.. 100 
-Voltaire 
-
-Cândido ou o optimismo, ou 
-o j)lii!osoplio enforcado em 
-Lisl)oa pi'los inquisidores e 
-ap[)arecen(io (le[)ois em Cons- 
-tantinopla nas líalés 320 
-
-Evrard, ou o beneficio inespe- 
-rado — Os Cegos juizes das 
-cores — O Branco e o preto. . iOO 
-
-Cartas indianas, ou corresfinn- 
-dencia entre AmaLed, Adaté, 
-e o grão lírama Shastazid, 
-ou a traição dos inquisido- 
-res descoberta 210 
-
-Micrómegas ou o liomem de 
-oito léguas de altura, liisto- 
-ria plnlosophica 80 
-
-Zadig, ou o destino ; historia 
-oriental 210 
-
-Ingénuo ou o selvagem civili- 
-sado 210 
-
-Historia de Jenny ou o Atheu 
-e o Sábio 210 
-
-A Princeza da Cabylonia a cor- 
-rer o mundo em procura do 
-
-seu amante, romance 210 
-
-Victor Ha^o 
-
-Bug-Jargal, romance histórico. 280 
-
-Ruy Braz, d. 5 a 240 
-
-Mr. .^loke 
-
-A Batalha de ^savarino ou o 
-renegado 200 
-
-César 4'nntu 
-
-O Bom menino, cuntos moraes 
-de um professor a seus dis- 
-cípulos 210 
-
-<$ctavin B<Viiiilet 
-
-A condcssinlia. romancf 100 
-
-Juào IPe«lfo í!e VntorSiti 
-
-Diccionario de mariniia 100 
-
-O.e E&oy 
-
-.Medicina curativa, ou inclho- 
-do purganío GOU 
-
-
-
-Kduardo Coelho 
-
-Revelações, poesias 120 
-
-Vida de um príncipe, estudo 
-romântico histórico 300 
-
-E}oiiiin;;«>.>!> nodri;;iie!4 
-
-Arte de cozinha, que ensina a 
-fazer vários gnizados de todo 
-o generu de carnes, e conservas, 
-tortas, empadas, pasteis, pei- 
-xes, mariscos, fructos, her- 
-vas, ovos, lacticínios, doces, 
-conservas, [)udins, nias.sas, 
-etc. ; ensina a preparar me- 
-sas em todo o tempo do an- 
-rio; é, n'uina palavra, a obra 
-mais completa n'este género. 210 
-
-AlE)erto Btlunqiiot 
-
-O Rei d'Italia, romance, 2 vol. 
-com estampas 1000 
-
-O Assassino ou a torre e a ca- 
-pella, 2 vol. com estampas.. tíOO 
-
-Paulo Féval 
-
-Duas mulheies do rei, com est. G(J(J 
-A Floresta di' Rennes, ou o Lo- 
-bo branco, romance SOO 
-
-Um drama da regência, roman- 
-ce traduzido por Pinheiro 
-Chagas 9G0 
-
-lEabli 
-
-Direitos e deveres do cidadão. . 320 
-
-Volney 
-
-Calhocjsmo da lei natiu'al ou 
-principies physicos da moral 
-deduzidos da organisação do 
-homem e do universo 120 
-
-•9. .'«S. E*. Uuerra 
-
-Vida de Heloisa e Abailard com 
-
-as cartas amorosas 240 
-
-.1.. A. Guerreira de JfleUo 
-
-Theoria do direito hypotheca- 
-rio e do registro predial . . . .1000 
-
-n. J. Ci. de .^Sa^ailiàoM 
-
-Suspiros poéticos o saudades. . . .800 
-
-i:>-iiC!>to nciían 
-
-Vida de Jesus, com notas 800 
-
-
-
-<'notaiio 1j. <Ie Moura 
-
-Historia de Napoleão Bona|)af- 
-te, desde o seu nnsciínenfo 
-alé á sua morte; obj-a extraí- 
-da dos melhores aiitliores e 
-especialmente ilas obras de 
-Mr. Tliiers, ornada de 12 es- 
-tampas e do retrato de Na- 
-poleão, 2 vol 500 
-
-A. Urjatry 
-
-Mez de Maria, vertido em lin- 
-giiíigeiii 240 
-
-Historia da vida de Nosso Se- 
-nlior Jesus Cliristd, 2 vol . . . 1'iíO 
-
-.ta A. «le iSSattoM 
-
-Encyclopedia das arfes, con- 
-tendo 1318 receitas, utilíssi- 
-mas aos artistas c famílias. . . 600 
-Abb. de I^a ]faeiinais 
-
-O Livro do povo 200 
-
-Palavras de um crente, ou es- 
-cudo contra abusos religio- 
-sos e políticos 240 
-
-ItSartguoz clAc^en.** 
-
-Aventuras de uma joven, ou 
-o cavalheiro tingido 200 
-
-Mr. dv B-ar .. Eliibert 
-
-O Castelio de Tyrol, ou a famí- 
-lia Reiíneville, romance, 2vol.. 500 
-CheliitSk e Vartilatiii^cn 
-
-ChnrngraphiaCabo-verdiana, OU 
-descripção geographico- his- 
-tórica da província das ilhas 
-di; Calio Verde e Guiné, 2vol. . 1440 
-
-•Boào iSap(i.*((a E.ucio 
-
-Pequena collecção de receitas 
-e segredos particulares 120 
-
-Ma<Saiiii> &>apliei9 
-
-Elisa d'Alhouil, ou os dois i-e- 
-tralos, romance, 2 vol COO 
-
-.í. M. «!o C»Mta e Silva 
-
-Emília c Lconído, ou os aman- 
-lessuevos, poema em lOcanf.. oOO 
-
-O Espectro ou a Iiaroneza de 
-Gaia, poema 500, 
-
-
-
-Vi.seondo tlArlinconrt 
-
-Ernesto d'Angers, conde de'" 
-ou o grnade amigo, 2 vol... 600 
-l*ercira Rodrigues 
-
-Eíisaíos litterarios 400 
-
-Apoloiiio niiodio 
-Os Argonautas, poema tradu- 
-zido por J. M. da Costa e S.». 480 
-
-M. .losé da Fon.NCca 
-
-Exame de Sangradores, em fór- 
-
-rna de dialogo 120 
-
-Pedro ^.Dconc 
-
-Gabríeila de Longueville, ro- 
-mance, 2 vol 400 
-
-Aitieilee de Hast 
-
-A Galera do Senhor de Vivo- 
-ne, romance 120 
-
-Maauei de I^eanos 
-
-Guia Luso-brazileira do via- 
-jante na Europa, ene 1740 
-
-Mr. Reiieville 
-
-O Heroísmo de Amor, roman- 
-ce, 2 vol 600 
-
-Mr. de «luíisicn 
-
-Historia de Simão de Nantua, 
-ou o mercador de feiras; ene. . 300 
-
-Alexandre lie l^avergue 
-
-Innocente e culpado, ou o se- 
-gundo íilho de uma família, 
-romance, 2 vol •. . 640 
-
-Masiuel íãonçalvcs 
-
-Os Irmãos da (>osta, romance, 
-2 vol COO 
-
-F. t>. (ãuerrnKKi 
-
-IzabellaOrsíni, duquoza dcBrac- 
-ciano. romance 400 
-
-Miss. a':«llí;e-'%Vortli 
-
-Livro das familias, com est 320 
-
-.•«cdillot 
-
-Manual couípleto de medicina 
-legal 1200 
-
-l*aiilÍEa .'^'iSioyet 
-
-Os Mundos novos, viagem ane- 
-cilotica ao Oceano Pacilico . . 600 
-,t. Eí. íSodrã^ucf^ <!a Coí^tta 
-
-Noute de inverno divertida, ou 
-variedades jocosas 400 
-
-
-
-<^n»<(ie;lia 
-
-Lamoricierc, Pio ix e Antonel- 
-
-li, romance ; . . 400 
-
-(■oincM I^(Mireiro 
-
-Memorias dos estabelecimentos 
-portuguezes a leste ilo cabo 
-da Boa Esperança 800 
-
-Metamorplioses da nuillicr ou 
-a conquista de umaagua-fur- 
-tada, romance 210 
-
-Picciola, romance 500 
-
-Paiiio I.arroix 
-
-Os Perigos da festa de S. Bar- 
-tliolomeu em 1573, romance. 200 
-
-Autouio de .«ieriia 
-
-Poesias 500 
-
-.4iiKii.<«to iSariiicnto 
-
-Providencia, romance original. 600 
-Beiijainiiii <âasfiiionu 
-
-O Reinado de Satauaz, ou os 
-ricos e os pobres 300 
-
-Como acabam os pobres, eslu- 
-do social 120 
-
-Itlli*. CliateaiiBiriaiid 
-
-René, romance sentimental . . . 120 
-
-I.eclerc 
-
-Ricardo ou a dedicação á. famí- 
-lia dos Stuarls, romance his- 
-tórico, 2 vol 600 
-
-B"'re€lerleo de í^czaiinr 
-
-Rouget de L'isle c a niarseilie- 
-za, romance 160 
-
-nii*. .T>IaiMlt>ll(> 
-
-As Ruinas de Rotliembourg, 2 
-vol. com uma estatnpa 6i0 
-
-o. %. ^oaros llravo 
-
-Sceplro e punhal, romance . . . 240 
-
-Iteriiiii-diíio Pinheiro 
-
-Sombras e luz, romance 500 
-
-ryriacu da .•«ilva 
-
-Tratado de economia politica. . 240 
-
-.'Ineelot 
-
-Uma falta irreparável, romance. 200 
-Emcrancc, i'omauc(í, 2 vol. . . . 800 
-
-B/lioiiioiid 
-
-Misloria abreviada da igreja. . . 500 
-
-
-
-Férrea Arasã» 
-
-Virgínia, Allbnso e Coriíia, o^u 
-o mais nobre sacrilicio do 
-coraçáo de duas virgens, ro- 
-mance histórico orig. 2 vol. 
-
-com estampas -^"O 
-
-.%iiK(i.<«(o liafontaiiie 
-
-Welf- ÍUido ou os aeronautas, 
-romance. 2 vol 720 
-
-I*a«iio Mn.x.net 
-
-Os amoi-es da duqueza di^ Ber- 
-rv, ou as mulheres da re- 
-gencia • -^^ 
-
-Oetavio a''eré 
-
-Aventuras de João o salteador, 
-2 vol. com estampas 800 
-
-Pedro Diniar. 
-
-O Livro de ouro para uso das 
-casas de educação 160 
-
-RiiSeiiio Sue 
-
-Os Filhos- familias, rom. 3 vol. 1200 
-
-Plik e Plok, romance 360 
-
-Malhilde ou memorias de uma 
-
-joven, romance, 8 vol 2880 
-
-Hercules valente, romance 600 
-
-.1. fliiiieii Jordào 
-
-Elementos da riqueza publica. 400 
-
-H. de Knek. 
-
-Os amantes da minha amante, 
-
-romance com estampas 400 
-
-Walter Scott 
-
-A Desposada de Lammermoor, 
-romance, 3 vol í^^'0 
-
-O Lord das ilhas 240 
-
-Waverley, romance, 4 vol 1000 
-
-:ilitdanie de Moíitoliea 
-
-As Doze novellas, 4 vol 960 
-
-Alfredo EloKttn 
-
-Marco Tullio, ou o agente dos 
-jesnitas, roniance histórico, 
-4 vol. com estampas 1200 
-
-Pedinte de Lisboa, ou memo- 
-rias de uma nuilhcr, roman- 
-ce, 2 vol. com estampas. . . . .600 
-
-llullirio Pato 
-
-Versos, edição iiiUda 800 
-
-
-
-^'-itailor, liailuziílo em [lorta- 
-guoz por um emiirnulo. ^vol. . 600 
-
-VIuiiocl «durico Meinlfs 
-
-I'^n<'id,t liraziliMra. ou tradiicção 
-poftica da Epopéa de Publio 
-Virgílio :\Iaro 800 
-
-() Conselheiro d"estado, roniaii- 
-n;, .> vol 1)60 
-
-O Casfello dos Pyritieos, ro- 
-mance, 4 vol 1200 
-
-A!{-xn!t<Ire niiiiisiM (rilho) 
-
-A Dama das camélias, roman- 
-ce 2. vol. com estampas. . . 600 
-
-Aventuras do quatro mulheres 
-e uni papagaio, 3 vol. com 
-estampas 900 
-
-O Premio dos pomljos, com es- 
-tampas 120 
-
-I*oii.soii (III 'ffcrrail 
-
-O Diamante do commendador, 
-
-
-
-romance, 2 vol< 
-
-
-
-800 
-000 
-
-
-
-O Pagem de Luiz xiv, romance, 
-2 vol 
-
-.'flr. DOiuiPiDiiiicl 
-
-Esaú o leproso, roíuaiuN" his- 
-tórico i vol. com eslampaslOOO 
-l"ar!o.si 5H:itífui-3 
-
-Manual de telegraphia elecírica 
-
-com 3o estampas 1440 
-
-liOiívet (!c C«Mvrny 
-jlemorias do Cavalheiro de 
-Fauhlas, 8 v. com estampas;}200 
-•So.<«ú Igitacio <9e .Iki-aiijo 
-
-Poesias 600 
-
-Mi: E>nctc':'il<- 
-
-Iloldare o trihanal mysterinso 
-ou o trinmpho tia liberdatle, 
-romance 2 vi>l ;)6i) 
-
-liKOEiio S*i'rt'ii'a «Ic B''Is>»<'is't'«lo 
-
-A líihlia sagrada, conleinlo o 
-velho e novo testamento. . .1200 
-lEfifn Araiilin 
-
-Lendas, tradições c contos Iies- 
-panlioes,2 vol 1000 
-
-
-
-:iBery 
-
-Myslerios do Paris subterrânea, 
-
-romance 600 
-
-André Chenier, romance 000 
-
-Itr. liiiiihrritic <'ciitaz7.i 
-
-Flygiene e medicina popular. . . oOO 
-O Estudante de Coinilua, ou 
-relâmpago da historia portu- 
-gueza, rom. Iiistorico 3 vol. 800 
-Recreios poéticos 400 
-
-<'laii(iio dv riiaiiy 
-
-Excerptos históricos, e collec- 
-çâo de documentos relativos 
-á guerra denominada da pe- 
-nínsula 1500 
-
-Jacoh Bloii.xaliat 
-
-Grammalica ingleza theorica e 
-pratica approvada pelo con- 
-sellio geral d'instruccão pu- 
-blica .* iOOO 
-
-Itai-riinrho alv Xtí^w-Ao 
-
-Xoções elementares sobre o le- 
-vantamento das plantas topo- 
-graphicas 300 
-
-.'95aiiOi>I (Io Sltalty 
-
-Mappa da coiíiparação dos pe- 
-zos e medidas antigas com o 
-systema métrico decimal e 
-více-versa 200 
-
-Taboada do novo syslenia legal 
-de pesos e medidas, com es- 
-tampas 100 
-
-Caries .«àíUa 
-
-O Preceptor da iníancia ou re- 
-gras de civilidade 100 
-
-O Paleograplio em escala cali- 
-grapliica para se aprender a 
-leiíura manuscripla 200 
-
-.ISarí iisSin do \oii'lio(i 
-
-Bíblia da mocidade, traduzida 
-por S. L Hibeiro de Sá 240 
-
-ES(>s'KO.s í'«raoiro 
-
-O Mentor da mocidade 480 
-
-l''OI'JMX 
-
-Aríthmelica da iníancia 120 
-
-(irammatica da iníancia 120 
-
-
-
-o Amigo dos ipcninos 200 
-
-IlCZOIlt 
-
-Elciiioiitos de Arilliiuelica, ene. f)20 
-
-l.aliiio <'4>cllio 
-
-Curso de iiilroducçâo á historia 
-natural dos trcs reinos i20 
-
-.18 a-. 'B'illo 
-
-Tratado dos priíicipios de Ari- 
-llnnetica, sej,'Undo o inetliodo 
-de 1'estalozzi, traduzida por 
-José Ramos Paz, adoptada na 
-escola normal 240 
-
-.%. t\ B''9'Itll(.*W «li' <'».sdi*» 
-
-D. Alvar de Zunii;a, romance. SOO 
-
-Noites portugnezas 500 
-
-Júlia, (ui recordações da Ilha da 
-Madeira, romance 300 
-
-CltarlcM Ittvsly.x 
-
-A Noiva da Morte, romance, 
-
-2 vol 600 
-
-Pervenclie, romance 120 
-
-?Qkaviii>f <!(> .tloiitoiííii 
-
-A Fandiia Yauharon, romance, 
-',] vol. com estampas 1500 
-
-Os Mysterios do Palais Royal, 
-romance 2 vol 1500 
-
-IO. 4'aiioit(9)i 
-
-A Filha do Prehosfe de Paris, 
-romance, 4 vol. com estampas2000 
-
-O Soberano pontilice 400 
-
-Jesus (lliristo, considerações fa- 
-miliares * 240 
-
-Respostas concisas e íamiliares 
-ás ohjeções mais vulgares con- 
-tra a religião 200 
-
-O Papa e a Egreja 120 
-
-ll*a(il» «li> B4.oel4. 
-
-O (ialuclio, romance, 2 vol. com 
-estampas 800 
-
-A Menina do quinto andar, ro- 
-mance, 2 vol. com estampaslOOO 
-
-O Senhor (^hi'rami, romance, 2 
-vol. com estampas 900 
-
-O Senhor Choublanc, romance 
-oi-n;ulo de estampas 450 
-
-
-
-l<\ \ «r.llnieid» 
-Lusiadas do século xix 500 
-
-B''4-'iTi-ig-a «la <'4»i(ii 
-
-Catliecismo politico do cidadão 
-poilugiiez 240 
-
-.\. n. !Havsii\st 
-
-Saraiva e Castilho a [)roposilo 
-de Ovidio com dois retratos. 1000 
-
-Systema de instruccão para a 
-inlanleria ' 1200 
-
-.tHíSnule'"" 
-
-O Je.->uila COO 
-
-Acasos da fortuna, ou livro de 
-.sortes divertidas 120 
-
-AíTonso de Lodeve, romance 2 
-vol COO 
-
-Alfandega papal, laxas dassnas 
-])artes cazuaes 400 
-
-Almanak do aiíricultor e viidia- 
-teiro ' 240 
-
-Alphaheto da malicia das mu- 
-lheres, seus ardis e caprichos 2'iO 
-
-Alvoradas, poesias por Aiexaii- 
-die da Conceição ."íOO 
-
-Amanda e Oscar, romance... 500 
-
-Amor (O) as mulheres e o nia- 
-Irimonio 800 
-
-Amores (Os) de Napoleão, ro- 
-manec, com eshimpas 480 
-
-O Anjo da Itália em Portugal. lOO, 
-
-A aristocracia ou a fidalguia de 
-nascimento, inconveniência 
-da transmissão 100 
-
-Arte d(^ cultivar a seda por Tl- 
-nelli 200 
-
-Alheo (O) romance, por M.""' 
-Sophia Panmer, 1» vol 1000 
-
-Atraz da noiva romance ori- 
-ginal contemporâneo, 2 vol. 720 
-
-Bihliothecamilitarpara instruc- 
-çãn dos olliciaes infeiiores 
-do exercito 120 
-
-Bihliniheca riH'reaíiva, conten- 
-do O romances (iOO 
-
-
-
-Bom negvo Adónis e Zerbina. . 240 
-
-Biographia de António Bernar- 
-do da Costa Cabral, (conde do 
-Thomar) 120 
-
-Cal)ana (A) do Tio Tlioinaz, ro- 
-mance, 400 
-
-Caçadores (Os) de cabclleiras, 
-romance, o voi 1000 
-
-Carlos Bariniore e JNeseida, ou 
-o excesso do ciunie, romance 240 
-
-Carta de escravidão, contendo 
-o nietbodo de ouvir missa. 
-ene 300 
-
-Casa (A) phenicia, romance. . . 100 
-
-Castello (O) de Otranto, ro- 
-mance 140 
-
-Collecçfio ou manual de recei- 
-tas fáceis 80 
-
-Castigo (O) da adultera, ro- 
-mance 200 
-
-Celestina e Cherubini, romance 120 
-
-Cliristão devoto, contendo mis- 
-sa, confissão e semana santa 
-ene 300 
-
-Cidadão lusitano ou os deve- 
-res do cidadão constitucional 300 
-
-Collecção de constituições 4 vol 900 
-
-Collecção de poesias de Casti- 
-llio, Lemos, Serpa, M. Leal, 100 
-
-Conlissões de um Boliemio, ro- 
-mance 2 vol 500 
-
-Constância feminina, romance 120 
-
-Contos sem nome, romances.. 240 
-
-Coronel ou o Pae culpado, ro- 
-mance 160 
-
-Czarewitz (O) ('onsfantino e 
-.loanninha Grud/.inska ou os 
-Jacobinos polacos, romance 
-bistorico por J. Czvnski, 2 
-vol ; 000 
-
-Diccionario liberal de nl.içibeira 240 
-
-Dois anniversarios, romance, 
-por Luiz Guedes Coutinho 
-Garrido 240 
-
-Donzella de Malines, romance 140 
-
-
-
-Eduardo e Maria, romance... 320 
-Encycíopedi a histórica. politica, 
-
-geograohica e commercial. . COO 
-Encyclopedia Industrial, ou ar- 
-te de ganhar a vida, por Mos- 
-sé, traduccã(j de M. J. da 
-
-Silva Porto 600 
-
-Entretenimentos de um solda- 
-do velho, por C. Soares 200 
-
-Estandarte da resistência legal 120 
-Estrella brilhanle, romance por 
-
-Eduardo de Faria, 2 vol. . . 600 
-Florina ou a bella italiana 1 v. 240 
-Fraquezas de uma joven,ou me- 
-morias de M.»"^ de Vilfranc. 200 
-Grammatica latina, de António 
-
-Fehx Mendes, ene 240 
-
-Grammatica latina, de António 
-
-Pereira 200 
-
-Grammatica latina, por Diogo 
-
-de Menezes 300 
-
-Guia do criado de servir 80 
-
-Historia de meninos para quem 
-
-não fór creança, 2.* edição. 400 
-Historia do naufrágio e capli- 
-
-veiro de mr. Brisson 240 
-
-Homem peccador convertido.. 400 
-Horas d'ocio por Marcelliiio de 
-
-Mattos 240 
-
-Ingénuo (O) romance por Ques- 
-
-nel 240 
-
-Jesus Christo em lace do mun- 
-do, por J. J. d'Almeida Bra- 
-ga 200 
-
-Joven aldeã, romance 120 
-
-Justa acclamação de D. João 4." 600 
-L'Echo de la guerre, par Léou- 
-zun le Duc, contendo mui- 
-tos retratos e mappas folio . . 200 
-Leituras de economia politica. 400 
-Lição e recreio, contos mo- 
-
-raes 300 
-
-Liebman, anedocta allemã 120 
-
-Lionello ou as sociedades da Itá- 
-lia, romance 2 vol 1440 
-
-
-
-
-rti.-í^í^iíeir^Víi 
-
-
-
-i^M 
-
-
-
-teS93 
-
-
-
-PQ Castello Branco,Camillo 
-
-9261 Livro negro de padre Diniz 
-
-C3L$5 2. ed. 
-
-1863 
-
-
-
-PLEASE DO NOT REMOVE 
-CARDS OR SLIPS FROM THIS POCKET 
-
-UNIVERSITY OF TORONTO LIBRARY 
-
-
-
-
-wms^^^^^siSÊi^.^,.^^ 
-
-
-
-weava logo
-Drop here!
