@@ -10,4 +10,4 @@ p1:
 
 p2:
 ## Calcular entidades; selecionar as 20 mais oco
-	python getNP-oco.py -n $N AP.tag > AP20.csv
+	python getNP-oco.py -n $N AP.tag > AP$N.csv
